@@ -1,0 +1,269 @@
+---
+name: City of Brisbane
+tags: [LGA, local, South East Queensland]
+people:
+  - name: Graham Quirk
+    role: Lord Mayor
+    title: The Right Honourable
+    salutation: My dear Lord Mayor
+    post: Office of the Lord Mayor, GPO Box 2287, Brisbane Qld 4001
+    phone: 07 3403 4400
+    fax: 07 3403 9930
+partitions:
+  - name: Bracken Ridge
+    type: Ward
+    people:
+      - name: Amanda Cooper
+        role: Councillor
+        postal: Cnr Bracken and Barrett Streets, Bracken Ridge Qld 4017
+        phone: 07 3667 6000
+        fax: 07 3667 6005
+        email: brackenridge.ward@ecn.net.au
+        web: www.amandacooper.com.au
+  - name: Central
+    type: Ward
+    people:
+      - name: Vicki Howard
+        role: Councillor
+        postal: Shop 11, 31 Duncan Street, Fortitude Valley Qld 4006
+        phone: 07 3403 0254
+        fax: 07 3403 0256
+        email: central.ward@ecn.net.au
+  - name: Chandler
+    type: Ward
+    people:
+      - name: Adrian Schrinner
+        role: Councillor
+        postal: Shop 8, Millennium Centre, 14 Millennium Boulevard, Carindale Qld 4152 
+        phone: 07 3407 1400
+        fax: 07 3407 1891
+        email: chandler.ward@ecn.net.au
+        web: www.adrianschrinner.com.au
+  - name: Deagon
+    type: Ward
+    people:
+      - name: Victoria Newton
+        role: Councillor
+        postal: Cliff Street, Sandgate Qld 4017
+        Phone:  07 3667 6011
+        Fax:  07 3667 6016
+        Email:  deagon.ward@ecn.net.au
+        Website: www.victorianewton.com.au
+  - name: Doboy
+    type: Ward
+    people:
+      - name: Ryan Murphy
+        role: Councillor
+        postal: Shop 5, 1181 Wynnum Road, Cannon Hill Qld 4170 
+        Phone: 07 3407 8800
+        Fax: 07 3407 8805
+        Email: doboy.ward@ecn.net.au
+        Facebook: facebook.com/murphyfordoboy
+  - name: Enoggera
+    type: Ward
+    people:
+      - name: Andrew Wines
+        role: Councillor
+        postal: 102 Samford Road, Alderley Qld 4051 
+        Phone: 07 3407 2510
+        Fax: 07 3407 2515
+        Email: enoggera.ward@ecn.net.au
+        Website: www.andrewwines.com.au
+  - name: Hamilton
+    type: Ward
+    people:
+      - name: David McLachlan
+        role: Councillor
+        postal: 42 Racecourse Road, Hamilton Qld 4007 
+        Phone: 07 3403 1095
+        Fax: 07 3403 1099
+        Email: hamilton.ward@ecn.net.au
+        Website: www.davidmclachlan.com.au
+  - name: Holland Park
+    type: Ward
+    people:
+      - name: Ian McKenzie
+        role: Councillor
+        postal: Suite 6, 737 Logan Road, Greenslopes Qld 4120 
+        Phone: 3403 2101
+        Fax: 3403 2105
+        Email: hollandpark.ward@ecn.net.au 
+        Website: www.ianmckenzie.org.au
+  - name: Jamboree
+    type: Ward
+    people:
+      - name: Matthew Bourke
+        role: Councillor
+        postal: Shop 146A, Mt Ommaney Shopping Centre, 171 Dandenong Road, Mt Ommaney, Qld 4074 
+        Phone: 07 3407 7000
+        Fax: 07 3407 7005
+        Email: jamboree.ward@ecn.net.au
+        Website: www.matthewbourke.com.au
+  - name: Karawatha
+    type: Ward
+    people:
+      - name: Kim Marx
+        role: Councillor
+        office: Shop 53, Level 2, Sunnybank Hills Shoppingtown, Sunnybank Hills Qld 4109 
+        postal: PO Box 1991, Sunnybank Hills Qld 4109 
+        Phone: 07 3407 0566
+        Fax: 07 3407 0568
+        Email: karawatha.ward@ecn.net.au 
+        Web: www.kimmarx.com.au
+  - name: MacGregor
+    type: Ward
+    people:
+      - name: Steven Huang
+        role: Councillor
+        postal: Sunnybank Centre, 121 Lister Street, Sunnybank Qld 4109 
+        Phone: 07 3407 8500
+        Fax: 07 3407 8505
+        Email: macgregor.ward@ecn.net.au 
+        Website: www.stevenhuang.com.au
+  - name: Marchant
+    type: Ward
+    people:
+      - name: Fiona King
+        role: Councillor
+        postal: North Regional Business Centre, 960 Gympie Road, Chermside Qld 4032 
+        Phone: 07 3407 0707
+        Fax: 07 3407 0797
+        Email: marchant.ward@ecn.net.au 
+        Website: www.fionaking.org.au
+  - name: McDowall
+    type: Ward
+    people:
+      - name: Norm Wyndham
+        role: Councillor
+        postal: Shops 5 and 6, Rode Shopping Centre, 271 Appleby Road, Stafford Heights Qld 4053 
+        Phone:  07 3403 7690
+        Fax:  07 3403 7693
+        Email:  mcdowall.ward@ecn.net.au
+        Website:  www.normwyndham.org
+  - name: Moorooka
+    type: Ward
+    people:
+      - name: Steve Griffiths
+        role: Councillor
+        postal: Shop 2, 122  Beaudesert Road, Moorooka Qld 4105 
+        Phone: 07 3403 1730
+        Fax: 07 3403 1733
+        Email: moorooka.ward@ecn.net.au
+        Website: www.stevegriffithsmoorooka.com
+  - name: Morningside
+    type: Ward
+    people:
+      - name: Shayne Sutton
+        role: Councillor
+        postal: 63 Oxford Street, Bulimba Qld 4171 
+        Phone: 07 3407 8200
+        Fax: 07 3407 8205
+        Email: morningside.ward@ecn.net.au
+  - name: Northgate
+    type: Ward
+    people:
+      - name: Kim Flesser
+        role: Councillor
+        postal: 284 St Vincents Road, Banyo Qld 4014 
+        Phone:  07 3403 2210
+        Fax:  07 3403 2213
+        Email:  northgate.ward@ecn.net.au 
+        Website:  www.northgateward.org
+  - name: Parkinson
+    type: Ward
+    people:
+      - name: Angela Owen-Taylor
+        role: Councillor
+        postal: Shop 10 Central Park Medical Centre, 168 Algester Road, Algester Qld 4115 
+        Phone: 07 3131 7022
+        Fax: 07 3131 7033
+        Email: parkinson.ward@ecn.net.au
+        Website: www.angelaowentaylor.com.au
+  - name: Pullenvale
+    type: Ward
+    people:
+      - name: Margaret de Wit
+        role: Councillor
+        postal: 9 Brookfield Road, Kenmore Qld 4069 
+        Phone: 07 3407 0220
+        Fax: 07 3407 0226
+        Email: pullenvale.ward@ecn.net.au
+        Website: www.margaretdewit.com.au
+  - name: Richlands
+    type: Ward
+    people:
+      - name: Milton Dick
+        role: Councillor
+        postal: Cnr Wirraway Parade and Corsair Avenue, Inala Qld 4077 
+        Phone: 07 3407 1211
+        Fax: 07 3407 1215
+        Email: richlands.ward@ecn.net.au
+  - name: Tennyson
+    type: Ward
+    people:
+      - name: Nicole Johnston
+        role: Councillor
+        postal: 180 Fairfield Road, Fairfield Qld 4103
+        Phone: 07 3403 8605
+        Fax: 07 3403 8607
+        Email: tennyson.ward@ecn.net.au 
+        Website: www.nicolejohnston.com.au
+  - name: The Gabba
+    type: Ward
+    people:
+      - name: Helen Abrahams
+        role: Councillor
+        postal: 2/63 Annerley Road, Woolloongabba Qld 4102 
+        Phone: 07 3403 2165
+        Fax: 07 3403 2168
+        Email: thegabba.ward@ecn.net.au 
+        website: www.helenabrahams.com
+  - name: The Gap
+    type: Ward
+    people:
+      - name: Geraldine Knapp
+        role: Councillor
+        postal: 477 Waterworks Road, Ashgrove Qld 4060 
+        Phone: 07 3407 1900
+        Fax: 07 3407 1905
+        Email: thegap.ward@ecn.net.au 
+        Website: www.geraldineknapp.com.au
+  - name: Toowong
+    type: Ward
+    people:
+      - name: Peter Matic
+        role: Councillor
+        postal: 50 High Street, Toowong Qld 4066 
+        Phone: 07 3403 2520
+        Fax: 07 3403 2523
+        Email: toowong.ward@ecn.net.au
+        Website: www.petermatic.com.au
+  - name: Walter Taylor
+    type: Ward
+    people:
+      - name: Julian Simmonds
+        role: Councillor
+        postal: 70 Station Rd, Indooroopilly Qld 4068
+        Phone: 07 3407 0005
+        Fax: 07 3407 0008
+        Email: waltertaylor.ward@ecn.net.au
+  - name: Wishart
+    type: Ward
+    people:
+      - name: Krista Adams
+        role: Councillor
+        postal: 2072 Logan Road, Upper Mt Gravatt Qld 4122 
+        Phone: 07 3403 7791
+        Fax: 07 3403 7794
+        Email: wishart.ward@ecn.net.au
+        Website: www.kristaadams.com.au  
+  - name: Wynnum Manly
+    type: Ward
+    people:
+      - name: Peter Cumming
+        role: Councillor
+        postal: 3a/212 Bay Terrace, Wynnum Qld 4178 
+        Phone: 07 3403 2180
+        Fax: 07 3403 2177
+        Email: wynnummanly.ward@ecn.net.au 
+        Website: www.petercumming.com
