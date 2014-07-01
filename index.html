@@ -37,7 +37,11 @@
 <p>-- Tony Abbott, Prime Minister of Australia <a href="http://www.smh.com.au/federal-politics/federal-election-2013/liberals-squirm-as-abbott-refers-to-the-suppository-of-wisdom-20130812-2rryy.html">12 Aug 2013</a></p>
 </blockquote>
 
-<p>Barton is a <del>suppository</del> repository of political wisdom.  More specifically though, it's a structured collection of crowd sourced contact details for all elected officials in Australia, designed for future consumption by APIs and apps.</p>
+<p>Barton is a <del>suppository</del> repository of political wisdom.  More specifically though, it's a structured collection of crowd sourced contact details for all elected officials in Australia, designed for consumption by APIs and apps.</p>
+
+<p>Despite the interwebs being around for over 20 years, a complete database of Australian politician contact details still doesn't exist.  Many government websites already provide data as <code>mail-merge.docx</code> or <code>contact-details.pdf</code> for download.  Unfortunately, none of them use a consistent structure or format suitable for automated consumption.</p>
+
+<p>Barton seeks to rectify this problem.  We are just getting started and <a href="https://github.com/experimentsindemocracy/barton/blob/master/contributing.md">need you help</a></p>
 
 <h2>
 <a name="file-structure" class="anchor" href="#file-structure"><span class="octicon octicon-link"></span></a>File Structure</h2>
@@ -47,15 +51,57 @@
 <p>The following data conventions will serve as the public API.</p>
 
 <ul>
-<li><p><code>Files</code> MUST only contain a single jurisdiction of political authority.</p></li>
-<li><p><code>Files</code> SHOULD be named descriptively so that jurisdictions will group appropriately by the file system i.e. <code>au-local-qld-brisbane-city-council.yaml</code>  </p></li>
-<li><p><code>Files</code> MUST contain a <code>name</code> field.  Files MAY contain <code>tags</code> and <code>people</code> collections.  </p></li>
-<li><p><code>People</code> MUST be a collection.</p></li>
-<li><p><code>People</code> elements MUST contain a <code>name</code> field, as well as <code>roles</code>, and <code>contact</code> collection.  <code>People</code> elements MAY contain any other fields as required, including <code>title</code>, <code>salutation</code>, <code>suffix</code>, <code>party</code>.</p></li>
-<li><p><code>Name</code> fields are strings with the format <code>First [Middle] ['Preferred'] Lastnames</code></p></li>
-<li><p><code>Contact</code> collections MUST contain <code>office</code> elements. </p></li>
-<li><p><code>Tags</code> MUST contain a collection of strings which SHOULD apply to an element and all of its children.</p></li>
-</ul><p>This is an excerpt from the Queensland state government</p>
+<li>
+<code>Files</code> MUST start with 3 dashes <code>---</code>.</li>
+<li>
+<code>Files</code> MUST only contain a single jurisdiction of political authority.</li>
+<li>
+<code>Files</code> SHOULD be named descriptively so that jurisdictions will group appropriately by the file system i.e. <code>au-qld-local-brisbane-city-council.yaml</code><br>
+</li>
+<li>
+<code>Files</code> MUST contain a <code>name</code> field.  Files MAY contain <code>tags</code> and <code>people</code> collections.</li>
+<li>
+<code>Tags</code> MUST contain a collection of strings which SHOULD apply to the current element and all of its children.</li>
+</ul><pre><code>    ---
+    name: People's Democratic Banana Republic
+    tags: [tags are strings, they apply to this, and all children]
+    people: 
+      - name: Barry Crocker
+</code></pre>
+
+<ul>
+<li>
+<code>People</code> MUST be a collection.</li>
+<li>
+<code>People</code> elements MUST contain a <code>name</code> field, as well as <code>roles</code> and <code>contact</code> collections.</li>
+<li>
+<code>People</code> elements MAY contain any other fields as required, including <code>title</code>, <code>tags</code>, <code>salutation</code>, <code>suffix</code>, <code>party</code>.</li>
+<li>
+<code>Name</code> fields are strings with the format <code>First [Middle] ['Preferred'] Lastnames</code>
+</li>
+<li>
+<code>Contact</code> collections MUST contain at least one <code>office</code> elements. </li>
+</ul><pre><code>      - name: Barry 'Bazza' Crocker
+        roles:
+         - Minister for Political Entitlements
+         - Member for Woolloomooloo
+        contact:
+         - office: Electorate
+           address: Corner Cowper Wharf Roadway &amp; Brougham Road, Woolloomooloo, NSW 2011
+           postal: PO Box 122, Sydney NSW 2001
+           email: bazza@parliament.nsw.gov.au
+           phone: 02 9357 3074
+           fax: (02) 9357 3020
+           web: http://www.barrycrocker.com.au
+           facebook: http://facebook.com/barrycrocker69
+        party: LNP
+        title: The Right Honourable
+        salutation: Dear Minister
+        suffix: MP
+        tags: [Pies &amp; Mash, Gravy, Schooners]
+</code></pre>
+
+<p>Putting it all together yields something like:</p>
 
 <pre><code>---
 name: Queensland Government
