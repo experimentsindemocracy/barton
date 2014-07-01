@@ -9,52 +9,67 @@ Barton is a ~~suppository~~ repository of political wisdom.  More specifically t
 
 ## File Structure
 
-The repo is a simple collection of [YAML files](http://www.yaml.org/spec/1.2/spec.html).  Each YAML file in the `data/` directory represents the jurisdiction of a single political authority.  Files are named descriptively so that jurisdictions will group appropriately by the file system i.e. `au-local-qld-brisbane-city-council.yaml`  
+The repo is a simple collection of [YAML files](http://www.yaml.org/spec/1.2/spec.html).  Each YAML file in the `data/` directory represents the jurisdiction of a single political authority.   
 
 The following data conventions will serve as the public API.
 
-- Each file MUST contain a single jurisdiction of political authority with at most one level of partitions and associated people.
-- Each jurisdiction MUST contain a `name` entity.  Jurisdictions MAY contain `tags`, `people`, and `partitions` entities.  
-- `Partitions` MUST contain `name`, `type`, and `people` entities.  Partitions MAY contain a `tags` entity.
-- `People` MUST contain a `name` and `role` entity.  People MAY contain any other fields as required.
-- `Tags` MUST contain a sequence of strings meant to apply to an element and all of its children.
+- `Files` MUST only contain a single jurisdiction of political authority.
 
-The _one jurisdiction per file_ and _at most one partition_ rules means that some levels of government will have multiple files ie the Queensland Government, having a unicameral parliament, needs only one file while the Government of Victoria requires three - one for the Cabinet & Executive, one for the Legislative Assembly, and one for the Legislative Council.
+- `Files` SHOULD be named descriptively so that jurisdictions will group appropriately by the file system i.e. `au-local-qld-brisbane-city-council.yaml`  
 
-This is what the local government area of Brisbane City Council would look like:
+- `Files` MUST contain a `name` field.  Files MAY contain `tags` and `people` collections.  
+
+- `People` MUST be a collection.
+
+- `People` elements MUST contain a `name` field, as well as `roles`, and `contact` collection.  `People` elements MAY contain any other fields as required, including `title`, `salutation`, `suffix`, `party`.
+
+- `Name` fields are strings with the format `First [Middle] ['Preferred'] Lastnames`
+
+- `Contact` collections MUST contain `office` elements. 
+
+- `Tags` MUST contain a collection of strings which SHOULD apply to an element and all of its children.
+
+
+This is an excerpt from the Queensland state government
 
     ---
-    name: City of Brisbane
-    tags: [LGA, local, South East Queensland]
-    people:
-      - name: Graham Quirk
-        role: Lord Mayor
-        title: The Right Honourable
-        salutation: My dear Lord Mayor
-        post: Office of the Lord Mayor, GPO Box 2287, Brisbane Qld 4001
-        phone: 07 3403 4400
-        fax: 07 3403 9930
-    partitions:
-      - name: Bracken Ridge
-        type: Ward
-        people:
-          - name: Amanda Cooper
-            role: Councillor
-            postal: Cnr Bracken and Barrett Streets, Bracken Ridge Qld 4017
-            phone: 07 3667 6000
-            fax: 07 3667 6005
-            email: brackenridge.ward@ecn.net.au
-            web: www.amandacooper.com.au
-      - name: Central
-        type: Ward
-        people:
-          - name: Vicki Howard
-            role: Councillor
-            postal: Shop 11, 31 Duncan Street, Fortitude Valley Qld 4006
-            phone: 07 3403 0254
-            fax: 07 3403 0256
-            email: central.ward@ecn.net.au
-
+    name: Queensland Government
+    tags: [Queensland, state]
+    people: 
+      - name: Verity Mary Barton
+        salutation: Dear Miss
+        suffix: MP
+        roles:
+         - Member for Broadwater
+        party: LNP
+        contact:
+         - office: Electorate
+           address: 102 Imperial Parade, (Cnr Government Rd and Imperial Pde), Labrador Qld  4215
+           postal: PO Box 644, Labrador Qld 4215
+           email: broadwater@parliament.qld.gov.au
+           phone: 07 5563 9010
+           fax: 07 5500 5364
+      - name: Campbell Kevin 'Can Do' Newman
+        title: The Honourable
+        salutation: Dear Premier    
+        suffix: MP
+        roles:
+          - Premier of Queensland
+          - Member for Ashgrove
+        party: LNP
+        contact:
+          - office: Ministerial
+            address: Level 15, Executive Building, 100 George Street, Brisbane Qld 4000
+            postal: PO Box 15185, City East Qld 4002
+            email: thepremier@premiers.qld.gov.au Shop 2, 230 Waterworks Road, Ashgrove Qld 4060
+            phone: 07 3719 7000
+            fax: 07 3220 6222        
+          - office: Electorate
+            postal: PO Box 3010, Ashgrove East Qld 4060
+            email: ashgrove@parliament.qld.gov.au
+            phone: 07 3366 6000
+            fax: 07 3366 6202
+   
 ## Usage
 
 To access the most up-to-date politician contact details, simply clone, curl, or scrape the repo.  Parse the YAML into your preferred data format and use it to find a politician, write to your representative, or start a revolution - implementation is up to you. 
