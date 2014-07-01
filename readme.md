@@ -4,8 +4,11 @@
 >
 > -- Tony Abbott, Prime Minister of Australia [12 Aug 2013](http://www.smh.com.au/federal-politics/federal-election-2013/liberals-squirm-as-abbott-refers-to-the-suppository-of-wisdom-20130812-2rryy.html)
 
-Barton is a ~~suppository~~ repository of political wisdom.  More specifically though, it's a structured collection of crowd sourced contact details for all elected officials in Australia, designed for future consumption by APIs and apps.
+Barton is a ~~suppository~~ repository of political wisdom.  More specifically though, it's a structured collection of crowd sourced contact details for all elected officials in Australia, designed for consumption by APIs and apps.
 
+Despite the interwebs being around for over 20 years, a complete database of Australian politician contact details still doesn't exist.  Many government websites already provide data as `mail-merge.docx` or `contact-details.pdf` for download.  Unfortunately, none of them use a consistent structure or format suitable for automated consumption.
+
+Barton seeks to rectify this problem.
 
 ## File Structure
 
@@ -13,24 +16,49 @@ The repo is a simple collection of [YAML files](http://www.yaml.org/spec/1.2/spe
 
 The following data conventions will serve as the public API.
 
+- `Files` MUST start with 3 dashes `---`.
 - `Files` MUST only contain a single jurisdiction of political authority.
+- `Files` SHOULD be named descriptively so that jurisdictions will group appropriately by the file system i.e. `au-qld-local-brisbane-city-council.yaml`  
+- `Files` MUST contain a `name` field.  Files MAY contain `tags` and `people` collections.
+- `Tags` MUST contain a collection of strings which SHOULD apply to the current element and all of its children.
 
-- `Files` SHOULD be named descriptively so that jurisdictions will group appropriately by the file system i.e. `au-local-qld-brisbane-city-council.yaml`  
-
-- `Files` MUST contain a `name` field.  Files MAY contain `tags` and `people` collections.  
-
+    
+```    
+    ---
+    name: People's Democratic Banana Republic
+    tags: [tags are strings, they apply to this, and all children]
+    people: 
+      - name: Barry Crocker
+``` 
+    
 - `People` MUST be a collection.
-
-- `People` elements MUST contain a `name` field, as well as `roles`, and `contact` collection.  `People` elements MAY contain any other fields as required, including `title`, `salutation`, `suffix`, `party`.
-
+- `People` elements MUST contain a `name` field, as well as `roles` and `contact` collections.
+- `People` elements MAY contain any other fields as required, including `title`, `tags`, `salutation`, `suffix`, `party`.
 - `Name` fields are strings with the format `First [Middle] ['Preferred'] Lastnames`
+- `Contact` collections MUST contain at least one `office` elements. 
 
-- `Contact` collections MUST contain `office` elements. 
+```    
+      - name: Barry 'Bazza' Crocker
+        roles:
+         - Minister for Political Entitlements
+         - Member for Woolloomooloo
+        contact:
+         - office: Electorate
+           address: Corner Cowper Wharf Roadway & Brougham Road, Woolloomooloo, NSW 2011
+           postal: PO Box 122, Sydney NSW 2001
+           email: bazza@parliament.nsw.gov.au
+           phone: 02 9357 3074
+           fax: (02) 9357 3020
+           web: http://www.barrycrocker.com.au
+           facebook: http://facebook.com/barrycrocker69
+        party: LNP
+        title: The Right Honourable
+        salutation: Dear Minister
+        suffix: MP
+        tags: [Pies & Mash, Gravy, Schooners]
+``` 
 
-- `Tags` MUST contain a collection of strings which SHOULD apply to an element and all of its children.
-
-
-This is an excerpt from the Queensland state government
+Putting it all together yields something like:
 
     ---
     name: Queensland Government
