@@ -112,7 +112,7 @@ people:
         fax: (02) 4987 5444	
         phone: (02) 4983 1330	
 
-  - name: Adam Paul  Bandt	
+  - name: Adam Paul Bandt	
     title: Mr	
     salutation: Dear Mr		
     suffix: MP		
@@ -205,7 +205,7 @@ people:
         fax: (08) 9388 0299	
         phone: (08) 9388 0288	
 
-  - name: Chris Eyles  Bowen	
+  - name: Chris Eyles Bowen	
     title: The Honourable	
     salutation: Dear Mr		
     suffix: MP		
@@ -1726,13 +1726,9 @@ people:
         postal: PO Box 5035, Launceston, Tas 7250		
         fax: (03) 63347055	
         phone: (03) 63347033	
+        tollfree: 1300 784 745
 
-  ---
-  1300 784 745
-
-
-
-  - name: Brendan Patrick John  O'Connor	
+  - name: Brendan Patrick John O'Connor	
     title: The Honourable	
     salutation: Dear Mr		
     suffix: MP		
@@ -2754,3 +2750,1177 @@ people:
         postal: PO Box 775, Modbury, SA 5092		
         fax: (08) 8265 3900	
         phone: (08) 8265 3100	
+
+  - name: Eric  'Eric' Abetz
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Leader of the Government in the Senate Minister for Employment Minister Assisting the Prime Minister for the Public Service 
+      - Senator for Tasmania
+    party: LP	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: Highbury House, 136 Davey Street, Hobart, Tas 7000		
+        postal: GPO Box 1675, Hobart, Tas, 7001		
+        fax: (03) 6224 3709
+        phone: (03) 6224 3707
+        tollfree: 1300 132 493
+
+  - name: Christopher John 'Chris' Back
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Second Deputy Government Whip in the Senate
+      - Senator for Western Australia
+    party: LP	
+    state: WA
+    contact:
+      - office: Electorate
+        address: Unit E5, 817 Beeliar Drive, Cockburn Central, WA 6164		
+        postal: PO Box 3468, Success, WA, 6964		
+        fax: (08) 9414 8819
+        phone: (08)9414 7288
+        tollfree: 1300 301 846
+
+  - name: Cory  'Cory' Bernardi
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for South Australia
+    party: LP	
+    state: SA
+    contact:
+      - office: Electorate
+        address: 36 Grenfell Street, Kent Town , SA 5067		
+        fax: (08) 8362 8579 
+        phone: (08) 8362 8600
+        tollfree: 1300 301 647
+
+  - name: Catryna Louise 'Catryna' Bilyk
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Deputy Opposition Whip in the Senate
+      - Senator for Tasmania
+    party: ALP	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: Shop 3, Kingston Plaza, 20 Channel Highway, Kingston, Tas 7050		
+        postal: PO Box 320, Kingston, Tas, 7051		
+        fax: (03) 6229 4100
+        phone: (03) 6229 4444
+        tollfree: 1300 855 225
+
+  - name: Simon John 'Simon' Birmingham
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Parliamentary Secretary to the Minister for the Environment
+      - Senator for South Australia
+    party: LP	
+    state: SA
+    contact:
+      - office: Electorate
+        address: 61 Henley Beach Road, Mile End, SA 5031		
+        fax: (08) 8354 1655
+        phone: (08) 8354 1644
+        tollfree: 1300 301 638
+
+  - name: Thomas Mark 'Mark' Bishop
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Western Australia
+    party: ALP	
+    state: WA
+    contact:
+      - office: Electorate
+        address: Suite 31, 443 Albany Highway, Victoria Park, WA 6100		
+        postal: PO Box 571, Victoria Park, WA, 6979		
+        fax: (08) 9472 6200
+        phone: (08) 9472 6177
+        tollfree: 1300 301 726
+
+  - name: Ronald Leslie Doyle 'Ronald' Boswell
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Queensland
+    party: Nats	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: Level 36, Waterfront Place, 1 Eagle Street, Brisbane, Qld 4000		
+        postal: GPO Box 228, Brisbane, Qld, 4001		
+        fax: (07) 3001 8151
+        phone: (07) 3001 8150
+        tollfree: 0
+
+  - name: Suzanne Kay 'Sue' Boyce
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Queensland
+    party: LP	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: 349 Sandgate Road, Albion, Qld 4010		
+        postal: PO Box 143, Albion DC, Qld, 4010		
+        fax: (07) 3862 4244
+        phone: (07) 3862 4044
+
+  - name: George Henry 'George' Brandis
+    title: Senator the Hon
+    salutation: Dear Senator
+    suffix: QC	
+    gender: male
+    roles:
+      - Deputy Leader of the Government in the Senate Attorney-General Minister for the Arts Vice-President of the Executive Council
+      - Senator for Queensland
+    party: LP	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: Suite 2, Level 36, Waterfront Place, 1 Eagle Street, Brisbane, Qld 4000		
+        postal: GPO Box 228, Brisbane, Qld, 4001		
+        fax: (07) 3001 8181
+        phone: (07) 3001 8180
+        tollfree: 0
+
+  - name: Carol Louise 'Carol' Brown
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Tasmania
+    party: ALP	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: AMP Building, Ground Floor,, 27 Elizabeth Street,, Hobart, Tas 7001		
+        postal: GPO Box 376, Hobart, Tas, 7001		
+        fax: (03) 6231 3099
+        phone: (03) 6231 0099
+        tollfree: 1300 301 532
+
+  - name: David Christopher 'David' Bushby
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Deputy Government Whip in the Senate
+      - Senator for Tasmania
+    party: LP	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: Level 2,, 18 Ross Avenue,, Rosny Park, Tas 7018		
+        postal: PO Box 429, Rosny Park, Tas, 7018		
+        fax: (03) 6244 8521
+        phone: (03) 6244 8533
+        tollfree: 1300 134 468
+
+  - name: Douglas Niven 'Doug' Cameron
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for New South Wales
+    party: ALP	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: Unit 6, 5 Raymond Road,, Springwood, NSW 2777		
+        postal: PO Box 322, Springwood, NSW, 2777		
+        fax: (02) 4751 3288
+        phone: (02) 4751 4288
+        tollfree: 1300 226 005
+
+  - name: Kim John 'Kim' Carr
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Victoria
+    party: ALP	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: 62 Lygon Street, Carlton South, Vic 3053		
+        fax: (03) 9639 3109
+        phone: (03) 9639 2798
+
+  - name: Michaelia Clare 'Michaelia' Cash
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Minister Assisting the Prime Minister for Women  Assistant Minister for Immigration and Border Protection
+      - Senator for Western Australia
+    party: LP	
+    state: WA
+    contact:
+      - office: Electorate
+        address: 44 Outram Street,  West Perth, WA 6005		
+        postal: PO Box 1966, West Perth, WA, 6872		
+        fax: (08) 9226 2211 
+        phone: (08) 9226 2000
+
+  - name: Richard  'Richard' Colbeck
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Parliamentary Secretary to the Minister for Agriculture
+      - Senator for Tasmania
+    party: LP	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: 5-7 Best Street, Devonport, Tas 7310		
+        postal: PO Box 603, Devonport, Tas, 7310		
+        fax: (03) 6423 5244
+        phone: (03) 6424 5960
+
+  - name: Jacinta Mary Ann 'Jacinta' Collins
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Victoria
+    party: ALP	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: Ground Floor, 1013 Whitehorse Road, Box Hill, Vic 3128		
+        fax: (03) 9890 7122
+        phone: (03) 9890 7022
+
+  - name: Stephen Michael 'Stephen' Conroy
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Deputy Leader of the Opposition in the Senate
+      - Senator for Victoria
+    party: ALP	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: 17 Mason Street, Newport, Vic 3015		
+        postal: PO Box 3162, Newport, Vic, 3015		
+        fax: (03) 9391 5451 
+        phone: (03) 9391 4952
+        tollfree: 1300 131 546
+
+  - name: Mathias  'Mathias' Cormann
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Minister for Finance
+      - Senator for Western Australia
+    party: LP	
+    state: WA
+    contact:
+      - office: Electorate
+        address: Level 38, Exchange Plaza, 2 The Esplanade, Perth, WA 6000		
+        postal: GPO Box B58, Perth, WA, 6838		
+        fax: (08) 9325 6857
+        phone: (08) 9325 4227
+        tollfree: 1300 301 728
+
+  - name: Sam  'Sam' Dastyari
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for New South Wales
+    party: ALP	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: Suite 2, 206T Allison Road, Randwick, NSW 2031		
+        postal: PO Box 717, Randwick, NSW, 2031		
+        fax: (02) 9326 5895   
+        phone: (02) 9326 5987
+
+  - name: Richard  'Richard' Di Natale
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Victoria
+    party: AG	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: Level 4,, 199 Moorabool Street, Geelong, Vic 3220		
+        fax: (03) 5221 5100
+        phone: (03) 5221 4100
+        tollfree: 1300 883 502 
+
+  - name: Sean  'Sean' Edwards 
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for South Australia
+    party: LP	
+    state: SA
+    contact:
+      - office: Electorate
+        address: 187 Grenfell Street, Adelaide, SA 5000		
+        fax: (08) 8232 0448
+        phone: (08) 8232 0440
+        tollfree: 1300 738 260
+
+  - name: Alan  'Alan' Eggleston
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Western Australia
+    party: LP	
+    state: WA
+    contact:
+      - office: Electorate
+        address: 26 Charles Street, South Perth, WA 6151		
+        postal: PO Box 984, South Perth, WA, 6951		
+        fax: (08) 9368 6699
+        phone: (08) 9368 6633
+        tollfree: 1300 301 845
+
+  - name: Donald Edward 'Don' Farrell
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for South Australia
+    party: ALP	
+    state: SA
+    contact:
+      - office: Electorate
+        address: Wave Building, Level 5, 19 Gillies Street, Adelaide, SA 5000		
+        postal: PO Box 6338, Halifax Street, SA, 5000		
+        fax: (08) 8211 7933
+        phone: (08)  8231 8400
+
+  - name: John Philip 'John' Faulkner
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for New South Wales
+    party: ALP	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: Suite1, 1 Park Avenue, Drummoyne, NSW 2047		
+        fax: (02) 9719 8078
+        phone: (02) 9719 8100
+        tollfree: 1300 301 752
+
+  - name: David Julian 'David' Fawcett
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for South Australia
+    party: LP	
+    state: SA
+    contact:
+      - office: Electorate
+        address: Commonwealth Parliament Offices, Suite 4, Level 13, 100 King William Street, Adelaide, SA 5000		
+        fax: (08) 8205 1045 
+        phone: (08) 8205 1040
+
+  - name: Concetta  'Concetta' Fierravanti-Wells
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Parliamentary Secretary to the Minister for Social Services
+      - Senator for New South Wales
+    party: LP	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: Suite 1, Level 2,, 6-8 Regent Street,, Wollongong, NSW 2500		
+        postal: PO Box 886, Wollongong, NSW, 2520		
+        fax: (02) 4226 1733
+        phone: (02) 4226 1700
+        tollfree: 1300 735 268
+
+  - name: Mitchell Peter 'Mitch' Fifield
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Manager of Government Business in the Senate Assistant Minister for Social Services 
+      - Senator for Victoria
+    party: LP	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: 42 Florence Street, Mentone, Vic 3194		
+        fax: (03) 9584 8347
+        phone: (03) 9584 2455
+        tollfree: 1300 797 110
+
+  - name: Mark Lionel 'Mark' Furner
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Queensland
+    party: ALP	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: Suite 1, Crossroads, 470 Gympie Road, Strathpine, Qld 4500		
+        postal: PO Box 2246, Strathpine, Qld, 4500		
+        fax: (07) 3881 3755
+        phone: (07) 3881 3710
+        tollfree: 1300 884 489
+
+  - name: Alexander McEachian 'Alex' Gallacher
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for South Australia
+    party: ALP	
+    state: SA
+    contact:
+      - office: Electorate
+        address: 265 Churchill Road, Prospect, SA 5082		
+        fax: (08) 8269 6044 
+        phone: (08) 8269 6022
+
+  - name: Sarah Coral 'Sarah' Hanson-Young
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for South Australia
+    party: AG	
+    state: SA
+    contact:
+      - office: Electorate
+        address: Level 7, 147 Pirie Street, Adelaide, SA 5000		
+        fax: (08) 8227 0426
+        phone: (08)8227 0425
+
+  - name: William  'Bill' Heffernan
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for New South Wales
+    party: LP	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: Level 7, 100 William Street, East Sydney, NSW 2011		
+        fax: (02) 9357 2800
+        phone: (02) 9357 2600
+        tollfree: 1300 301 796
+
+  - name: John Joseph 'John' Hogg
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - President of the Senate
+      - Senator for Queensland
+    party: ALP	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: 876 Old Cleveland Road, Carina, Qld 4152		
+        postal: PO Box 615, Carina, Qld, 4152		
+        fax: (07) 3843 4077
+        phone: (07) 3843 4066
+
+  - name: David  'David' Johnston
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Minister for Defence
+      - Senator for Western Australia
+    party: LP	
+    state: WA
+    contact:
+      - office: Electorate
+        address: 183 Great Eastern Highway, Belmont, WA 6104		
+        fax: (08) 9478 1746
+        phone: (08) 9478 2088
+
+  - name: Helen  'Helen' Kroger
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Chief Government Whip in the Senate
+      - Senator for Victoria
+    party: LP	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: Shop 3,, 10-40 Burwood Highway, Burwood East, Vic 3151		
+        postal: PO Box 8154, Burwood East, Vic, 3151		
+        fax: (03) 9888 0107
+        phone: (03) 9888 0091
+
+  - name: Susan  'Sue' Lines
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Western Australia
+    party: ALP	
+    state: WA
+    contact:
+      - office: Electorate
+        address: 51 Ord Street, West Perth, WA 6005		
+        postal: PO Box 1322, West Perth, WA, 6872		
+        fax: 08) 9481 4244 
+        phone: (08) 9481 4844
+
+  - name: Scott  'Scott' Ludlam
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Western Australia
+    party: AG	
+    state: WA
+    contact:
+      - office: Electorate
+        address: 8 Cantonment Street, Fremantle, WA 6160		
+        fax: (08) 9335 7499 
+        phone: (08) 9335 7477
+        tollfree: 1300 733 450
+
+  - name: Joseph William 'Joseph' Ludwig
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Queensland
+    party: ALP	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: Waterfront Place,, 1 Eagle Street, Brisbane, Qld 4000		
+        postal: GPO Box 2477, Brisbane, Qld, 4002		
+        fax: (07) 3229 4140 
+        phone: (07) 3229 4477
+        tollfree: 1300 301 944
+
+  - name: Kate Alexandra 'Kate' Lundy
+    title: Senator the Hon 
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for ACT
+    party: ALP	
+    state: ACT
+    contact:
+      - office: Electorate
+        address: Unit A, Ground Floor, Law Society Building, 11 London Circuit, Canberra, ACT 2601		
+        fax: (02) 6230 0413
+        phone: (02) 6230 0411
+
+  - name: Ian Douglas 'Ian' Macdonald
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Queensland
+    party: LP	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: Level 1, 131 Denham Street, Townsville, Qld 4810		
+        postal: PO Box 2185, Townsville, Qld, 4810		
+        fax: (07) 4771 3411
+        phone: (07) 4771 3066
+        tollfree: 1300 301 949
+
+  - name: John Joseph 'John' Madigan
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Victoria
+    party: DLP	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: 17 Albert Street, Ballarat , Vic 3350		
+        fax: (03) 5331 2476 
+        phone: (03)5331 2321
+
+  - name: Gavin Mark 'Gavin' Marshall
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Victoria
+    party: ALP	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: 376 Victoria Street, North Melbourne, Vic 3051		
+        fax: (03) 9348 9837
+        phone: (03) 9348 9699
+
+  - name: Brett  'Brett' Mason
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Parliamentary Secretary to the Minister for Foreign Affairs
+      - Senator for Queensland
+    party: LP	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: 2166 Logan Road, Upper Mount Gravatt, Qld 4122		
+        fax: (07) 3422 1991
+        phone: (07) 3422 1990
+        tollfree: 1300 301 952
+
+  - name: Anne  'Anne' McEwen
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Opposition Whip in the Senate
+      - Senator for South Australia
+    party: ALP	
+    state: SA
+    contact:
+      - office: Electorate
+        address: Ground Floor, 101 Henley Beach Road, Mile End , SA 5031		
+        postal: PO Box 55, Torrensville Plaza, SA, 5031		
+        fax: (08) 8234 1165
+        phone: (08) 8352 7477
+        tollfree: 1300 889 477
+
+  - name: Bridget  'Bridget' McKenzie
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - The Nationals Whip in the Senate
+      - Senator for Victoria
+    party: Nats	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: 279 Hargreaves Street, Bendigo, Vic 3550		
+        fax: (03) 5441 4260 
+        phone: (03) 5441 4251
+
+  - name: Jan  'Jan' McLucas
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Queensland
+    party: ALP	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: MacDonnells Solicitors Building, Cnr Shields and Grafton Streets, Cairns, Qld 4870		
+        postal: PO Box 2733, Cairns, Qld, 4870		
+        fax: (07) 4031 6167
+        phone: (07) 4031 6009
+        tollfree: 1300 301 959
+
+  - name: Christine  'Christine' Milne
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Leader of the Australian Greens
+      - Senator for Tasmania
+    party: AG	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: Level 1, Murray Street Pier, Murray Street, Hobart, Tas 7000		
+        postal: GPO Box 896, Hobart, Tas, 7001		
+        fax: (03) 6224 7599
+        phone: (03) 6224 8899
+        tollfree: 1300 131 720
+
+  - name: Claire Mary 'Claire' Moore
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Queensland
+    party: ALP	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: Suite 14 B, 1st Floor Brunswick Central, 421 Brunswick Street, Fortitude Valley, Qld 4006		
+        postal: PO Box 907, Fortitude Valley Post Shop, Fortitude Valley, Qld, 4006		
+        fax: (07) 3252 8957
+        phone: (07) 3252 7101
+        tollfree: 1300 301 879
+
+  - name: Fiona  'Fiona' Nash
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Deputy Leader of The Nationals in the Senate Assistant Minister for Health 
+      - Senator for New South Wales
+    party: Nats	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: 79 Main Street, Young, NSW 2594		
+        fax: (02) 6382 3499
+        phone: (02) 6382 3400
+
+  - name: Deborah Mary 'Deborah ' O'Neill
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for New South Wales
+    party: ALP	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: Suite 3.12, The Platinum Building, 4 Ilya Avenue, Erina, NSW 2250		
+        fax: (02) 4367 3506 
+        phone: (02) 4367 4565
+
+  - name: Barry James 'Barry' O'Sullivan
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Queensland
+    party: Nats	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: Capital Place, 195 Hume Street, Toowoomba, Qld 4350		
+        postal: PO Box 3135, Toowoomba, Qld, 4350		
+        fax: (07) 4638 7199
+        phone: (07) 4638 7555
+
+  - name: Stephen  'Stephen' Parry
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Deputy President and Chairman of Committees
+      - Senator for Tasmania
+    party: LP	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: 33 George Street, Launceston, Tas 7250		
+        fax: (03) 6431 7455
+        phone: (03) 6334 1624 
+        tollfree: 1300 760 788
+
+  - name: Marise Ann 'Marise' Payne
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Minister for Human Services
+      - Senator for New South Wales
+    party: LP	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: 2-12 Macquarie Street, Parramatta, NSW 2150		
+        postal: PO Box 1420, Parramatta, NSW, 2150		
+        fax: (02) 9687 8466 
+        phone: (02) 9687 8755
+
+  - name: Nova Maree 'Nova' Peris
+    title: Senator
+    salutation: Dear Senator
+    suffix: OAM	
+    gender: female
+    roles:
+      - Senator for NT
+    party: ALP	
+    state: NT
+    contact:
+      - office: Electorate
+        address: 38B Mitchell Street, Darwin, NT O800		
+        postal: GPO Box 1596 , Darwin, NT, O801		
+        fax: (08) 8941 0071 
+        phone: (08) 8941 0003
+
+  - name: Helen  'Helen' Polley
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Tasmania
+    party: ALP	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: The Charles, Suite 101, 287 Charles Street, Launceston, Tas 7250		
+        postal: PO Box 1223, Launceston, Tas, 7250		
+        fax: (03) 6331 2588
+        phone: (03) 6331 2599
+        tollfree: 1300 134 923
+
+  - name: Louise Clare 'Louise' Pratt
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Western Australia
+    party: ALP	
+    state: WA
+    contact:
+      - office: Electorate
+        address: 81 Bennett Street, East Perth, WA 6004		
+        postal: PO Box 6120, East Perth, WA, 6892		
+        fax: (08) 9225 7677 
+        phone: (08) 9225 4411
+        tollfree: 1300 301 874
+
+  - name: Lee  'Lee' Rhiannon
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for New South Wales
+    party: AG	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: 72 Campbell Street, Surry Hills, NSW 2010		
+        fax: (02) 9252 0180
+        phone: (02) 9241 6966
+
+  - name: Michael  'Michael' Ronaldson
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Minister for Veteransí Affairs  Minister Assisting the Prime Minister for the Centenary of ANZAC  Special Minister of State 
+      - Senator for Victoria
+    party: LP	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: Level 14, 90 Collins Street, Melbourne , Vic 3000		
+        fax: (03) 9650 9031
+        phone: (03) 9650 0255
+
+  - name: Anne  'Anne' Ruston
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for South Australia
+    party: LP 	
+    state: SA
+    contact:
+      - office: Electorate
+        address: 9 Renmark Avenue, Renmark, SA 5341		
+        postal: PO Box 1671, Renmark, SA, 5341		
+        fax: (08) 8595 1700 
+        phone: (08) 8586 6600
+
+  - name: Scott Michael 'Scott' Ryan
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Parliamentary Secretary to the Minister for Education
+      - Senator for Victoria
+    party: LP	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: 12 Pascoe Vale Road, Moonee Ponds, Vic 3039		
+        postal: PO Box 556, Moonee Ponds, Vic, 3039		
+        fax: (03) 9370 9120
+        phone: (03) 9326 1088
+
+  - name: Nigel Gregory 'Nigel' Scullion
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Leader of The Nationals in the Senate Minister for Indigenous Affairs 
+      - Senator for NT
+    party: CLP	
+    state: NT
+    contact:
+      - office: Electorate
+        address: Unit 1, 229 McMillans Road, Jingili, NT 810		
+        fax: (08) 8948 3544
+        phone: (08) 8948 3555
+
+  - name: Zdenko Matthew 'Zed' Seselja
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for ACT
+    party: LP	
+    state: ACT
+    contact:
+      - office: Electorate
+        address: Shop B12, Canberra Centre, Bunda Street, Canberra, ACT 2600		
+        fax: (02) 6257 4140 
+        phone: (02) 6247 6444
+
+  - name: Rachel  'Rachel' Siewert
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Australian Greens Whip
+      - Senator for Western Australia
+    party: AG	
+    state: WA
+    contact:
+      - office: Electorate
+        address: Unit 1, 151 Brisbane Street, Northbridge, WA 6003		
+        fax: (08) 9228 4055
+        phone: (08) 9228 3277
+        tollfree: 1300 881 218
+
+  - name: Lisa Maria 'Lisa' Singh
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Tasmania
+    party: ALP	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: 152 Macquarie Street, Hobart, Tas 7000		
+        fax: (03) 6223 1250
+        phone: (03) 6223 1135
+
+  - name: Arthur  'Arthur' Sinodinos
+    title: Senator the Hon
+    salutation: Dear Senator
+    suffix: AO	
+    gender: male
+    roles:
+      - Senator for New South Wales
+    party: LP	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: Angel Place, 123 Pitt Street, Sydney, NSW 2000		
+        fax: (02) 9223 4399 
+        phone: (02) 9223 4388
+
+  - name: Dean Anthony 'Dean' Smith
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Western Australia
+    party: LP	
+    state: WA
+    contact:
+      - office: Electorate
+        address: 48 Ventnor Avenue, West Perth, WA 6005		
+        postal: PO Box 930, West Perth, WA, 6872		
+        fax: (08) 9321 4876
+        phone: (08) 9481 0349
+
+  - name: Ursula  'Ursula' Stephens
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for New South Wales
+    party: ALP	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: 91 Bourke Street, Goulburn, NSW 2580		
+        postal: PO Box 1112, Goulburn, NSW, 2580		
+        fax: (02) 4822 8156
+        phone: (02) 4822 8155
+        tollfree: 1300 301 987
+
+  - name: Glenn  'Glenn' Sterle
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Western Australia
+    party: ALP	
+    state: WA
+    contact:
+      - office: Electorate
+        address: 6a Market City, 280 Ranford Road, Canning Vale, WA 6155		
+        postal: Mailpoint 22, Market City, 280 Bannister Road, Canning Vale, WA, 6155		
+        fax: (08) 9455 1421
+        phone: (08) 9455 1420
+        tollfree: 1300 666 494
+
+  - name: Lin Estelle 'Lin' Thorp
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Tasmania
+    party: ALP	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: Ground Floor, 161 St John Street, Launceston, Tas 7250		
+        fax: (03) 6334 2888 
+        phone: (03) 6331 9233
+
+  - name: Mehmet  'Mehmet' Tillem
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Victoria
+    party: ALP	
+    state: VIC
+    contact:
+      - office: Electorate
+        address: 240 Sydney Road, Coburg, Vic 3058		
+        fax: (03) 9384 6644 
+        phone: 03) 9384 6077
+
+  - name: Anne Elizabeth 'Anne' Urquhart
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Deputy  Opposition Whip in the Senate
+      - Senator for Tasmania
+    party: ALP	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: Ground Floor, 69 Best Street , Devonport, Tas 7310		
+        fax: (03) 6423 3544
+        phone: (03) 6423 1933
+
+  - name: Larissa Joy 'Larissa' Waters
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for Queensland
+    party: AG	
+    state: Qld
+    contact:
+      - office: Electorate
+        address: Level 1, 251 Given Terrace, Paddington, Qld 4064		
+        fax: (07) 3367 0577 
+        phone: (07) 3367 0566
+
+  - name: Peter Stuart 'Peter' Whish-Wilson
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for Tasmania
+    party: AG	
+    state: TAS
+    contact:
+      - office: Electorate
+        address: 37 George Street, Launceston, Tas 7250		
+        postal: PO Box 5194, Launceston, Tas, 7250		
+        fax: (03) 6331 2044 
+        phone: (03) 3367 0566
+
+  - name: John Reginal 'John' Williams
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for New South Wales
+    party: Nats	
+    state: NSW
+    contact:
+      - office: Electorate
+        address: 144 Byron Street, Inverell, NSW 2360		
+        fax: (02) 6721 4544
+        phone: (02) 6721 4500
+        tollfree: 1300 301 815
+
+  - name: Penny  'Penny' Wong
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Leader of the Opposition in the Senate
+      - Senator for South Australia
+    party: ALP	
+    state: SA
+    contact:
+      - office: Electorate
+        address: Level 4, 19 Gouger Street, Adelaide, SA 5000		
+        postal: PO Box 6237, Halifax Street, Adelaide, SA, 5000		
+        fax: (08) 8212 8273
+        phone: (08) 8212 8272
+        tollfree: 1300 301 698
+
+  - name: Penelope Lesley 'Penny' Wright
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    roles:
+      - Senator for South Australia
+    party: AG	
+    state: SA
+    contact:
+      - office: Electorate
+        address: Level 3, 27 Leigh Street, Adelaide, SA 5000		
+        postal: PO Box 8117, Station Arcade, Adelaide, SA, 5000		
+        fax: (08) 8410 4599
+        phone: (08) 8410 4588
+
+  - name: Nicholas 'Nick' Xenophon
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    roles:
+      - Senator for South Australia
+    party: IND
+    state: SA
+    contact:
+      - office: Electorate
+        address: Level 2, 31 Ebenezer Place, Adelaide, SA 5000		
+        fax: (08) 8232 3744
+        phone: (08) 8232 1144
+        tollfree: 1300 556 115
