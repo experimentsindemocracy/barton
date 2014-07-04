@@ -1,0 +1,185 @@
+---
+name: City of Gold Coast
+tags: [LGA, local, South East Queensland]
+people:
+        
+  - name: Tom Tate
+    title: Mayor
+    roles:
+      - Mayor
+    contact:
+      - office: Mayors Office
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 5283
+        fax: 07 5581 6054
+        email: mayor@goldcoast.qld.gov.au
+
+  - name: Councillor Donna Gates
+    title: Councillor
+    roles:
+      - Deputy Mayor
+      - Councillor for Division 1 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 6301
+        mobile: 0424 778 999
+        fax: 07 5582 8355
+        email: division1@goldcoast.qld.gov.au
+
+  - name: Councillor William Owen-Jones
+    title: Councillor
+    roles: 
+      - Councillor for Division 2 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5582 8555
+        mobile: 0412 242 622
+        fax: 07 5582 8545
+        email: division2@goldcoast.qld.gov.au
+
+  - name: Councillor Cameron Caldwell
+    title: Councillor
+    roles: 
+      - Councillor for Division 3 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 1680
+        fax: 07 5577 4028
+        email: division3@goldcoast.qld.gov.au
+
+  - name: Councillor Margaret Grummitt
+    title: Councillor
+    roles: 
+      - Councillor for Division 4 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 6434
+        mobile: 0414 180 099
+        fax: 07 5581 5292
+        email: division4@goldcoast.qld.gov.au
+
+  - name: Councillor Tracey Gilmore
+    title: Councillor
+    roles: 
+      - Councillor for Division 5 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5582 8400
+        mobile: 0439 226 519
+        fax: 07 5582 8478
+        email: division5@goldcoast.qld.gov.au
+
+  - name: Councillor Dawn Crichlow
+    title: Councillor
+    suffix: OAM
+    roles: 
+      - Councillor for Division 6 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 6280
+        mobile: 0414 180 677
+        fax: 07 5581 6899
+        email: gbrown@goldcoast.qld.gov.au
+
+  - name: Councillor Lex Bell
+    title: Councillor
+    suffix: OAM
+    roles: 
+      - Councillor for Division 7 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 6760
+        mobile: 0439 226 520
+        fax: 07 5581 5293
+        email: division7@goldcoast.qld.gov.au
+
+  - name: Councillor Bob La Castra
+    title: Councillor
+    roles: 
+      - Councillor for Division 8 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5582 8206
+        mobile: 0414 180 008
+        fax: 07 5596 6010
+        email: division8@goldcoast.qld.gov.au
+
+  - name: Councillor Glen Tozer
+    title: Councillor
+    roles: 
+      - Councillor for Division 9 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 1883
+        mobile: 0419 558 685
+        fax: 07 5530 6508
+        email: division9@goldcoast.qld.gov.au
+
+  - name: Councillor Paul Taylor
+    title: Councillor
+    roles: 
+      - Councillor for Division 10 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 6171
+        mobile: 0439 226 521
+        fax: 07 5581 5294
+        email: division10@goldcoast.qld.gov.au
+
+  - name: Councillor Jan Grew
+    title: Councillor
+    roles: 
+      - Councillor for Division 11 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5582 8255
+        mobile: 0414 180 004
+        fax: 07 5582 8240
+        email: division11@goldcoast.qld.gov.au
+
+  - name: Councillor Greg Betts
+    title: Councillor
+    roles: 
+      - Councillor for Division 12 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 6382
+        mobile: 0414 180 119
+        fax: 07 5581 7640
+        email: division12@goldcoast.qld.gov.au
+
+  - name: Councillor Daphne McDonald
+    title: Councillor
+    roles: 
+      - Councillor for Division 13 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 6228
+        mobile: 0414 180 013
+        fax: 07 5581 6547
+        email: division13@goldcoast.qld.gov.au
+
+  - name: Councillor Chris Robbins
+    title: Councillor
+    roles: 
+      - Councillor for Division 14 
+    contacts: 
+      - office: Ward
+        postal: PO Box 5042, Gold Coast MC QLD 9729
+        phone: 07 5581 5275
+        mobile: 0414 180 014
+        fax: 07 5581 5299
+        email: division14@goldcoast.qld.gov.au
