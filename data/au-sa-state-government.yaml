@@ -662,6 +662,7 @@ people:
         email: Wingard.mitchell@parliament.sa.gov.au
         phone: 8377 3500 or 8377 3511
         fax: 8377 3522
+
   - name: Dana WORTLEY
     title:  Ms
     roles:
@@ -673,3 +674,205 @@ people:
         email: torrens@parliament.sa.gov.au
         phone: 08 8369 2323
         fax: 08 8369 0410
+
+  - name: Robert Brokenshire
+    title: The Honourable
+    party: Family First Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: John Darley
+    title: The Honourable
+    party: Independent
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: John Dawkins
+    title: The Honourable
+    party: Liberal Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Bernard Finnigan
+    title: The Honourable
+    party: Independent
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Tammy Franks
+    title: The Honourable
+    party: The Greens
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Gail Gago
+    title: The Honourable
+    party: Australian Labor Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: John Gazzola
+    title: The Honourable
+    party: Australian Labor Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Dennis Hood
+    title: The Honourable
+    party: Family First Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Ian Hunter
+    title: The Honourable
+    party: Australian Labor Party
+    roles:
+      - Minister for Sustainability, Environment and Conservation
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+      - office: Ministerial
+        postal: GPO Box 1047 ADELAIDE SA 5001
+
+  - name: Gerry Kandelaars
+    title: The Honourable
+    party: Australian Labor Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Jing Lee
+    title: The Honourable
+    party: Liberal Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Michelle Lensink
+    title: The Honourable
+    party: Liberal Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Rob Lucas
+    title: The Honourable
+    party: Liberal Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Kyam Maher
+    title: The Honourable
+    party: Australian Labor Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Andrew McLachlan
+    title: The Honourable
+    suffix: CSC
+    party: Liberal Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Tung Ngo
+    title: The Honourable
+    party: Australian Labor Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Mark Parnell
+    title: The Honourable
+    party: The Greens
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: David Ridgway
+    title: The Honourable
+    party: Liberal Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Terry Stephens
+    title: The Honourable
+    party: Liberal Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Kelly Vincent
+    title: The Honourable
+    party: Dignity for Disability
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
+
+  - name: Stephen Wade
+    title: The Honourable
+    party: Liberal Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA	5000
+
+  - name: Russell Wortley
+    title: The Honourable
+    party: Australian Labor Party
+    roles:
+      - Member of the Legislative Council
+    contact:
+      - office: Parliament
+        postal: Parliament House ADELAIDE SA 5000
