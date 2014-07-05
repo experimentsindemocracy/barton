@@ -1,8 +1,8 @@
 ---
 name: Queensland Government
 tags: [Queensland, state]
-people: 
-  
+people:
+
   - name: Verity Mary BARTON
     salutation: Dear Miss
     suffix: MP
@@ -70,7 +70,7 @@ people:
     contact:
       - office: Ministerial
         address: Level 18, State Law Building, 50 Ann Street, Brisbane Qld 4001
-        postal: GPO Box 149, Brisbane Qld 4001    
+        postal: GPO Box 149, Brisbane Qld 4001
         email: attorney@ministerial.qld.gov.au
         phone: 07 3719 7400
         fax: 07 3220 6227
@@ -79,7 +79,7 @@ people:
         postal: PO Box 1200, Buddina Qld 4575
         email: kawana@parliament.qld.gov.au
         phone: 07 5478 1189
-        fax: 07 5478 1815        
+        fax: 07 5478 1815
 
   - name: Mark Andrew, BOOTHMAN
     suffix: MP
@@ -192,7 +192,7 @@ people:
         postal: PO Box 1515, Ingham Qld 4850
         email: hinchinbrook@parliament.qld.gov.au
         phone: 07 4776 1428
-        fax: 07 4776 3503    
+        fax: 07 4776 3503
       - office: Ministerial
         address: Level 17, QMEC Building, 61 Mary Street, Brisbane Qld 4000
         postal: PO Box 15216, City East Qld 4002
@@ -213,7 +213,7 @@ people:
         address: Shop 3, 198 Nathan Street, Aitkenvale Qld  4814
         email: mundingburra@parliament.qld.gov.au
         phone: 07 4725 4166
-        fax: 07 4725 4194    
+        fax: 07 4725 4194
       - office: Ministerial
         address: Level 18, Mineral House, 41 George Street, Brisbane Qld 4000
         postal: PO Box 15031, City East Qld 4002
@@ -224,7 +224,7 @@ people:
   - name: Elizabeth Anne 'Liz' CUNNINGHAM
     salutation: Dear Mrs
     suffix: MP
-    roles: 
+    roles:
       - Member for Gladstone
     party: IND
     contact:
@@ -239,7 +239,7 @@ people:
   - name: Yvette Maree 'Yvette' D’ATH, Yvette Maree
     salutation: Dear Mrs
     suffix: MP
-    roles: 
+    roles:
       - Shadow Minister for Education and Training, Disability Services, Science, IT and Innovation
       - Member for Redcliffe
     party: ALP
@@ -280,7 +280,7 @@ people:
         address: Shop 2, 1315 Gympie Road, Aspley Qld  4034
         email: aspley@parliament.qld.gov.au
         phone: 07 3719 7500
-        fax: 07 3220 6235      
+        fax: 07 3220 6235
       - office: Ministerial
         address: Level 13, 111 George Street, Brisbane Qld 4000
         postal: GPO Box 806, Brisbane Qld 4001
@@ -302,7 +302,7 @@ people:
         postal: PO Box 935, Bundaberg Qld 4670
         email: bundaberg@parliament.qld.gov.au
         phone: 07 4152 1476
-        fax: 07 4152 8726    
+        fax: 07 4152 8726
       - office: Ministerial
         address: Level 24, State Law Building, 50 Ann Street, Brisbane Qld 4000
         postal: PO Box 15195, City East Qld 4002
@@ -325,14 +325,14 @@ people:
         postal: PO Box 187, Buderim Qld 4556
         email: buderim@parliament.qld.gov.au
         phone: 07 5450 1115
-        fax: 07 5453 7802    
+        fax: 07 5453 7802
       - office: Ministerial
         address: Level 7 111 George Street, Brisbane Qld 4000
         postal: PO Box 15187, City East Qld 4002
         email: nprsr@ministerial.qld.gov.au
         phone: 07 3719 7110
         fax: 07 3220 6236
-    
+
   - name: Aaron Stuart DILLAWAY
     suffix: MP
     roles:
@@ -349,7 +349,7 @@ people:
   - name: Alexander Rodney 'Alex' DOUGLAS
     salutation: Dear Dr
     suffix: MP
-    roles: 
+    roles:
       - Leader of a Minor Party
       - Member for Gaven
     party: PUP
@@ -364,7 +364,7 @@ people:
 
   - name: Peter DOWLING
     suffix: MP
-    roles: 
+    roles:
       - Member for Redlands
     party: LNP
     contact:
@@ -379,19 +379,19 @@ people:
     title: The Honourable
     salutation: Dear Minister
     suffix: MP
-    roles: 
+    roles:
       - Minister for Aboriginal and Torres Strait Islander and Multicultural Affairs and
       - Minister Assisting the Premier
       - Member for Noosa
     party: LNP
     contact:
       - office: Electorate
-        address: Suite CB05, Noosa Civic, 28 Eenie Creek Road, Noosaville Qld 4566 
+        address: Suite CB05, Noosa Civic, 28 Eenie Creek Road, Noosaville Qld 4566
         postal: PO Box 1849, Noosaville DC Qld 4566
         email: noosa@parliament.qld.gov.au
         phone: 07 5449 8988
         fax: 07 5449 9719
-        tollfree: 1800 818 396        
+        tollfree: 1800 818 396
       - office: Ministerial
         address: Level 6B, Neville Bonner Building, 75 William Street, Brisbane Qld 4000
         postal: PO Box 15397, City East Qld 4002
@@ -412,7 +412,7 @@ people:
         address: Suite 1, 49 Station Road, Indooroopilly Qld  4068
         email: indooroopilly@parliament.qld.gov.au
         phone: 07 3878 1928
-        fax: 07 3378 7072      
+        fax: 07 3378 7072
       - office: Ministerial
         address: Level 15, Capital Hill, 85 George Street Brisbane Qld 4000
         postal: GPO Box 2644, Brisbane Qld 4001
@@ -433,7 +433,7 @@ people:
         email: moggill@parliament.qld.gov.au
         phone: 07 3378 8020
         fax: 07 3378 0592
-    
+
   - name: Lisa Nicole FRANCE
     salutation: Dear Mrs
     suffix: MP
@@ -480,7 +480,7 @@ people:
 
   - name: John Bramwell GRANT
     suffix: MP
-    roles: 
+    roles:
       - Member for Springwood
     party: LNP
     contact:
@@ -529,11 +529,11 @@ people:
         email: burleigh@parliament.qld.gov.au
         phone: 07 5526 6024
         fax: 07 5526 6135
-    
+
 
   - name: John Damien HATHAWAY
     suffix: MP
-    roles: 
+    roles:
       - Member for Townsville
     party: LNP
     contact:
@@ -565,7 +565,7 @@ people:
         phone: 07 4625 4301
         fax: 07 4625 4303
         tollfree: 1800 625 430
-    
+
   - name: Seath Andrew HOLSWICH
     suffix: MP
     roles:
@@ -597,7 +597,7 @@ people:
 
   - name: Vaughan Gregory JOHNSON
     suffix: MP
-    roles: 
+    roles:
       - Chief Whip
       - Member for Gregory
     party: LNP
@@ -609,7 +609,7 @@ people:
         phone: 07 4658 1227
         fax: 07 4658 1949
         tollfree: 800 818 754
-      - office: Emerald Electorate     
+      - office: Emerald Electorate
         address: 93 Clermont Street, Emerald Qld 4720
         postal: PO Box 444, Emerald Qld 4720
         email: gregory.emerald@parliament.qld.gov.au
@@ -643,7 +643,7 @@ people:
         email: mount.isa@parliament.qld.gov.au
         phone: 07 4743 5149
         fax: 07 4743 3386
-        tollfree: 1800 818 824 
+        tollfree: 1800 818 824
       - office: Cloncurry
         address: 27 Ramsay Street, Cloncurry Qld 4824
         email: mount.isa.cloncurry@parliament.qld.gov.au
@@ -666,7 +666,7 @@ people:
 
   - name: David, KEMPTON
     suffix: MP
-    roles: 
+    roles:
       - Assistant Minister for Aboriginal andTorres Strait Islander Affairs
       - Member for Cook
     party: LNP
@@ -677,7 +677,7 @@ people:
         email: cook@parliament.qld.gov.au
         phone: 07 4092 7608
         fax: 07 4092 7653
-        tollfree: 1800 816 264      
+        tollfree: 1800 816 264
       - office: Thursday Island Office
         address: Commonwealth Centre, Hastings Street, Thursday Island Qld 4875
         postal: PO Box 545, Thursday Island Qld 4875
@@ -713,7 +713,7 @@ people:
         email: dalrymple@parliament.qld.gov.au
         phone: 07 4091 5861
         fax: 07 4091 4675
-        tollfree: 1800 245 247        
+        tollfree: 1800 245 247
       - office: Charters Towers Electorate Office
         address: Stock Exchange Arcade, 2/76 Mosman Street, Charters Towers Qld 4820
         email: dalrymple.charters@parliament.qld.gov.au
@@ -739,7 +739,7 @@ people:
     title: The Honourable
     salutation: Dear Minister
     suffix: MP
-    roles: 
+    roles:
       - Minister for Education, Training and Employment
       - Member for Surfers Paradise
     party: LNP
@@ -849,7 +849,7 @@ people:
     salutation: Dear Minister
     salutation: Dear Dr
     suffix: MP
-    roles: 
+    roles:
       - Minister for Agriculture, Fisheries and Forestry
       - Member for Toowoomba South
     party: LNP
@@ -960,7 +960,7 @@ people:
 
   - name: Campbell Kevin NEWMAN
     title: The Honourable
-    salutation: Dear Premier    
+    salutation: Dear Premier
     suffix: MP
     roles:
       - Premier
@@ -972,7 +972,7 @@ people:
         postal: PO Box 15185, City East Qld 4002
         email: thepremier@premiers.qld.gov.au Shop 2, 230 Waterworks Road, Ashgrove Qld 4060
         phone: 07 3719 7000
-        fax: 07 3220 6222        
+        fax: 07 3220 6222
       - office: Electorate
         postal: PO Box 3010, Ashgrove East Qld 4060
         email: ashgrove@parliament.qld.gov.au
@@ -981,7 +981,7 @@ people:
 
   - name: Timothy James 'Tim' NICHOLLS
     title: The Honourable
-    salutation: Dear Minister    
+    salutation: Dear Minister
     suffix: MP
     roles:
       - Treasurer and Minister for Trade
@@ -1014,7 +1014,7 @@ people:
         phone: 07 3344 2659
         fax: 07 3344 1258
 
-  - name: Annastacia PALASZCZUK 
+  - name: Annastacia PALASZCZUK
     title: Honourable
     salutation: Dear Minister
     suffix: MP
@@ -1158,7 +1158,7 @@ people:
     title: The Honourable
     salutation: Dear Minister
     suffix: MP
-    roles: 
+    roles:
       - Deputy Premier
       - Minister for State Development, Infrastructure and Planning
       - Member for Callide
@@ -1209,7 +1209,7 @@ people:
     salutation: Dear Minister
     salutation: Dear Ms
     suffix: MP
-    roles: 
+    roles:
       - Speaker
       - Memnber for Maroochydore
     party: LNP
@@ -1338,7 +1338,7 @@ people:
   - name: Jackie TRAD
     salutation: Dear Ms
     suffix: MP
-    roles: 
+    roles:
       - Shadow Minister for Transport and Main Roads, Environment and Heritage Protection, Small Business and Consumer Affairs, The Arts
       - Member for South Brisbane
     party: ALP
@@ -1366,9 +1366,9 @@ people:
 
   - name: Vacant
     suffix: MP
-    roles: 
+    roles:
       - Member for Stafford
-    party: LNP 
+    party: LNP
     contact:
       - office: Electorate
         address: Unit  207, 6 Babarra Street, Stafford Qld 4053
@@ -1391,7 +1391,7 @@ people:
         postal: PO Box 2202, Mansfield BC Qld 4122
         email: mansfield@parliament.qld.gov.au
         phone: 07 3849 3488
-        fax: 07 3849 3511      
+        fax: 07 3849 3511
       - office: Ministerial
         address: Level 5, Executive Building, 100 George Street, Brisbane Qld 4000
         postal: GPO Box 5078, Brisbane Qld 4001

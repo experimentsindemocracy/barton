@@ -1,6 +1,6 @@
 name: Government of Victoria
 tags: [Australia, state, Victoria]
-people:  
+people:
   - name: Jacinta Marie Allan
     title: The Honourable
     salutation: Dear Ms
@@ -9,7 +9,7 @@ people:
     roles:
       - Manager of Opposition Business; Shadow Minister for Regional and Rural Development; Shadow Minister for Regional Cities; Shadow Minister for Agriculture
       - Member for Bendigo East
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 35 Wills Street, Bendigo, VIC 3550
@@ -28,7 +28,7 @@ people:
     roles:
       - Leader of the Labor Party; Leader of the Opposition; Shadow Minister for Veterans' Affairs; Shadow Minister for Multicultural Affairs
       - Member for Mulgrave
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 517A Princes Highway, Noble Park, VIC 3174
@@ -45,7 +45,7 @@ people:
     gender: Male
     roles:
       - Member for Forest Hill
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 4 Lawrence Street, Blackburn South, VIC 3130
@@ -61,7 +61,7 @@ people:
     roles:
       - Deputy Leader of the Liberal Party; Minister for Innovation; Minister for Tourism and Major Events; Minister for Employment and Trade
       - Member for Brighton
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 36, 121 Exhibition Street, Melbourne, VIC 3000
@@ -80,7 +80,7 @@ people:
     roles:
       - President of the Legislative Council
       - Member for Eastern Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 153-155 Springvale Road, Nunawading, VIC 3131
@@ -97,7 +97,7 @@ people:
     gender: Male
     roles:
       - Member for Hawthorn
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 325 Camberwell Road, Camberwell, VIC 3124
@@ -112,7 +112,7 @@ people:
     roles:
       - Leader of The Victorian Greens
       - Member for Northern Metropolitan
-    party: The Australian Greens	
+    party: The Australian Greens
     contact:
       - office: Electorate
         address: Suite G-01, 60 Leicester Street, Carlton 3053
@@ -129,7 +129,7 @@ people:
     gender: Female
     roles:
       - Member for Oakleigh
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 19 Station Street, Oakleigh, VIC 3166
@@ -145,14 +145,14 @@ people:
     roles:
       - Parliamentary Secretary for the Environment
       - Member for Gembrook
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Suite 5, 6-8 Langmore Lane, Berwick, VIC 3806
         email: brad.battin@parliament.vic.gov.au
         fax: (03) 9796 1891
         phone: (03) 9796 1987
-        web: http://www.bradbattin.com 
+        web: http://www.bradbattin.com
         facebook: http://www.facebook.com/pages/Brad-Battin-MP-Member-for-Gembrook/191118927584830
 
   - name: Donna Jane Bauer
@@ -161,14 +161,14 @@ people:
     gender: Female
     roles:
       - Member for Carrum
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 374 Nepean Highway, Chelsea, VIC 3196
         email: donna.bauer@parliament.vic.gov.au
         fax: (03) 9776 0138
         phone: (03) 9772 4544
-        web: http://www.donnabauer.com.au 
+        web: http://www.donnabauer.com.au
         facebook: http://www.facebook.com/DonnaBauerMP
         twitter: http://twitter.com/DonnaBauerMP
 
@@ -178,7 +178,7 @@ people:
     gender: Female
     roles:
       - Member for Yuroke
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 3A Hamilton Street, Craigieburn, VIC 3064
@@ -195,7 +195,7 @@ people:
     roles:
       - Parliamentary Secretary for Transport
       - Member for Narracan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 3/24 Mason Street, Warragul, VIC 3820
@@ -210,7 +210,7 @@ people:
     roles:
       - Parliamentary Secretary to the Shadow Minister for Education
       - Member for Bundoora
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Suite 1, 1320 Plenty Road, Bundoora, VIC 3083
@@ -228,7 +228,7 @@ people:
     roles:
       - Minister for Local Government; Minister for Aboriginal Affairs
       - Member for Gippsland East
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Ministerial
         address: Level 22, 1 Spring Street, Melbourne, VIC 3000
@@ -247,7 +247,7 @@ people:
     gender: Male
     roles:
       - Member for Hastings
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 6 Eramosa Road East, Somerville, VIC 3912
@@ -263,14 +263,14 @@ people:
     gender: Female
     roles:
       - Member for Pascoe Vale
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 416a Bell Street, Pascoe Vale, VIC 3044
         email: christine.campbell@parliament.vic.gov.au
         fax: (03) 9354 3599
         phone: (03) 9354 9935
-        web: http://www.christinecampbell.com.au 
+        web: http://www.christinecampbell.com.au
         twitter: http://twitter.com/CCampbellMP
 
 
@@ -281,7 +281,7 @@ people:
     roles:
       - Parliamentary Secretary to the Shadow Ministers for Local Government and Suburbs
       - Member for Ivanhoe
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Shop 14, The Mall, Heidelberg West, VIC 3081
@@ -298,7 +298,7 @@ people:
     roles:
       - Parliamentary Secretary to the Shadow Minister for Public Transport; Parliamentary Secretary to the Shadow Minister for Roads
       - Member for Niddrie
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 473 Keilor Road, Niddrie, Victoria, VIC 3042
@@ -315,7 +315,7 @@ people:
     roles:
       - Attorney-General; Minister for Finance; Minister for Industrial Relations
       - Member for Box Hill
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 26, 121 Exhibition Street, Melbourne, VIC 3000
@@ -335,7 +335,7 @@ people:
     roles:
       - Parliamentary Secretary for Families and Community Services
       - Member for Southern Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 306 Bay Street, Port Melbourne, VIC 3207
@@ -350,7 +350,7 @@ people:
     roles:
       - The Nationals Whip
       - Member for Mildura
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Electorate
         address: 35 Deakin Avenue, Mildura, VIC 3500
@@ -367,7 +367,7 @@ people:
     roles:
       - Parliamentary Secretary for Health
       - Member for Southern Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Shops 1 & 2, 667-669 Glenhuntly Road, Caulfield, VIC 3162
@@ -383,7 +383,7 @@ people:
     roles:
       - Shadow Minister for Energy and Resources; Shadow Minister for the Cost of Living; Shadow Minister for the Suburbs
       - Member for Mill Park
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 6 May Road, Lalor, VIC 3075
@@ -399,7 +399,7 @@ people:
     gender: Male
     roles:
       - Member for Eastern Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Suite 10, 477 Burwood Highway, Vermont South, VIC 3133
@@ -414,7 +414,7 @@ people:
     gender: Female
     roles:
       - Member for Northern Victoria
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 316 Wyndham Street, Shepparton, VIC 3630
@@ -431,7 +431,7 @@ people:
     roles:
       - Leader of the Government in the Legislative Council; Minister for Health; Minister for Ageing
       - Member for Southern Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 22, 50 Lonsdale Street, Melbourne, VIC 3000
@@ -449,7 +449,7 @@ people:
     gender: Hamilton (03) 5571 9800"
     roles:
       - Member for Lowan
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Electorate
         address: (Horsham Office), 114 Firebrace Street, Horsham 3400, (Hamilton Office), 44 Gray Street, Hamilton 3300, VIC ---
@@ -468,7 +468,7 @@ Male
     roles:
       - Minister for Education
       - Member for Nepean
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: 2 Treasury Place, Level 1, East Wing, East Melbourne, VIC 3002
@@ -489,7 +489,7 @@ Male
     roles:
       - Shadow Minister for Roads; Shadow Minister for Road Safety and the TAC
       - Member for Narre Warren North
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Shop 91, Endeavour Hills Shopping Centre, Cnr Heatherton Road & Matthew Flinders Avenue, Endeavour Hills, VIC 3802
@@ -507,7 +507,7 @@ Male
     roles:
       - Deputy Leader of The Nationals in the Legislative Council; Minister for Sport and Recreation; Minister for Veterans' Affairs
       - Member for Northern Victoria
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Ministerial
         address: Level 27, 1 Spring Street, VIC 3000
@@ -526,7 +526,7 @@ Male
     gender: Female
     roles:
       - Member for Macedon
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Shop 14, Nexus Centre, 9 Goode Street, Gisborne, VIC 3437
@@ -542,7 +542,7 @@ Male
     gender: Female
     roles:
       - Member for Bendigo West
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 8 Panton Street, Golden Square, VIC 3555
@@ -557,7 +557,7 @@ Male
     gender: Male
     roles:
       - Member for Western Metropolitan
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Suite 2, 80 Carmody Drive, Cairnlea, VIC 3023
@@ -571,7 +571,7 @@ Male
     gender: Male
     roles:
       - Member for Northern Metropolitan
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Shop 5, 101 Burgundy Street, Heidelberg, VIC 3084
@@ -585,7 +585,7 @@ Male
     gender: Male
     roles:
       - Member for Western Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Shop 3, 1-13 Watton Street, Werribee, VIC 3030
@@ -601,7 +601,7 @@ Male
     roles:
       - Shadow Minister for Sport and Recreation; Shadow Minister for Volunteers; Shadow Minister for Tourism and Major Events
       - Member for Lara
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 1st Floor, Corio Village Centre, Bacchus Marsh Road, Corio, VIC 3214
@@ -616,7 +616,7 @@ Male
     gender: Male
     roles:
       - Member for Western Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 277 Hampshire Road, Sunshine, VIC 3020
@@ -631,7 +631,7 @@ Male
     roles:
       - Shadow Minister for Water; Shadow Minister for Arts; Shadow Minister for Youth Affairs
       - Member for Albert Park
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 46 Rouse Street, Port Melbourne, VIC 3207
@@ -647,7 +647,7 @@ Male
     roles:
       - Speaker of the Legislative Assembly
       - Member for Evelyn
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 143 Main Street, Lilydale, VIC 3140
@@ -663,7 +663,7 @@ Male
     roles:
       - Shadow Cabinet Secretary
       - Member for Brunswick
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Suite 1, 31 Nicholson Street, Brunswick East, VIC 3057
@@ -680,14 +680,14 @@ Male
     gender: Male
     roles:
       - Member for Mount Waverley
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Suite 1, 40 Montclair Avenue, Glen Waverley, VIC 3150
         email: michael.gidley@parliament.vic.gov.au
         fax: (03) 9561 5266
         phone: (03) 9561 0511
-        web: http://www.michaelgidley.com.au 
+        web: http://www.michaelgidley.com.au
         facebook: http://www.facebook.com/michaelgidley
         twitter: http://twitter.com/michaelgidley
 
@@ -698,7 +698,7 @@ Male
     roles:
       - Parliamentary Secretary to the Leader of the Opposition
       - Member for Narre Warren South
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Suite 4, 418 Princes Highway, Narre Warren, VIC 3805
@@ -714,7 +714,7 @@ Male
     roles:
       - Shadow Minister for the Prevention of Family Violence; Shadow Minister for Women; Shadow Minister for Health Promotion
       - Member for Yan Yean
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Suite 3/14 Yan Yean Road, Diamond Creek, VIC 3089
@@ -722,7 +722,7 @@ Male
         email: danielle.green@parliament.vic.gov.au
         fax: (03) 9432 9793
         phone: (03) 9432 9782
-        web: http://daniellegreen.org.au 
+        web: http://daniellegreen.org.au
         twitter: http://twitter.com/DanielleGreenMP
         facebook: http://facebook.com/daniellegreenmp
 
@@ -735,7 +735,7 @@ Male
     roles:
       - Minister for Planning; Minister for Multicultural Affairs and Citizenship
       - Member for Northern Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 20, 1 Spring Street, Melbourne, VIC 3000
@@ -753,7 +753,7 @@ Male
     gender: Female
     roles:
       - Member for Thomastown
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 274 High Street, Thomastown, VIC 3074
@@ -768,7 +768,7 @@ Male
     gender: Female
     roles:
       - Member for Western Metropolitan
-    party: The Australian Greens	
+    party: The Australian Greens
     contact:
       - office: Electorate
         address: 75 Victoria Street, Seddon, VIC 3011
@@ -785,7 +785,7 @@ Male
     gender: Male
     roles:
       - Member for Ripon
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 177 High Street, Maryborough, VIC 3465
@@ -801,7 +801,7 @@ Male
     roles:
       - Shadow Minister for Public Transport
       - Member for Altona
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Suite 603, Level 1, 2 Main Street, Point Cook Town Centre, Point Cook, VIC 3030
@@ -809,7 +809,7 @@ Male
         email: jill.hennessy@parliament.vic.gov.au
         fax: (03) 9395 3061
         phone: (03) 9395 0221
-        web: http://www.jillhennessy.com.au 
+        web: http://www.jillhennessy.com.au
         facebook: http://www.facebook.com/JillHennessyMP
         twitter: http://twitter.com/jillhennessyMP
 
@@ -820,14 +820,14 @@ Male
     roles:
       - Shadow Minister for Higher Education; Shadow Minister for Skills and Apprenticeships
       - Member for Eltham
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 718 Main Road, Eltham, VIC 3095
         email: steven.herbert@parliament.vic.gov.au
         fax: (03) 9431 0505
         phone: (03) 9439 1500
-        web: http://www.steveherbertmp.com.au 
+        web: http://www.steveherbertmp.com.au
         facebook: http://www.facebook.com/steveherbertmp
         twitter: http://twitter.com/SteveHerbertMP
 
@@ -839,7 +839,7 @@ Male
     roles:
       - Minister for Ports; Minister for Major Projects; Minister for Manufacturing
       - Member for Kilsyth
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: 36/121 Exhibition St, Melbourne, VIC 3000
@@ -858,7 +858,7 @@ Male
     gender: Male
     roles:
       - Member for Ballarat East
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 15 Main Road, Ballarat, VIC 3350
@@ -874,7 +874,7 @@ Male
     roles:
       - Shadow Minister for Industrial Relations; Shadow Minister for Ports, Freight and Logistics
       - Member for Keilor
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Shop 11, Aquagardens Shopping Centre, 28A Hume Drive, Sydenham, VIC 3037
@@ -890,14 +890,14 @@ Male
     roles:
       - Deputy Leader of the Opposition in the Legislative Council; Shadow Minister for Health; Shadow Minister for Mental Health; Shadow Minister for Ambulance Services
       - Member for South-Eastern Metropolitan
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 517A Princes Highway, Noble Park, VIC 3174
         email: gavin.jennings@parliament.vic.gov.au
         fax: (03) 9548 5634
         phone: (03) 9548 5644
-        twitter: http://twitter.com/GavinJennings 
+        twitter: http://twitter.com/GavinJennings
         facebook: http://www.facebook.com/people/Gavin-Jennings/1266833759
 
 
@@ -908,7 +908,7 @@ Male
     roles:
       - Opposition Whip
       - Member for Kororoit
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Shop T54, Brimbank Shopping Centre, Cnr Neale and Station Roads, Deer Park, VIC 3023
@@ -922,7 +922,7 @@ Male
     gender: Female
     roles:
       - Member for Melbourne
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 146-148 Peel Street, North Melbourne, VIC 3051
@@ -940,7 +940,7 @@ Male
     gender: Male
     roles:
       - Member for South Barwon
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 152 High Street, Belmont, VIC 3216
@@ -955,14 +955,14 @@ Male
     gender: Female
     roles:
       - Member for Ballarat West
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Ground Floor, 17 Lydiard Street North, Ballarat, VIC 3350
         email: sharon.knight@parliament.vic.gov.au
         fax: (03) 5331 5165
         phone: (03) 5331 1003
-        web: http://www.sharonknight.com.au 
+        web: http://www.sharonknight.com.au
         facebook: http://www.facebook.com/SharonKnightMP
 
 
@@ -973,7 +973,7 @@ Male
     roles:
       - Government Whip in the Legislative Council
       - Member for Western Victoria
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 69A Gheringhap Street, Geelong, VIC 3220
@@ -990,7 +990,7 @@ Male
     gender: Male
     roles:
       - Member for Bulleen
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Shop 30D, Bulleen Plaza, 101 Manningham Road, Bulleen, VIC 3105
@@ -1004,7 +1004,7 @@ Male
     gender: Female
     roles:
       - Member for Eastern Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 285 Maroondah Hwy, Ringwood, VIC 3134
@@ -1020,7 +1020,7 @@ Male
     gender: Male
     roles:
       - Member for Derrimut
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 103 Glengala Road, Sunshine West, VIC 3020
@@ -1036,7 +1036,7 @@ Male
     roles:
       - Opposition Whip in the Legislative Council
       - Member for Eastern Metropolitan
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Suite 3, Level 2, 420 Burwood Highway, Wantirna, VIC 3152
@@ -1044,7 +1044,7 @@ Male
         email: shaun.leane@parliament.vic.gov.au
         fax: (03) 9887 1559
         phone: (03) 9887 0255
-        web: http://www.shaunleanemp.com.au 
+        web: http://www.shaunleanemp.com.au
         twitter: http://twitter.com/ShaunLeaneMP
 
 
@@ -1055,7 +1055,7 @@ Male
     roles:
       - Leader of the Opposition in the Legislative Council; Shadow Minister for Policy Coordination
       - Member for Southern Metropolitan
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 281 Centre Road, Bentleigh, VIC 3204
@@ -1069,11 +1069,11 @@ Male
     gender: Female
     roles:
       - Member for Northern Victoria
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Suite 4, 33-35 Macedon Street, Sunbury, VIC 3429
-        email: 
+        email:
         fax: (03) 9740 4978
         phone: (03) 9740 4091
 
@@ -1083,7 +1083,7 @@ Male
     gender: Male
     roles:
       - Member for Clayton
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Level 1, 1312 Centre Road, Clayton South, VIC 3169
@@ -1100,7 +1100,7 @@ Male
     roles:
       - Deputy Leader of the Government in the Legislative Council; Minister for Housing; Minister for Children and Early Childhood Development; Manager of Government Business (Legislative Council)
       - Member for Northern Victoria
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 22, 50 Lonsdale Street, Melbourne, VIC 3000
@@ -1122,8 +1122,8 @@ Male
     party: Australian Labor Party
     contact:
       - office: Electorate
-        address: Suite 1, 28 Shuter Street, Moonee Ponds 
-        email: justin.madden@parliament.vic.gov.au 
+        address: Suite 1, 28 Shuter Street, Moonee Ponds
+        email: justin.madden@parliament.vic.gov.au
         fax: (03) 9326 0483
         phone: (03) 9370 7777
         postal: PO Box 605, Moonee Ponds, Vic, 3039
@@ -1135,7 +1135,7 @@ Male
     roles:
       - Parliamentary Secretary for Tourism and Trade
       - Member for Murray Valley
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Electorate
         address: 15 Murphy Street, Wangaratta, VIC 3677
@@ -1151,7 +1151,7 @@ Male
     roles:
       - Parliamentary Secretary, Opposition Scrutiny of Government
       - Member for Broadmeadows
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Shop G42, Broadmeadows Shopping Centre, 1099-1169 Pascoe Vale Road, Broadmeadows, VIC 3047
@@ -1159,7 +1159,7 @@ Male
         email: frank.mcguire@parliament.vic.gov.au
         fax: (03) 9300 3915
         phone: (03) 9300 3851
-        web: http://www.frankmcguire.com.au/ 
+        web: http://www.frankmcguire.com.au/
         facebook: http://www.facebook.com/frankmcguiremp
         twitter: http://twitter.com/Frank_McGuire
 
@@ -1170,7 +1170,7 @@ Male
     gender: Male
     roles:
       - Member for Kew
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Suite 1, 400 High Street, Kew, VIC 3101
@@ -1185,7 +1185,7 @@ Male
     gender: Female
     roles:
       - Member for Seymour
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Shop 5, 30 Wallis Street, Seymour, VIC 3660
@@ -1200,7 +1200,7 @@ Male
     gender: Male
     roles:
       - Member for Western Metropolitan
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 231 Hyde Street, Yarraville, VIC 3013
@@ -1216,7 +1216,7 @@ Male
     roles:
       - Deputy Leader of the Labor Party; Deputy Leader of the Opposition; Shadow Minister for Education
       - Member for Monbulk
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 1635 Burwood Hwy, Belgrave, VIC 3160
@@ -1234,7 +1234,7 @@ Male
     roles:
       - Shadow Minister for Community Services; Shadow Minister for Seniors and Ageing; Shadow Minister for Children
       - Member for Northern Metropolitan
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 319 Spring Street, Reservoir, VIC 3073
@@ -1249,7 +1249,7 @@ Male
     gender: Female
     roles:
       - Member for Northern Victoria
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Tenancy 3, 80 High Street, Woodend, VIC 3442
@@ -1263,7 +1263,7 @@ Male
     gender: Female
     roles:
       - Member for Bentleigh
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 723 Centre Road, Bentleigh East, VIC 3165
@@ -1279,7 +1279,7 @@ Male
     roles:
       - Parliamentary Secretary for Local Government
       - Member for Mornington
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Shop 1, 321 Main Street, Mornington, VIC 3931
@@ -1296,7 +1296,7 @@ Male
     roles:
       - Minister for Public Transport; Minister for Roads
       - Member for Polwarth
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 20, 1 Spring Street, Melbourne, VIC 3000
@@ -1316,7 +1316,7 @@ Male
     roles:
       - Premier; Leader of the Liberal Party; Minister for Regional Cities; Minister for Racing
       - Member for South-West Coast
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 1, 1 Treasury Place, Melbourne, VIC 3002
@@ -1328,7 +1328,7 @@ Male
         email: premier@dpc.vic.gov.au
         fax: (03) 5562 6145
         phone: (03) 5562 8230
-        web: http://www.premier.vic.gov.au/, http://www.denisnapthine.com.au 
+        web: http://www.premier.vic.gov.au/, http://www.denisnapthine.com.au
         facebook: http://www.facebook.com/pages/Denis-Napthine/7587892051
 
 
@@ -1339,7 +1339,7 @@ Male
     roles:
       - Parliamentary Secretary to the Leader of the Opposition
       - Member for Melton
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 3 Alexandra Street, Melton, VIC 3337
@@ -1355,7 +1355,7 @@ Male
     roles:
       - Shadow Minister for Environment and Climate Change
       - Member for Bellarine
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Shop 1, Newcomb Central, 71 Bellarine Highway, Newcomb, VIC 3219
@@ -1371,14 +1371,14 @@ Male
     roles:
       - Parliamentary Secretary for Education
       - Member for Prahran
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 94 Chapel Street, Windsor, VIC 3181
         email: clem.newton-brown@parliament.vic.gov.au
         fax: (03) 9981 9502
         phone: (03) 9981 9501
-        facebook: http://www.facebook.com/clem.newtonbrown 
+        facebook: http://www.facebook.com/clem.newtonbrown
         twitter: http://twitter.com/clemnewtonbrown
 
 
@@ -1389,7 +1389,7 @@ Male
     roles:
       - Shadow Minister for Police; Shadow Minister for Emergency Services; Shadow Minister for Bushfire Response
       - Member for Williamstown
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 101 Douglas Parade, Williamstown, VIC 3016
@@ -1407,7 +1407,7 @@ Male
     roles:
       - Minister for Small Business; Minister for Energy and Resources
       - Member for Morwell
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Ministerial
         address: Level 16, 121 Exhibition Street, Melbourne, VIC 3000
@@ -1419,7 +1419,7 @@ Male
         email: russell.northe@parliament.vic.gov.au
         fax: (03) 5133 9388
         phone: (03) 5133 9088
-        web: http://www.russellnorthe.com.au 
+        web: http://www.russellnorthe.com.au
         facebook: http://www.facebook.com/russell.northe
         twitter: http://twitter.com/RussellNortheMP
 
@@ -1431,7 +1431,7 @@ Male
     roles:
       - Treasurer
       - Member for Malvern
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 4, 1 Treasury Place, Melbourne, VIC
@@ -1443,7 +1443,7 @@ Male
         email: michael.obrien@parliament.vic.gov.au
         fax: (03) 9576 1849
         phone: (03) 9576 1850
-        web: http://www.michaelobrien.com.au 
+        web: http://www.michaelobrien.com.au
         twitter: http://twitter.com/michaelobrienmp
 
 
@@ -1454,7 +1454,7 @@ Male
     roles:
       - National Party Whip in the Legislative Council
       - Member for Western Victoria
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Electorate
         address: 2nd Floor 1 Yarra Street, La Cabine, Geelong, VIC 3220
@@ -1468,7 +1468,7 @@ Male
     gender: Male
     roles:
       - Member for Eastern Victoria
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Electorate
         address: Shop 2, 181 Franklin Street, Traralgon 3844
@@ -1484,10 +1484,10 @@ Male
     roles:
       - Minister for Liquor and Gaming Regulation; Minister for Corrections; Minister for Crime Prevention
       - Member for Eastern Victoria
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
-        address: Level 26, 121 Exhibition Street, Melbourne 3000, VIC 
+        address: Level 26, 121 Exhibition Street, Melbourne 3000, VIC
         phone: (03) 8684 0900
         fax: (03) 8684 0980
       - office: Electorate
@@ -1505,7 +1505,7 @@ Male
     roles:
       - Parliamentary Secretary to the Premier
       - Member for Northern Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         phone: (03) 9422 0099
@@ -1523,7 +1523,7 @@ Male
     roles:
       - Shadow Attorney-General; Shadow Minister for Corrections; Shadow Minister for Gaming and Racing; Opposition Scrutiny of Government
       - Member for Lyndhurst
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Suite 3, 387-389 Springvale Road, Springvale, VIC 3171
@@ -1538,13 +1538,13 @@ Male
     roles:
       - Shadow Treasurer; Shadow Minister for Employment
       - Member for Tarneit
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 1 Duncans Road, Werribee, VIC 3030
         email: tim.pallas@parliament.vic.gov.au
         phone: (03) 9742 6888
-        web: http://www.timpallas.com.au/ 
+        web: http://www.timpallas.com.au/
         twitter: http://twitter.com/timpallas
 
 
@@ -1555,7 +1555,7 @@ Male
     gender: Male
     roles:
       - Member for Dandenong
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Shop 1, 8-10 Halpin Way (formerly Garnar Lane), Dandenong, VIC 3175
@@ -1571,14 +1571,14 @@ Male
     roles:
       - The Australian Greens Whip
       - Member for Southern Metropolitan
-    party: The Australian Greens	
+    party: The Australian Greens
     contact:
       - office: Electorate
         address: 206 Bay Street, Brighton, VIC 3186
         email: sue.pennicuik@parliament.vic.gov.au
         fax: (03) 9530 8499
         phone: (03) 9530 8399
-        web: http://mps.vic.greens.org.au/ 
+        web: http://mps.vic.greens.org.au/
         facebook: http://www.facebook.com/sue.pennicuik
         twitter: http://twitter.com/sueMLC
 
@@ -1589,7 +1589,7 @@ Male
     roles:
       - Parliamentary Secretary to the Shadow Minister for Multicultural Affairs
       - Member for Cranbourne
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 157A Sladen Street, Cranbourne, VIC 3977
@@ -1606,14 +1606,14 @@ Male
     roles:
       - Cabinet Secretary
       - Member for South-Eastern Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 376 Nepean Highway, Chelsea, VIC 3196
         email: inga.peulich@parliament.vic.gov.au
         fax: (03) 9772 4648
         phone: (03) 9772 1366
-        web: http://www.ingapeulich.org 
+        web: http://www.ingapeulich.org
         facebook: http://www.facebook.com/pages/Inga-Peulich-MLC/250096022511
         twitter: http://twitter.com/IngaPeulichMP
 
@@ -1624,7 +1624,7 @@ Male
     gender: Female
     roles:
       - Member for Shepparton
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Electorate
         address: 5 Vaughan Street, Shepparton, VIC 3630
@@ -1640,7 +1640,7 @@ Male
     roles:
       - Parliamentary Secretary to the Shadow Ministers for Regional and Rural Development and Agriculture
       - Member for Western Victoria
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 15 Main Road, Ballarat 3350
@@ -1656,7 +1656,7 @@ Male
     gender: (03) 5332 9443
     roles:
       - Member for Western Victoria
-    party: 	
+    party:
     contact:
       - office: Electorate
         address: 211 Dana Street, Ballarat Liberal Party VIC 3353
@@ -1673,7 +1673,7 @@ Male
     roles:
       - Assistant Treasurer; Minister for Technology; Minister responsible for the Aviation Industry
       - Member for South-Eastern Metropolitan
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 5, 1 Macarthur Street, East Melbourne, VIC 3002
@@ -1692,7 +1692,7 @@ Male
     roles:
       - Shadow Minister for Innovation; Shadow Minister for Small Business
       - Member for Northcote
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 404 High Street, Northcote, VIC 3070
@@ -1706,7 +1706,7 @@ Male
     gender: Male
     roles:
       - Member for Eastern Victoria
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Shop 2/3, 424 Raymond Street, Sale, VIC 3850
@@ -1721,7 +1721,7 @@ Male
     gender: Female
     roles:
       - Member for Mitcham
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Suite 1, 10-12 Blackburn Road, Blackburn, VIC 3130
@@ -1739,7 +1739,7 @@ Male
     roles:
       - Deputy Premier; Leader of the Nationals; Minister for Regional and Rural Development; Minister for State Development
       - Member for Gippsland South
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Ministerial
         address: Level 3, 1 Treasury Place, Melbourne, VIC 3002
@@ -1759,7 +1759,7 @@ Male
     gender: Male
     roles:
       - Member for Eastern Victoria
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Unit 1, 23 James Street, Pakenham, VIC 3810
@@ -1775,7 +1775,7 @@ Male
     roles:
       - Shadow Minister for Finance; Shadow Minister for WorkCover; Shadow Minister for Consumer Affairs
       - Member for Preston
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 375 High Street, Preston, VIC 3072
@@ -1790,7 +1790,7 @@ Male
     gender: Male
     roles:
       - Member for Frankston
-    party: Independent	
+    party: Independent
     contact:
       - office: Electorate
         address: 140 Young Street, Frankston, VIC 3199
@@ -1806,7 +1806,7 @@ Male
     gender: Male
     roles:
       - Member for Bass
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 26 McBride Avenue, Wonthaggi, VIC 3995
@@ -1823,7 +1823,7 @@ Male
     roles:
       - Minister for Environment and Climate Change; Minister for Youth Affairs
       - Member for Warrandyte
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 17, 8 Nicholson Street, Melbourne, VIC 3002
@@ -1842,7 +1842,7 @@ Male
     roles:
       - Shadow Minister for Technology; Shadow Minister for Manufacturing and Services; Shadow Minister for Electoral Reform; Shadow Minister for Government Procurement
       - Member for South-Eastern Metropolitan
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Unit 2, 24 Langhorne Street, Dandenong, VIC 3175
@@ -1857,7 +1857,7 @@ Male
     roles:
       - Parliamentary Secretary for Police and Emergency Services
       - Member for Caulfield
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Suite 1, 193 Balaclava Road, Caulfield North, VIC 3161
@@ -1865,7 +1865,7 @@ Male
         fax: (03) 9527 5144
         phone: (03) 9527 3866
         web: http://www.davidsouthwick.com.au
-        facebook: http://facebook.com/southwickmp 
+        facebook: http://facebook.com/southwickmp
         twitter: http://twitter.com/SouthwickMP
 
 
@@ -1891,7 +1891,7 @@ Male
     gender: Male
     roles:
       - Member for South-Eastern Metropolitan
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 157a Sladen Street,, Cranbourne, VIC 3977
@@ -1907,14 +1907,14 @@ Male
     roles:
       - Shadow Minister for Planning; Shadow Minister for Sustainable Growth; Shadow Minister for Major Projects and Infrastructure
       - Member for Eastern Metropolitan
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 128 Ayr Street, Doncaster, VIC 3108
         email: brian.tee@parliament.vic.gov.au
         fax: (03) 9850 8611
         phone: (03) 9850 8600
-        facebook: http://facebook.com/BrianTeeMP 
+        facebook: http://facebook.com/BrianTeeMP
         twitter: http://twitter.com/BrianTeeMP
 
 
@@ -1924,7 +1924,7 @@ Male
     gender: Male
     roles:
       - Member for Sandringham
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Suite 3, 56-60 Bay Road, Sandringham, VIC 3191
@@ -1941,14 +1941,14 @@ Male
     gender: Female
     roles:
       - Member for Footscray
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 204 Nicholson Street, Footscray, VIC 3011
         email: marsha.thomson@parliament.vic.gov.au
         fax: (03) 9689 5979
         phone: (03) 9689 4283
-        facebook: http://www.facebook.com/people/Marsha-Thomson/100001511061270 
+        facebook: http://www.facebook.com/people/Marsha-Thomson/100001511061270
         twitter: http://twitter.com/MarshaThomsonMP
 
 
@@ -1959,7 +1959,7 @@ Male
     roles:
       - Parliamentary Secretary to the Shadow Minister for Employment
       - Member for Western Victoria
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Ground Floor, 1 Yarra Street, Geelong, VIC 3220
@@ -1975,7 +1975,7 @@ Male
     roles:
       - Government Whip
       - Member for Benambra
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 14 Stanley Street, Wodonga, Victoria, VIC 3690
@@ -1991,7 +1991,7 @@ Male
     gender: Male
     roles:
       - Member for Geelong
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 69A Pakington Street, Geelong West, VIC 3218
@@ -2007,12 +2007,12 @@ Male
     roles:
       - Minister for the Arts; Minister for Women's Affairs; Minister for Consumer Affairs
       - Member for Bayswater
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 6, 2 Kavanagh St, South Bank, VIC 3006
         phone: (03) 8683 3221
-        fax: 
+        fax:
       - office: Electorate
         address: 2/40 Station Street, Bayswater, VIC 3153
         email: heidi.victoria@parliament.vic.gov.au
@@ -2027,7 +2027,7 @@ Male
     roles:
       - Deputy President of the Legislative Council
       - Member for Eastern Victoria
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: Unit 1, 9 Napier Street, Warragul, VIC 3820
@@ -2043,7 +2043,7 @@ Male
     roles:
       - Minister for Higher Education and Skills
       - Member for Ferntree Gully
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 1, 2 Treasury Place, East Melbourne, VIC 3002
@@ -2055,8 +2055,8 @@ Male
         email: nick.wakeling@parliament.vic.gov.au
         fax: (03) 9758 8053
         phone: (03) 9758 6011
-        web: http://www.nickwakeling.org.au, 
-        facebook: http://facebook.com/nickwakeling 
+        web: http://www.nickwakeling.org.au,
+        facebook: http://facebook.com/nickwakeling
         twitter: http://twitter.com/nickwakelingmp
 
 
@@ -2068,7 +2068,7 @@ Male
     roles:
       - Deputy Leader of The Nationals; Minister for Agriculture and Food Security; Minister for Water
       - Member for Swan Hill
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Ministerial
         address: 8 Nicholson St, Lv 16., East Melbourne, VIC 3002
@@ -2087,7 +2087,7 @@ Male
     gender: Male
     roles:
       - Member for Burwood
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: 1342 Toorak Road, Camberwell, VIC 3124
@@ -2104,7 +2104,7 @@ Male
     roles:
       - Deputy Speaker of the Legislative Assembly
       - Member for Rodney
-    party: The Nationals	
+    party: The Nationals
     contact:
       - office: Electorate
         address: 496 High Street, Echuca, VIC 3564
@@ -2121,7 +2121,7 @@ Male
     roles:
       - Minister for Police and Emergency Services; Minister for Bushfire Response
       - Member for Scoresby
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 16, 121 Exhibition Street, Melbourne, VIC 3000
@@ -2141,7 +2141,7 @@ Male
     roles:
       - Minister for Mental Health; Minister for Community Services; Minister for Disability Services and Reform
       - Member for Doncaster
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Ministerial
         address: Level 22, 50 Lonsdale Street, Melbourne, VIC 3000
@@ -2161,7 +2161,7 @@ Male
     gender: Female
     roles:
       - Member for Mordialloc
-    party: Liberal Party	
+    party: Liberal Party
     contact:
       - office: Electorate
         address: Suite 1, 1174 Nepean Highway, Cheltenham, VIC 3192
@@ -2179,7 +2179,7 @@ Male
     roles:
       - Shadow Minister for Housing; Shadow Minister for Local Government; Shadow Minister for Aboriginal Affairs and Closing the Gap; Shadow Minister for A Fairer Victoria
       - Member for Richmond
-    party: Australian Labor Party	
+    party: Australian Labor Party
     contact:
       - office: Electorate
         address: 112 Smith Street, Collingwood, VIC 3066
@@ -2187,6 +2187,6 @@ Male
         email: richard.wynne@parliament.vic.gov.au
         fax: (03) 9415 8918
         phone: (03) 9415 8901
-        web: http://www.richardwynne.com.au 
+        web: http://www.richardwynne.com.au
         facebook: http://www.facebook.com/pages/Richard-Wynne-for-Richmond/169929976366681
         twitter: http://twitter.com/rwynnemp

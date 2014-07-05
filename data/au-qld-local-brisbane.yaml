@@ -2,20 +2,20 @@
 name: City of Brisbane
 tags: [LGA, local, South East Queensland]
 people:
-  
+
   - name: Graham Quirk
   title: The Right Honourable
   salutation: My dear Lord Mayor
-    roles: 
+    roles:
       - Lord Mayor of Brisbane
   contact:
     - office: Office of the Lord Mayor
         postal: GPO Box 2287, Brisbane Qld 4001
         phone: 07 3403 4400
-        fax: 07 3403 9930    
-  
+        fax: 07 3403 9930
+
   - name: Amanda Cooper
-    roles: 
+    roles:
       - Councillor for Bracken Ridge
     contact:
       - office: Ward
@@ -23,277 +23,277 @@ people:
         phone: 07 3667 6000
         fax: 07 3667 6005
         email: brackenridge.ward@ecn.net.au
-        web: www.amandacooper.com.au     
-  
+        web: www.amandacooper.com.au
+
   - name: Vicki Howard
     roles:
       - Councillor for Central
     contact:
-      - office: Ward             
+      - office: Ward
         postal: Shop 11, 31 Duncan Street, Fortitude Valley Qld 4006
         phone: 07 3403 0254
         fax: 07 3403 0256
         email: central.ward@ecn.net.au
-  
+
   - name: Adrian Schrinner
     roles:
       - Councillor for Chandler
     contact:
-      - office: Ward             
-        postal: Shop 8, Millennium Centre, 14 Millennium Boulevard, Carindale Qld 4152 
+      - office: Ward
+        postal: Shop 8, Millennium Centre, 14 Millennium Boulevard, Carindale Qld 4152
         phone: 07 3407 1400
         fax: 07 3407 1891
         email: chandler.ward@ecn.net.au
         web: www.adrianschrinner.com.au
 
-  
+
   - name: Victoria Newton
     roles:
       - Councillor for Deagon
     contact:
-      - office: Ward 
+      - office: Ward
         postal: Cliff Street, Sandgate Qld 4017
         phone:  07 3667 6011
         fax:  07 3667 6016
         email:  deagon.ward@ecn.net.au
         web: www.victorianewton.com.au
-  
+
   - name: Ryan Murphy
     roles:
       - Councillor for Doboy
     contact:
-      - office: Ward 
-        postal: Shop 5, 1181 Wynnum Road, Cannon Hill Qld 4170 
+      - office: Ward
+        postal: Shop 5, 1181 Wynnum Road, Cannon Hill Qld 4170
         phone: 07 3407 8800
         fax: 07 3407 8805
         email: doboy.ward@ecn.net.au
         facebook: facebook.com/murphyfordoboy
-  
+
   - name: Andrew Wines
     roles:
       - Councillor for Enoggera
     contact:
-      - office: Ward 
-        postal: 102 Samford Road, Alderley Qld 4051 
+      - office: Ward
+        postal: 102 Samford Road, Alderley Qld 4051
         phone: 07 3407 2510
         fax: 07 3407 2515
         email: enoggera.ward@ecn.net.au
         web: www.andrewwines.com.au
-  
+
   - name: David McLachlan
     roles:
       - Councillor for Hamilton
     contact:
-      - office: Ward 
-        postal: 42 Racecourse Road, Hamilton Qld 4007 
+      - office: Ward
+        postal: 42 Racecourse Road, Hamilton Qld 4007
         phone: 07 3403 1095
         fax: 07 3403 1099
         email: hamilton.ward@ecn.net.au
         web: www.davidmclachlan.com.au
-  
+
   - name: Ian McKenzie
     roles:
       - Councillor for Holland Park
     contact:
-      - office: Ward 
-        postal: Suite 6, 737 Logan Road, Greenslopes Qld 4120 
+      - office: Ward
+        postal: Suite 6, 737 Logan Road, Greenslopes Qld 4120
         phone: 3403 2101
         fax: 3403 2105
-        email: hollandpark.ward@ecn.net.au 
+        email: hollandpark.ward@ecn.net.au
         web: www.ianmckenzie.org.au
-  
+
   - name: Matthew Bourke
     roles:
       - Councillor for Jamboree
     contact:
-      - office: Ward 
-        postal: Shop 146A, Mt Ommaney Shopping Centre, 171 Dandenong Road, Mt Ommaney, Qld 4074 
+      - office: Ward
+        postal: Shop 146A, Mt Ommaney Shopping Centre, 171 Dandenong Road, Mt Ommaney, Qld 4074
         phone: 07 3407 7000
         fax: 07 3407 7005
         email: jamboree.ward@ecn.net.au
         web: www.matthewbourke.com.au
-  
+
   - name: Kim Marx
     roles:
       - Councillor for Karawatha
     contact:
-      - office: Ward 
-        address: Shop 53, Level 2, Sunnybank Hills Shoppingtown, Sunnybank Hills Qld 4109 
-        postal: PO Box 1991, Sunnybank Hills Qld 4109 
+      - office: Ward
+        address: Shop 53, Level 2, Sunnybank Hills Shoppingtown, Sunnybank Hills Qld 4109
+        postal: PO Box 1991, Sunnybank Hills Qld 4109
         phone: 07 3407 0566
         fax: 07 3407 0568
-        email: karawatha.ward@ecn.net.au 
+        email: karawatha.ward@ecn.net.au
         web: www.kimmarx.com.au
-  
+
   - name: Steven Huang
     roles:
       - Councillor for MacGregor
     contact:
-      - office: Ward 
-        postal: Sunnybank Centre, 121 Lister Street, Sunnybank Qld 4109 
+      - office: Ward
+        postal: Sunnybank Centre, 121 Lister Street, Sunnybank Qld 4109
         phone: 07 3407 8500
         fax: 07 3407 8505
-        email: macgregor.ward@ecn.net.au 
+        email: macgregor.ward@ecn.net.au
         web: www.stevenhuang.com.au
-  
+
   - name: Fiona King
     roles:
       - Councillor for Marchant
     contact:
-      - office: Ward 
-        postal: North Regional Business Centre, 960 Gympie Road, Chermside Qld 4032 
+      - office: Ward
+        postal: North Regional Business Centre, 960 Gympie Road, Chermside Qld 4032
         phone: 07 3407 0707
         fax: 07 3407 0797
-        email: marchant.ward@ecn.net.au 
+        email: marchant.ward@ecn.net.au
         web: www.fionaking.org.au
-  
+
   - name: Norm Wyndham
     roles:
       - Councillor for McDowall
     contact:
-      - office: Ward 
-        postal: Shops 5 and 6, Rode Shopping Centre, 271 Appleby Road, Stafford Heights Qld 4053 
+      - office: Ward
+        postal: Shops 5 and 6, Rode Shopping Centre, 271 Appleby Road, Stafford Heights Qld 4053
         phone:  07 3403 7690
         fax:  07 3403 7693
         email:  mcdowall.ward@ecn.net.au
         web:  www.normwyndham.org
-  
+
   - name: Steve Griffiths
     roles:
       - Councillor for Moorooka
     contact:
-      - office: Ward 
-        postal: Shop 2, 122  Beaudesert Road, Moorooka Qld 4105 
+      - office: Ward
+        postal: Shop 2, 122  Beaudesert Road, Moorooka Qld 4105
         phone: 07 3403 1730
         fax: 07 3403 1733
         email: moorooka.ward@ecn.net.au
         web: www.stevegriffithsmoorooka.com
-  
+
   - name: Shayne Sutton
     roles:
       - Councillor for Morningside
     contact:
-      - office: Ward 
-        postal: 63 Oxford Street, Bulimba Qld 4171 
+      - office: Ward
+        postal: 63 Oxford Street, Bulimba Qld 4171
         phone: 07 3407 8200
         fax: 07 3407 8205
         email: morningside.ward@ecn.net.au
-  
+
   - name: Kim Flesser
     roles:
       - Councillor for Northgate
     contact:
-      - office: Ward 
-        postal: 284 St Vincents Road, Banyo Qld 4014 
+      - office: Ward
+        postal: 284 St Vincents Road, Banyo Qld 4014
         phone:  07 3403 2210
         fax:  07 3403 2213
-        email:  northgate.ward@ecn.net.au 
+        email:  northgate.ward@ecn.net.au
         web:  www.northgateward.org
-  
+
   - name: Angela Owen-Taylor
     roles:
       - Councillor for Parkinson
     contact:
-      - office: Ward 
-        postal: Shop 10 Central Park Medical Centre, 168 Algester Road, Algester Qld 4115 
+      - office: Ward
+        postal: Shop 10 Central Park Medical Centre, 168 Algester Road, Algester Qld 4115
         phone: 07 3131 7022
         fax: 07 3131 7033
         email: parkinson.ward@ecn.net.au
         web: www.angelaowentaylor.com.au
-  
+
   - name: Margaret de Wit
     roles:
       - Councillor for Pullenvale
     contact:
-      - office: Ward 
-        postal: 9 Brookfield Road, Kenmore Qld 4069 
+      - office: Ward
+        postal: 9 Brookfield Road, Kenmore Qld 4069
         phone: 07 3407 0220
         fax: 07 3407 0226
         email: pullenvale.ward@ecn.net.au
         web: www.margaretdewit.com.au
-  
+
   - name: Milton Dick
     roles:
       - Councillor for Richlands
     contact:
-      - office: Ward 
-        postal: Cnr Wirraway Parade and Corsair Avenue, Inala Qld 4077 
+      - office: Ward
+        postal: Cnr Wirraway Parade and Corsair Avenue, Inala Qld 4077
         phone: 07 3407 1211
         fax: 07 3407 1215
         email: richlands.ward@ecn.net.au
-  
+
   - name: Nicole Johnston
     roles:
       - Councillor for Tennyson
     contact:
-      - office: Ward 
+      - office: Ward
         postal: 180 Fairfield Road, Fairfield Qld 4103
         phone: 07 3403 8605
         fax: 07 3403 8607
-        email: tennyson.ward@ecn.net.au 
+        email: tennyson.ward@ecn.net.au
         web: www.nicolejohnston.com.au
-  
+
   - name: Helen Abrahams
     roles:
       - Councillor for The Gabba
     contact:
-      - office: Ward 
-        postal: 2/63 Annerley Road, Woolloongabba Qld 4102 
+      - office: Ward
+        postal: 2/63 Annerley Road, Woolloongabba Qld 4102
         phone: 07 3403 2165
         fax: 07 3403 2168
-        email: thegabba.ward@ecn.net.au 
+        email: thegabba.ward@ecn.net.au
         web: www.helenabrahams.com
-  
+
   - name: Geraldine Knapp
     roles:
       - Councillor for The Gap
     contact:
-      - office: Ward 
-        postal: 477 Waterworks Road, Ashgrove Qld 4060 
+      - office: Ward
+        postal: 477 Waterworks Road, Ashgrove Qld 4060
         phone: 07 3407 1900
         fax: 07 3407 1905
-        email: thegap.ward@ecn.net.au 
+        email: thegap.ward@ecn.net.au
         web: www.geraldineknapp.com.au
-  
+
   - name: Peter Matic
     roles:
       - Councillor for Toowong
     contact:
-      - office: Ward 
-        postal: 50 High Street, Toowong Qld 4066 
+      - office: Ward
+        postal: 50 High Street, Toowong Qld 4066
         phone: 07 3403 2520
         fax: 07 3403 2523
         email: toowong.ward@ecn.net.au
         web: www.petermatic.com.au
-  
+
   - name: Julian Simmonds
     roles:
       - Councillor for Walter Taylor
     contact:
-      - office: Ward 
+      - office: Ward
         postal: 70 Station Rd, Indooroopilly Qld 4068
         phone: 07 3407 0005
         fax: 07 3407 0008
         email: waltertaylor.ward@ecn.net.au
-  
+
   - name: Krista Adams
     roles:
       - Councillor for Wishart
     contact:
-      - office: Ward 
-        postal: 2072 Logan Road, Upper Mt Gravatt Qld 4122 
+      - office: Ward
+        postal: 2072 Logan Road, Upper Mt Gravatt Qld 4122
         phone: 07 3403 7791
         fax: 07 3403 7794
         email: wishart.ward@ecn.net.au
-        web: www.kristaadams.com.au  
-  
+        web: www.kristaadams.com.au
+
   - name: Peter Cumming
     roles:
       - Councillor for Wynnum Manly
     contact:
-      - office: Ward 
-        postal: 3a/212 Bay Terrace, Wynnum Qld 4178 
+      - office: Ward
+        postal: 3a/212 Bay Terrace, Wynnum Qld 4178
         phone: 07 3403 2180
         fax: 07 3403 2177
-        email: wynnummanly.ward@ecn.net.au 
+        email: wynnummanly.ward@ecn.net.au
         web: www.petercumming.com
