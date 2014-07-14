@@ -1,0 +1,556 @@
+name: Northern Territory Government
+tags: [Australia, territory, state]
+people:
+  - name: Alison ANDERSON
+    title: Ms
+    suffix: MLA
+    roles:
+      - Member for Namatjira
+    party: PUP
+    contact:
+      - office: electoral
+        address: 6, Anangu House, 44 Bath Street, Alice Springs, NT 0870
+        postal: PO Box 8325, Alice Springs, NT 0871
+        fax: 8953 0211
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3721, Darwin, NT 0801
+        email: electorate.namatjira@nt.gov.au
+        email: alison.anderson@nt.gov.au
+        phone: 8951 5561
+        phone: 8946 1479
+
+  - name: Nathan BARRETT
+    title: Mr
+    suffix: MLA
+    roles:
+      - Deputy Chair of Committees
+      - Member for Blain
+    party: CLP
+    contact:
+      - office: electoral
+        address: 16, Palm City Oasis Shopping Centre, Palmerston, NT 0830
+        postal: PO Box 946, Palmerston, NT 0831
+        phone: 8999 5572
+        fax: 8932 3219
+        email: electorate.blain@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3721, Darwin, NT 0801
+        email: nathan.barrett@nt.gov.au
+        phone: 8946 1449
+
+  - name: Peter Glen CHANDLER
+    title: The Honourable
+    suffix: MLA
+    roles:
+      - Minister for Education
+      - Minister for Lands, Planning and the Environment
+      - Member for Brennan
+    party: CLP
+    contact:
+      - office: electoral
+        address: 2, Palmerston Shopping Centre, Palmerston, NT 0830
+        postal: PO Box 3668, Palmerston, NT 0831
+        phone: 8999 5587
+        fax: 8932 7488
+        email: electorate.brennan@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3146, Darwin, NT 0801
+        phone: 8928 6553
+        fax: 8928 6632
+        email: Minister.chandler@nt.gov.au
+
+  - name: Matthew Escott 'Matt'  CONLAN
+    title: The Honourable
+    suffix: MLA
+    roles:
+      - Minister for Central Australia
+      - Minister for Housing
+      - Minister for Tourism
+      - Minister for Sport, Recreation and Racing
+      - Minister for Arts and Museums
+      - Member for Greatorex
+    party: CLP
+    contact:
+      - office: electoral
+        address: Suite 39A, Yeperenye Shopping Centre, Hartley Street, Alice Springs, NT 0870
+        postal: PO Box 8599, Alice Springs, NT 0871
+        phone: 8951 5531
+        fax: 8952 6735
+        email: electorate.greatorex@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3146, Darwin, NT 0801
+        fax: 8928 6509
+        email: Minister.conlan@nt.gov.au
+        phone: 8928 6622
+
+  - name: Johan Wessel 'John' ELFERINK
+    title: The Honourable
+    suffix: MLA
+    roles:
+      - Leader of Government Business
+      - Attorney-General and Minister for Justice
+      - Minister for Public Employment
+      - Minister for Children and Families
+      - Minister for Correctional Services
+      - Member for Port Darwin
+    party: CLP
+    contact:
+      - office: Electoral
+        address: 133 Mitchell Street, Darwin NT 0800
+        postal: GPO Box 1404, Darwin, NT 0801
+        phone: 8999 6755
+        fax: 8981 1621
+        email: electorate.portdarwin@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin NT 0800
+        postal: GPO Box 3146, Darwin NT 0801
+        fax: 8928 6590
+        email: Minister.elferink@nt.gov.au
+        phone: 8928 6615
+
+  - name: Lia Emele FINOCCHIARO
+    title: Ms
+    suffix: MLA
+    - Government Whip
+      - Member for Drysdale
+    party: CLP
+    contact:
+      - office: electoral
+        address: A3, Palm Plaza, 17 University Avenue, Palmerston, NT 0830
+        postal: PO Box is 4248 Palmerston NT 0831
+        phone: 8999 5397
+        fax: 8931 3266
+        email: electorate.drysdale@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3721, Darwin, NT 0801
+        email: lia.finocchiaro@nt.gov.au
+        phone: 8946 1481
+
+  - name: Natasha Kate FYLES
+    title: Ms
+    suffix: MLA
+    roles:
+      - Shadow Minister for Education, Public Employment, Arts and Museums, Women’s Policy
+      - Member for Nightcliff
+    party: ALP
+    contact:
+      - office: electoral
+        address: 5, Pavonia Way, Nightcliff Shoppingtown, Nightcliff, NT 0810
+        postal: PO Box 1283, Nightcliff, NT 0814
+        phone: 8999 6743
+        fax: 8985 4545
+        email: electorate.nightcliff@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3700, Darwin, NT 0801
+        email: natasha.fyles@nt.gov.au
+        phone: 8946 1471
+
+  - name: Adam Graham GILES
+    title: The Honourable
+    suffix: MLA
+    - Chief Minister
+      - Minister for Northern Australia Development
+      - Minister for Economic Development & Major Projects
+      - Minister for Asian Engagement & Trade
+      - Minister for Police, Fire and Emergency Services
+      - Minister for Strategic Defence Liaison
+      - Member for Braitling
+    party: CLP
+    contact:
+      - office: electoral
+        address: Tenancy G4 Centrepoint Building, Alice Springs, NT 0870
+        postal: PO Box 1770, Alice Springs, NT 0871
+        phone: 8951 5463
+        email: electorate.braitling@nt.gov.au
+        fax: 8952 5373
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3146, Darwin, NT 0801
+        phone: 8928 6500
+        fax: 8928 6577
+        email: Chief.minister@nt.gov.au
+
+  - name: Michael Patrick Francis GUNNER
+    title: Mr
+    suffix: MLA
+    roles:
+      - Opposition Whip
+      - Shadow Attorney-General and Minister for Justice, Corrections, Police, Fire and Emergency Services, Alcohol Policy, Racing, Gaming and Licensing
+      - Member for Fannie Bay
+    party: ALP
+    contact:
+      - office: electoral
+        address: Shop 5/36, Parap Place, Parap Shopping Village, Parap, N.T. 0820
+        postal: PO. Box 11, Parap N.T. 0804
+        phone: 8999 6437
+        fax: 8941 2661
+        email: electorate.fanniebay@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3700, Darwin, NT 0801
+        email: michael.gunner@nt.gov.au
+        phone: 8946 1436
+
+  - name: Gary John HIGGINS
+    title: Mr
+    suffix: MLA
+    roles:
+      - Deputy Speaker and Chairman of Committees
+      - Member for Daly
+    party: CLP
+    contact:
+      - office: electoral
+        address: 9A, Coolalinga Shopping Centre, Stuart Highway Coolalinga, NT 0835
+        postal: PO Box 574, Virginia, NT 0834
+        phone: 8999 6432
+        fax: 8983 3922
+        email: electorate.daly@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3721, Darwin, NT 0801
+        email: gary.higgins@nt.gov.au
+        phone: 8946 1412
+
+  - name: Francis Xavier KURRUPUWU
+    title: Mr
+    suffix: MLA
+    roles:
+      - Member for Arafura
+    party: PUP
+    contact:
+      - office: electoral
+        address: Shops 7 & 8 Moil Shopping Centre, Moil Place, Moil, NT 0811
+        postal: PO 40724, Casuarina, NT 0811
+        phone: 8999 6950
+        email: electorate.arafura@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3721, Darwin, NT 0801
+        phone: 8946 1476
+        email: francis.kurrupuwu@nt.gov.au
+
+  - name: Robyn Jane LAMBLEY
+    title: The Honourable
+    suffix: MLA
+    roles:
+      - Minister for Health
+      - Minister for Alcohol Rehabilitation
+      - Minister for Disability Services
+      - Member for Araluen
+    party: CLP
+    contact:
+      - office: electoral
+        address: 1, Helm House, Gregory Terrace, Alice Springs, NT 0870
+        postal: PO Box 2654, Alice Springs, NT 0871
+        phone: 8951 5588
+        fax: 8953 8029
+        email: electorate.araluen@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3146, Darwin, NT 0801
+        phone: 8928 6534
+        fax: 8928 6645
+        email:   - Minister.lambley@nt.gov.au
+
+  - name: Delia Phoebe LAWRIE
+    title: Ms
+    suffix: MLA
+    roles:
+      - Leader of the Opposition
+      - Shadow Minister for Major Projects, Northern Australia Development, Central Australia, Business, Employment and Training
+      - Member for Karama
+    party: ALP
+    contact:
+      - office: electoral
+        address: Shop 27, Karama Shopping Plaza, Karama, NT 0812
+        postal: GPO Box 3700, Darwin, NT 0801
+        phone: 8999 6659
+        fax: 8945 2090
+        email: electorate.karama@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3700, Darwin, NT 0801
+        email: opposition.leader@nt.gov.au
+        phone: 8928 6668
+        fax: 8928 6666
+
+  - name: Larisa Antonia Lillian LEE
+    title: Ms
+    suffix: MLA
+      - Member for Arnhem
+    party: PUP
+    contact:
+      - office: electoral
+        address: Shop 1, 27 Katherine Terrace, Katherine NT 0850
+        postal: PO Box 129 Katherine, NT 0851
+        phone: 8973 8780
+        fax: 8971 1611
+        email: electorate.arnhem@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3721, Darwin, NT 0801
+        email: larisa.lee@nt.gov.au
+        phone: 8946 1478
+
+  - name: Gerald Francis McCARTHY
+    title: Mr
+    suffix: MLA
+    roles:
+      - Deputy Leader of the Opposition
+      - Shadow Treasurer and Minister for Resources, Mines and Energy, Primary Industries, Fisheries, Regional Economic Development
+      - Member for Barkly
+    party: ALP
+    contact:
+      - office: electoral
+        address: Paterson Street, Tennant Creek, NT 0860
+        postal: PO Box 796, Tennant Creek, NT 0861
+        phone: 8962 4641
+        fax: 8962 3008
+        email: electorate.barkly@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3700, Darwin, NT 0801
+        email: gerry.mccarthy@nt.gov.au
+        phone: 8946 1472
+
+  - name: Nicole Susan MANISON
+    title: Ms
+    suffix: MLA
+    roles:
+      - Shadow Minister for Health, Essential Services, Statehood, Multicultural Affairs, Young Territorians, Senior Territorians
+      - Member for Wanguri
+    party: ALP
+    contact:
+      - office: electoral
+        address: 9B, Hibiscus Shoppingtown, Leanyer NT 0812
+        postal: PO Box 41104, Casuarina, NT 0811
+        phone: 8999 6795
+        fax: 8945 1921
+        email: electorate.wanguri@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3700, Darwin, NT 0801
+        email: nicole.manison@nt.gov.au
+        phone: 8946 1411
+
+  - name: Bess Nungarrayi PRICE
+    title: The Honourable
+    suffix: MLA
+      - Minister for Community Services
+      - Minister for Women’s Policy
+      - Minister for Parks and Wildlife
+      - Minister for Statehood
+      - Member for Stuart
+    party: CLP
+    contact:
+      - office: electoral
+        address: Lot 93, Tenancy 2/51 Todd Mall, Alice Springs, NT 0870
+        postal: PO Box 7908, Alice Springs, NT 0871
+    fax: 8952 8004
+  - office: parliament
+    address: Parliament House, Darwin, NT 0800
+    postal: GPO Box 3146, Darwin, NT 0801
+    email: electorate.stuart@nt.gov.au
+    email:   - Minister.price@nt.gov.au
+    phone: 8951 5568
+    phone: 8928 6587
+
+  - name: Kezia Dorcas Tibisay PURICK
+    title: The Honourable
+    suffix: MLA
+    roles:
+      - Speaker
+      - Member for Goyder
+    party: CLP
+    contact:
+      - office: electoral
+        address: 4, Coolalinga (Woolworths Shopping Centre), Stuart Highway, NT 0835
+        postal: PO Box 151, Virginia, NT 0834
+        phone: 8999 6556
+        fax: 8983 3488
+        email: electorate.goyder@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3721, Darwin, NT 0801
+        fax: 8981 3284
+        email: kezia.purick@nt.gov.au
+        phone: 8946 1433
+
+  - name: Peter Donald STYLES
+    title: The Honourable
+    suffix: MLA
+    roles:
+      - Minister for Transport
+      - Minister for Infrastructure
+      - Minister for Multicultural Affairs
+      - Minister for Senior Territorians
+      - Minister for Young Territorians
+      - Member for Sanderson
+    party: CLP
+    contact:
+      - office: electoral
+        address: Shop 4, Northlakes Shopping Centre, 1 Links Road, Marrara, NT 0812
+        postal: PO Box 620, Karama, NT 0813
+    fax: 8945 1769
+  - office: parliament
+    address: Parliament House, Darwin, NT 0800
+    postal: GPO Box 3146, Darwin, NT 0801
+    fax: 8928 6621
+    email: electorate.sanderson@nt.gov.au
+    email:   - Minister.styles@nt.gov.au
+    phone: 8999 6781
+    phone: 8928 6547
+
+  - name: David William TOLLNER
+    title: The Honourable
+    suffix: MLA
+    roles:
+      - Deputy Chief Minister
+      - Treasurer
+      - Minister for Business
+      - Minister for Employment and Training
+      - Minister for Local Government and Regions
+      - Minister for Defence Industries and Community Support
+      - Minister for Alcohol Policy
+      - Minister for Corporate and Information Services
+      - Member for Fong Lim
+    party: CLP
+    contact:
+      - office: electoral
+        address: 20, Winnellie Shopping Centre, Winnellie, NT 0820
+        postal: PO Box 37887, Winnellie 0821
+        phone: 8999 6667
+        fax: 8941 8099
+        email: electorate.fonglim@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3146, Darwin, NT 0801
+        phone: 8999 7540
+        fax: 8928 6613
+        email:   - Minister.tollner@nt.gov.au
+
+  - name: Konstantine 'Kon' VATSKALIS
+    title: Mr
+    suffix: MLA
+    roles:
+      - Member for Casuarina
+    tags:
+      - Tourism
+      - Asian Relations and Trade
+      - Infrastructure and Transport
+      - Defence
+      - Corporate and Information Services
+    party: ALP
+    contact:
+      - office: electoral
+        address: Shops 15 & 16, Casuarina Plaza, Trower Road, Casuarina, NT 0810
+        postal: PO Box 41269, Casuarina, NT 0811
+    fax: 8945 0106
+  - office: parliament
+    address: Parliament House, Darwin, NT 0800
+    postal: GPO Box 3700, Darwin, NT 0801
+    email: electorate.casuarina@nt.gov.au
+    email: kon.vatskalis@nt.gov.au
+    phone: 8999 6343
+    phone: 8946 1473
+
+  - name: Kenneth Edwards 'Ken' VOWLES
+    title: Mr
+    suffix: MLA
+    roles:
+      - Member for Johnston
+    tags:
+      - Government Accountability
+      - Lands and Planning
+      - Indigenous Policy
+      - Sport and Recreation
+    party: ALP
+    contact:
+      - office: electoral
+        address: 3, Rapid Creek Shopping Village, 48 Trower Road, Millner, NT 0810
+        postal: PO Box 40628 Casuarina, NT 0811
+        phone: 8999 6620
+        fax: 8948 0525
+        email: electorate.johnston@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3700, Darwin, NT 0801
+        email: ken.vowles@nt.gov.au
+        phone: 8946 1475
+
+  - name: Lynne Michele WALKER
+    title: Ms
+    suffix: MLA
+    roles:
+      - Member for Nhulunbuy
+    tags:
+      - Local Government
+      - Public and Affordable Housing
+      - Child Protection
+      - Children and Families
+      - Natural Resources, Environment and Heritage
+      - Parks and Wildlife
+      - Community Services
+    party: ALP
+    contact:
+      - office: electoral
+        address: Arnhem House, Endeavour Square, Nhulunbuy, NT 0880
+        postal: PO Box 1021, Nhulunbuy, NT 0881
+        phone: 8987 0125
+        fax: 8987 2388
+        email: electorate.nhulunbuy@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3700, Darwin, NT 0801
+        email: lynne.walker@nt.gov.au
+        phone: 8946 1446
+
+  - name: Willem Rudolf WESTRA VAN HOLTHE
+    title: The Honourable
+    suffix: MLA
+    roles:
+      - Minister for Primary Industry and Fisheries
+      - Minister for Mines and Energy
+      - Minister for Land Resource Management
+      - Minister for Essential Services
+      - Member for Katherine
+    party: CLP
+    contact:
+      - office: electoral
+        address: 1, 56 Katherine Terrace, Katherine, NT 0850
+        postal: PO Box 819, Katherine, NT, 0851
+        phone: 8973 8461
+        fax: 8972 1071
+        email: electorate.katherine@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3146, Darwin, NT 0801
+        phone: 8928 6540
+        fax: 8928 6644
+        email: Minister.westravanholthe@nt.gov.au
+
+  - name: Gerry Vincent WOOD
+    title: Mr
+    suffix: MLA
+    roles:
+      - Deputy Chair of Committees
+      - Member for Nelson
+    party: IND
+    contact:
+      - office: electoral
+        address: 5, Howard Springs Shopping Centre, Whitewood Road, Howard Springs, NT 0835
+        postal: PO Box 120, Howard Springs, NT 0835
+        phone: 8999 6713
+        fax: 8983 1638
+        email: electorate.nelson@nt.gov.au
+      - office: parliament
+        address: Parliament House, Darwin, NT 0800
+        postal: GPO Box 3721, Darwin, NT 0801
+        email: gerry.wood@nt.gov.au
+        phone: 8946 1591
