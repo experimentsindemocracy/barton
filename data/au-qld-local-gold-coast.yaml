@@ -8,7 +8,7 @@ people:
     roles:
       - Mayor
     contact:
-      - office: Mayors Office
+      mayoral:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 5283
         fax: 07 5581 6054
@@ -20,7 +20,7 @@ people:
       - Deputy Mayor
       - Councillor for Division 1
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 6301
         mobile: 0424 778 999
@@ -32,7 +32,7 @@ people:
     roles:
       - Councillor for Division 2
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5582 8555
         mobile: 0412 242 622
@@ -44,7 +44,7 @@ people:
     roles:
       - Councillor for Division 3
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 1680
         fax: 07 5577 4028
@@ -55,7 +55,7 @@ people:
     roles:
       - Councillor for Division 4
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 6434
         mobile: 0414 180 099
@@ -67,7 +67,7 @@ people:
     roles:
       - Councillor for Division 5
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5582 8400
         mobile: 0439 226 519
@@ -80,7 +80,7 @@ people:
     roles:
       - Councillor for Division 6
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 6280
         mobile: 0414 180 677
@@ -93,7 +93,7 @@ people:
     roles:
       - Councillor for Division 7
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 6760
         mobile: 0439 226 520
@@ -105,7 +105,7 @@ people:
     roles:
       - Councillor for Division 8
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5582 8206
         mobile: 0414 180 008
@@ -117,7 +117,7 @@ people:
     roles:
       - Councillor for Division 9
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 1883
         mobile: 0419 558 685
@@ -129,7 +129,7 @@ people:
     roles:
       - Councillor for Division 10
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 6171
         mobile: 0439 226 521
@@ -141,7 +141,7 @@ people:
     roles:
       - Councillor for Division 11
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5582 8255
         mobile: 0414 180 004
@@ -153,7 +153,7 @@ people:
     roles:
       - Councillor for Division 12
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 6382
         mobile: 0414 180 119
@@ -165,7 +165,7 @@ people:
     roles:
       - Councillor for Division 13
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 6228
         mobile: 0414 180 013
@@ -177,7 +177,7 @@ people:
     roles:
       - Councillor for Division 14
     contacts:
-      - office: Ward
+      ward:
         postal: PO Box 5042, Gold Coast MC QLD 9729
         phone: 07 5581 5275
         mobile: 0414 180 014

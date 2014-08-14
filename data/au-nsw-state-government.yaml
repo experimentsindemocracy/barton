@@ -4,13 +4,13 @@ people:
   - name: R.S. Amery
     title: The Hon.
     salutation: Dear Mr Amery
-    suffix: M.P.
+    suffix: MP
     roles:
       - Opposition Whip
       - Member for Mount Druitt
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Office Suite 201, Westfield Shoppingtown, Carlisle Avenue, MOUNT DRUITT, NSW 2770
         email: mountdruitt@parliament.nsw.gov.au
         fax: (02) 9625 9965
@@ -19,12 +19,12 @@ people:
   - name: K.J. Anderson
     title: Mr
     salutation: Dear Mr Anderson
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Tamworth
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Ground Floor, 13 Fitzroy Street, , TAMWORTH, NSW 2340
         email: tamworth@parliament.nsw.gov.au
         fax: (02) 6766 6765
@@ -33,12 +33,12 @@ people:
   - name: G.J. Aplin
     title: Mr
     salutation: Dear Mr Aplin
-    suffix: M.P. BA(Hons)
+    suffix: MP BA(Hons)
     roles:
       - Member for Albury
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 612 Dean Street, , , ALBURY, NSW 2640
         email: albury@parliament.nsw.gov.au
         fax: (02) 6021 8884
@@ -47,18 +47,18 @@ people:
   - name: S.L. Ayres
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Minister for Police and Emergency Services; Minister for Sport and Recreation; and Minister Assisting the Premier on Western Sydney
       - Member for Penrith
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 36 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@ayres.minister.nsw.gov.au
         phone: (02) 9228 5276
         fax: (02) 9228 4236
-      - office: Electorate
+      electorate:
         address: Shop 23 Ground Floor, Penrith Centre, 510-534 High Street, PENRITH, NSW 2750
         email: penrith@parliament.nsw.gov.au
         fax: (02) 4731 4782
@@ -67,19 +67,19 @@ people:
   - name: M.B. Baird
     title: The Hon.
     salutation: Dear Premier
-    suffix: M.P.
+    suffix: MP
     roles:
       - Premier; Minister for Infrastructure; and Minister for Western Sydney
       - Member for Manly
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 40 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         postal: GPO Box 5341, SYDNEY, NSW 2001
         email: http://www.premier.nsw.gov.au
         phone: (02) 9228 5239
         fax: (02) 9228 3935
-      - office: Electorate
+      electorate:
         address: Shop 2, 2 Wentworth Street, , MANLY, NSW 2095
         email: manly@parliament.nsw.gov.au
         fax: (02) 9976 2993
@@ -88,13 +88,13 @@ people:
   - name: G.D. Barilaro
     title: Mr
     salutation: Dear Mr Barilaro
-    suffix: M.P.
+    suffix: MP
     roles:
       - Parliamentary Secretary
       - Member for Monaro
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: 110-112 Monaro Street, , , QUEANBEYAN, NSW 2620
         email: monaro@parliament.nsw.gov.au
         fax: (02) 6297 9998
@@ -103,12 +103,12 @@ people:
   - name: C.G. Barr
     title: Mr
     salutation: Dear Mr Barr
-    suffix: M.P. BEd
+    suffix: MP BEd
     roles:
       - Member for Cessnock
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: 118 Vincent Street, , , CESSNOCK, NSW 2325
         postal: PO Box 242, Cessnock, NSW 2325
         email: cessnock@parliament.nsw.gov.au
@@ -118,12 +118,12 @@ people:
   - name: B.E. Bassett
     title: Mr
     salutation: Dear Mr Bassett
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Londonderry
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 12, 82 Victoria Street, , WERRINGTON, NSW 2747
         email: londonderry@parliament.nsw.gov.au
         fax: (02) 9623 1185
@@ -132,13 +132,13 @@ people:
   - name: C.A. Baumann
     title: Mr
     salutation: Dear Mr Baumann
-    suffix: M.P. BE(Civil)(Hons) FIEAust
+    suffix: MP BE(Civil)(Hons) FIEAust
     roles:
       - Parliamentary Secretary
       - Member for Port Stephens
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 1/82 Port Stephens Street, , , RAYMOND TERRACE, NSW 2324
         email: portstephens@parliament.nsw.gov.au
         fax: (02) 4987 4466
@@ -147,18 +147,18 @@ people:
   - name: G. Berejiklian
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P. BA DIntS MCom
+    suffix: MP BA DIntS MCom
     roles:
       - Minister for Transport; and Minister for the Hunter
       - Member for Willoughby
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 35 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@berejiklian.minister.nsw.gov.au
         phone: (02) 9228 5266
         fax: (02) 9228 3744
-      - office: Electorate
+      electorate:
         address: 280 Willoughby Road, , , NAREMBURN, NSW 2065
         email: willoughby@parliament.nsw.gov.au
         fax: (02) 9439 9299
@@ -167,12 +167,12 @@ people:
   - name: S.B. Bromhead
     title: Mr
     salutation: Dear Mr Bromhead
-    suffix: M.P. LLM
+    suffix: MP LLM
     roles:
       - Member for Myall Lakes
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Room F6 Bridgepoint Building, Lot 1-5 Manning Street, , TUNCURRY, NSW 2428
         email: myalllakes@parliament.nsw.gov.au
         fax: (02) 6555 4780
@@ -181,12 +181,12 @@ people:
   - name: G.E. Brookes
     title: Mr
     salutation: Dear Mr Brookes
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for East Hills
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 20 Revesby Place, , , REVESBY, NSW 2212
         email: easthills@parliament.nsw.gov.au
         fax: (02) 9792 1718
@@ -195,12 +195,12 @@ people:
   - name: L.J. Burney
     title: The Hon.
     salutation: Dear Ms Burney
-    suffix: M.P. HonDEd DipEd
+    suffix: MP HonDEd DipEd
     roles:
       - Member for Canterbury
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Suites 201 & 202 Level 2, 308-312 Beamish Street, , CAMPSIE, NSW 2194
         email: linda.burney@parliament.nsw.gov.au
         fax: (02) 9787 1999
@@ -209,12 +209,12 @@ people:
   - name: C.A. Burton
     title: Ms
     salutation: Dear Ms Burton
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Kogarah
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 1 Ground Floor, 22-24 Regent Street, , KOGARAH, NSW 2217
         email: kogarah@parliament.nsw.gov.au
         fax: (02) 9588 7138
@@ -223,12 +223,12 @@ people:
   - name: C. Casuscelli
     title: Mr
     salutation: Dear Mr Casuscelli
-    suffix: M.P. RFD
+    suffix: MP RFD
     roles:
       - Member for Strathfield
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 1, 54 Burwood Road, , BURWOOD, NSW 2134
         email: strathfield@parliament.nsw.gov.au
         fax: (02) 9747 6054
@@ -237,12 +237,12 @@ people:
   - name: B.J. Collier
     title: Mr
     salutation: Dear Mr Collier
-    suffix: M.P. BComm DipEd DipLaw
+    suffix: MP BComm DipEd DipLaw
     roles:
       - Member for Miranda
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: 577 Kingsway, , , MIRANDA, NSW 2228
         email: miranda@parliament.nsw.gov.au
         fax: (02) 9540 2517
@@ -251,12 +251,12 @@ people:
   - name: K.F. Conolly
     title: Mr
     salutation: Dear Mr Conolly
-    suffix: M.P. BA DipEd GradDipRS GradDipEd
+    suffix: MP BA DipEd GradDipRS GradDipEd
     roles:
       - Member for Riverstone
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 20 Stanhope Village, 2 Sentry Drive, , STANHOPE GARDENS, NSW 2768
         email: riverstone@parliament.nsw.gov.au
         fax: (02) 8883 3355
@@ -265,18 +265,18 @@ people:
   - name: A.J. Constance
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Treasurer; and Minister for Industrial Relations
       - Member for Bega
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 36 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@treasurer.nsw.gov.au
         phone: (02) 9228 5274
         fax: (02) 9228 3942
-      - office: Electorate
+      electorate:
         address: 122 Carp Street, , , BEGA, NSW 2550
         email: bega@parliament.nsw.gov.au
         fax: (02) 6492 3578
@@ -285,13 +285,13 @@ people:
   - name: A.S. Cornwell
     title: Mr
     salutation: Dear Mr Cornwell
-    suffix: M.P.
+    suffix: MP
     roles:
       - Government Whip
       - Member for Charlestown
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit 3, 313 Charlestown Road, , CHARLESTOWN, NSW 2290
         email: charlestown@parliament.nsw.gov.au
         fax: (02) 4942 1060
@@ -300,12 +300,12 @@ people:
   - name: M.J. Coure
     title: Mr
     salutation: Dear Mr Coure
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Oatley
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 8 Ormonde Parade, , , HURSTVILLE, NSW 2220
         email: oatley@parliament.nsw.gov.au
         fax: (02) 9580 9103
@@ -314,12 +314,12 @@ people:
   - name: M.J. Daley
     title: Mr
     salutation: Dear Mr Daley
-    suffix: M.P. DipLaw
+    suffix: MP DipLaw
     roles:
       - Member for Maroubra
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Level 5, 806 Anzac Parade, , MAROUBRA, NSW 2035
         email: maroubra@parliament.nsw.gov.au
         fax: (02) 9349 4594
@@ -328,12 +328,12 @@ people:
   - name: T. Davies
     title: Mrs
     salutation: Dear Mrs Davies
-    suffix: M.P. BAppSc(Phty)
+    suffix: MP BAppSc(Phty)
     roles:
       - Member for Mulgoa
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 1, 159 Queen Street, , ST MARYS, NSW 2760
         postal: PO Box 138, St Marys, NSW 2760
         email: mulgoa@parliament.nsw.gov.au
@@ -343,18 +343,18 @@ people:
   - name: V.M. Dominello
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Minister for Citizenship and Communities; Minister for Aboriginal Affairs; Minister for Veterans Affairs; and Assistant Minister for Education
       - Member for Ryde
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 37 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@dominello.minister.nsw.gov.au
         phone: (02) 9228 4333
         fax: (02) 9228 4392
-      - office: Electorate
+      electorate:
         address: Suite 202 Ground Floor, 5-9 Devlin Street, , RYDE, NSW 2112
         email: ryde@parliament.nsw.gov.au
         fax: (02) 9877 6222
@@ -363,12 +363,12 @@ people:
   - name: B.M. Doyle
     title: Mr
     salutation: Dear Mr Doyle
-    suffix: M.P. MBA GCMGT LLB
+    suffix: MP MBA GCMGT LLB
     roles:
       - Member for Campbelltown
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 2A, 263 Queen Street, , CAMPBELLTOWN, NSW 2560
         email: campbelltown@parliament.nsw.gov.au
         fax: (02) 4626 3640
@@ -377,13 +377,13 @@ people:
   - name: G.K. Edwards
     title: Mr
     salutation: Dear Mr Edwards
-    suffix: M.P.
+    suffix: MP
     roles:
       - Temporary Speaker
       - Member for Swansea
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 1, 204-206 Pacific Highway, , SWANSEA, NSW 2281
         email: swansea@parliament.nsw.gov.au
         fax: (02) 4972 1494
@@ -392,13 +392,13 @@ people:
   - name: D.A. Elliott
     title: Mr
     salutation: Dear Mr Elliott
-    suffix: M.P. BA MA
+    suffix: MP BA MA
     roles:
       - Parliamentary Secretary
       - Member for Baulkham Hills
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 1, 25-33 Old Northern Road, , BAULKHAM HILLS, NSW 2153
         email: baulkhamhills@parliament.nsw.gov.au
         fax: (02) 9686 3212
@@ -407,13 +407,13 @@ people:
   - name: L.J. Evans
     title: Mr
     salutation: Dear Mr Evans
-    suffix: M.P.
+    suffix: MP
     roles:
       - Temporary Speaker
       - Member for Heathcote
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Shops 1 & 2, 17 - 23 Station Street, , ENGADINE, NSW 2233
         email: heathcote@parliament.nsw.gov.au
         fax: (02) 9548 5639
@@ -422,12 +422,12 @@ people:
   - name: J.F. Flowers
     title: Mr
     salutation: Dear Mr Flowers
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Rockdale
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 478 Princes Highway, , , ROCKDALE, NSW 2216
         email: rockdale@parliament.nsw.gov.au
         fax: (02) 9567 0508
@@ -436,13 +436,13 @@ people:
   - name: A.R.G. Fraser
     title: Mr
     salutation: Dear Mr Fraser
-    suffix: M.P.
+    suffix: MP
     roles:
       - Assistant Speaker
       - Member for Coffs Harbour
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: 1/9 Park Avenue, , , COFFS HARBOUR, NSW 2450
         email: coffsharbour@parliament.nsw.gov.au
         fax: (02) 6652 7934
@@ -451,12 +451,12 @@ people:
   - name: R.A. Furolo
     title: Mr
     salutation: Dear Mr Furolo
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Lakemba
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop SP319, Roselands Shopping Centre, Roselands Drive, ROSELANDS, NSW 2196
         postal: PO Box 5, ROSELANDS, NSW 2196
         email: lakemba@parliament.nsw.gov.au
@@ -466,12 +466,12 @@ people:
   - name: A.R. Gee
     title: Mr
     salutation: Dear Mr Gee
-    suffix: M.P. BEc(Hons) LLB
+    suffix: MP BEc(Hons) LLB
     roles:
       - Member for Orange
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: 123 Byng Street, , , ORANGE, NSW 2800
         email: orange@parliament.nsw.gov.au
         fax: (02) 6361 3922
@@ -480,18 +480,18 @@ people:
   - name: T. George
     title: The Hon.
     salutation: Dear Mr George
-    suffix: M.P.
+    suffix: MP
     roles:
       - Deputy Speaker
       - Member for Lismore
-    party: The Nationals
+    party: NP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Parliament of New South Wales, Macquarie Street, , SYDNEY, NSW 2000
         email: lismore@parliament.nsw.gov.au
         phone: (02) 9230 2059
         fax: (02) 9230 2220
-      - office: Electorate
+      electorate:
         address: 55 Carrington Street, , , LISMORE, NSW 2480
         postal: PO Box 52, Lismore, NSW 2480
         email: lismore@parliament.nsw.gov.au
@@ -501,13 +501,13 @@ people:
   - name: M.R. Gibbons
     title: Ms
     salutation: Dear Ms Gibbons
-    suffix: M.P.
+    suffix: MP
     roles:
       - Temporary Speaker
       - Member for Menai
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 60 Walder Road, , , HAMMONDVILLE, NSW 2170
         email: menai@parliament.nsw.gov.au
         fax: (02) 9825 4861
@@ -516,18 +516,18 @@ people:
   - name: P.J. Goward
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Minister for Planning; and Minister for Women
       - Member for Goulburn
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 34 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@goward.minister.nsw.gov.au
         phone: (02) 9228 5413
         fax: (02) 9228 5501
-      - office: Electorate
+      electorate:
         address: 288 Bong Bong Street, , , BOWRAL, NSW 2576
         email: goulburn@parliament.nsw.gov.au
         fax: (02) 4861 3546
@@ -536,18 +536,18 @@ people:
   - name: T.W. Grant
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Minister for Hospitality Gaming and Racing; and Minister for the Arts
       - Member for Dubbo
-    party: The Nationals
+    party: NP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 30 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@grant.minister.nsw.gov.au
         phone: (02) 9228 5218
         fax: (02) 9228 5968
-      - office: Electorate
+      electorate:
         address: Shop 1, 18 Talbragar Street, , DUBBO, NSW 2830
         email: dubbo@parliament.nsw.gov.au
         fax: (02) 6882 3689
@@ -556,12 +556,12 @@ people:
   - name: A.H. Greenwich
     title: Mr
     salutation: Dear Mr Greenwich
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Sydney
-    party: Independent
+    party: IND
     contact:
-      - office: Electorate
+      electorate:
         address: 58 Oxford Street, , , PADDINGTON, NSW 2021
         email: sydney@parliament.nsw.gov.au
         fax: (02) 9331 6963
@@ -570,12 +570,12 @@ people:
   - name: C. Gulaptis
     title: Mr
     salutation: Dear Mr Gulaptis
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Clarence
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: 11 Prince Street, , , GRAFTON, NSW 2460
         email: clarence@parliament.nsw.gov.au
         fax: (02) 6642 7574
@@ -584,18 +584,18 @@ people:
   - name: S.E. Hancock
     title: The Hon.
     salutation: Dear Mrs Hancock
-    suffix: M.P. BA DipEd
+    suffix: MP BA DipEd
     roles:
       - Speaker
       - Member for South Coast
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Parliament of New South Wales, Macquarie Street, , SYDNEY, NSW 2000
         email: speaker@parliament.nsw.gov.au
         phone: (02) 9230 2201
         fax: (02) 9230 2846
-      - office: Electorate
+      electorate:
         address: 1/57 Plunkett Street, , , NOWRA, NSW 2541
         email: southcoast@parliament.nsw.gov.au
         fax: (02) 4422 1180
@@ -604,12 +604,12 @@ people:
   - name: C.P. Hartcher
     title: Mr
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Terrigal
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 3 Fountain Plaza, 148-158 The Entrance Road, , ERINA, NSW 2250
         email: terrigal@parliament.nsw.gov.au
         fax: (02) 4365 4768
@@ -618,13 +618,13 @@ people:
   - name: N. Hay
     title: Ms
     salutation: Dear Ms Hay
-    suffix: M.P.
+    suffix: MP
     roles:
       - Temporary Speaker
       - Member for Wollongong
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 2S Rear Ground Floor, 111 Crown Street, , WOLLONGONG, NSW 2500
         email: wollongong@parliament.nsw.gov.au
         fax: (02) 4226 9963
@@ -633,18 +633,18 @@ people:
   - name: B.R. Hazzard
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P. BA DipEd LLB(NSW) LLM(Syd)
+    suffix: MP BA DipEd LLB(NSW) LLM(Syd)
     roles:
       - Attorney General; and Minister for Justice
       - Member for Wakehurst
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 31 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@hazzard.minister.nsw.gov.au
         phone: (02) 9228 5258
         fax: (02) 9228 5721
-      - office: Electorate
+      electorate:
         address: Shop 3 637-641 Pittwater Road, , , DEE WHY, NSW 2099
         postal: P O Box 405, DEE WHY, NSW 2099
         email: wakehurst@parliament.nsw.gov.au
@@ -654,34 +654,34 @@ people:
   - name: K.A. Hodgkinson
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Minister for Primary Industries; and Assistant Minister for Tourism and Major Events
       - Member for Burrinjuck
-    party: The Nationals
+    party: NP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 30 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@hodgkinson.minister.nsw.gov.au
         phone: (02) 9228 5210
         fax: (02) 9228 5969
-      - office: Electorate
+      electorate:
         address: 133 Comur Street, , , YASS, NSW 2582
         email: burrinjuck@parliament.nsw.gov.au
         fax: (02) 6226 3345
         phone: (02) 6226 3311
-      - office: alternate
+      alternate:
         email: invitations@hodgkinson.minister.nsw.gov.au
 
   - name: R. Hoenig
     title: Mr
     salutation: Dear Mr Hoenig
-    suffix: M.P. DipLaw (SAB)
+    suffix: MP DipLaw (SAB)
     roles:
       - Member for Heffron
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 117, 747 Botany Road, , ROSEBERY, NSW 2018
         email: heffron@parliament.nsw.gov.au
         fax: (02) 9699 8222
@@ -690,12 +690,12 @@ people:
   - name: C.D. Holstein
     title: Mr
     salutation: Dear Mr Holstein
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Gosford
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 20 Blackwall Road, , , WOY WOY, NSW 2256
         email: gosford@parliament.nsw.gov.au
         fax: (02) 4341 2368
@@ -704,12 +704,12 @@ people:
   - name: S.K. Hornery
     title: Ms
     salutation: Dear Ms Hornery
-    suffix: M.P. JP BA(Hist)(Hons)
+    suffix: MP JP BA(Hist)(Hons)
     roles:
       - Member for Wallsend
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 3, 30 Dan Rees Street, WALLSEND, NSW 2287
         postal: PO Box 324, WALLSEND, NSW 2287
         email: wallsend@parliament.nsw.gov.au
@@ -719,23 +719,23 @@ people:
   - name: K.J. Humphries
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Minister for Natural Resources Lands and Water; and Minister for Western NSW
       - Member for Barwon
-    party: The Nationals
+    party: NP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 33 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@humphries.minister.nsw.gov.au
         phone: (02) 9228 5248
         fax: (02) 9228 5882
-      - office: Moree Electorate Office
+      electorate:
         address: Suites 2-6, 161 Balo Street, MOREE, NSW 2400
         email: barwon@parliament.nsw.gov.au
         fax: (02) 6752 6102
         phone: (02) 6752 5002
-      - office: Cobar Electorate Office
+      alternate:
         address: 11 Barton Street, COBAR, NSW 2835
         fax: (02) 6836 3811
         phone: (02) 6836 3722
@@ -743,12 +743,12 @@ people:
   - name: A. Issa
     title: Mr
     salutation: Dear Mr Issa
-    suffix: M.P. OAM
+    suffix: MP OAM
     roles:
       - Member for Granville
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 160 Merrylands Road, , , MERRYLANDS, NSW 2160
         email: granville@parliament.nsw.gov.au
         fax: (02) 9897 1434
@@ -757,13 +757,13 @@ people:
   - name: M.J. Kean
     title: Mr
     salutation: Dear Mr Kean
-    suffix: M.P. BBus GradDipCA
+    suffix: MP BBus GradDipCA
     roles:
       - Parliamentary Secretary
       - Member for Hornsby
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 5 The Madison, 25-29 Hunter Street, , HORNSBY, NSW 2077
         email: hornsby@parliament.nsw.gov.au
         fax: (02) 9476 2965
@@ -772,12 +772,12 @@ people:
   - name: N. Lalich
     title: Mr
     salutation: Dear Mr Lalich
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Cabramatta
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 10 Level 1, 5 Arthur Street, , CABRAMATTA, NSW 2166
         email: cabramatta@parliament.nsw.gov.au
         fax: (02) 9724 6056
@@ -786,12 +786,12 @@ people:
   - name: G. Lee
     title: Dr
     salutation: Dear Dr Lee
-    suffix: M.P. BAppSc(Hort) MBA DBA
+    suffix: MP BAppSc(Hort) MBA DBA
     roles:
       - Member for Parramatta
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 90 George Street, , , PARRAMATTA, NSW 2150
         email: parramatta@parliament.nsw.gov.au
         fax: (02) 9891 5618
@@ -800,12 +800,12 @@ people:
   - name: P.G. Lynch
     title: The Hon.
     salutation: Dear Mr Lynch
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Liverpool
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: 100 Moore Street, , , LIVERPOOL, NSW 2170
         email: ElectorateOffice.Liverpool@parliament.nsw.gov.au
         fax: (02) 9821 1807
@@ -814,13 +814,13 @@ people:
   - name: D.W. Maguire
     title: Mr
     salutation: Dear Mr Maguire
-    suffix: M.P.
+    suffix: MP
     roles:
       - Parliamentary Secretary
       - Member for Wagga Wagga
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 76 Morgan Street, , , WAGGA WAGGA, NSW 2650
         email: waggawagga@parliament.nsw.gov.au
         fax: (02) 6921 4424
@@ -829,13 +829,13 @@ people:
   - name: A.J. Marshall
     title: Mr
     salutation: Dear Mr Marshall
-    suffix: M.P.
+    suffix: MP
     roles:
       - Temporary Speaker
       - Member for Northern Tablelands
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 1 Ground Floor, 175 Rusden Street, , ARMIDALE, NSW 2350
         email: northerntablelands@parliament.nsw.gov.au
         fax: (02) 6772 5026
@@ -844,12 +844,12 @@ people:
   - name: A.D. McDonald
     title: Dr
     salutation: Dear Dr McDonald
-    suffix: M.P. MBBS(Hons) FRACP FRCP(Glasg) FRCPCH
+    suffix: MP MBBS(Hons) FRACP FRCP(Glasg) FRCPCH
     roles:
       - Member for Macquarie Fields
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 18 Carnes Hill Marketplace, Corner Cowpasture & Kurrajong Roads, , HORNINGSEA PARK, NSW 2171
         email: macquariefields@parliament.nsw.gov.au
         fax: (02) 9608 0606
@@ -858,12 +858,12 @@ people:
   - name: M. Mihailuk
     title: Ms
     salutation: Dear Ms Mihailuk
-    suffix: M.P. BEc LLB
+    suffix: MP BEc LLB
     roles:
       - Member for Bankstown
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 1 3rd Floor, 402-410 Chapel Road, , BANKSTOWN, NSW 2200
         email: bankstown@parliament.nsw.gov.au
         fax: (02) 9708 3960
@@ -872,12 +872,12 @@ people:
   - name: B.N. Notley-Smith
     title: Mr
     salutation: Dear Mr Notley-Smith
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Coogee
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 80 Bronte Road, , , BONDI JUNCTION, NSW 2022
         email: coogee@parliament.nsw.gov.au
         fax: (02) 9387 8845
@@ -886,12 +886,12 @@ people:
   - name: J.R. O'Dea
     title: Mr
     salutation: Dear Mr O'Dea
-    suffix: M.P. BA LLM MBA
+    suffix: MP BA LLM MBA
     roles:
       - Member for Davidson
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 8A, 12 Tryon Road, , LINDFIELD, NSW 2070
         email: davidson@parliament.nsw.gov.au
         fax: (02) 9880 7488
@@ -900,12 +900,12 @@ people:
   - name: B.R. O'Farrell
     title: Mr
     salutation: Dear Mr O'Farrell
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Ku-ring-gai
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 27 Redleaf Avenue, , , WAHROONGA, NSW 2076
         email: kuringgai@parliament.nsw.gov.au
         fax: (02) 9487 8550
@@ -914,12 +914,12 @@ people:
   - name: T.F. Owen
     title: Mr
     salutation: Dear Mr Owen
-    suffix: M.P. AM MSS
+    suffix: MP AM MSS
     roles:
       - Member for Newcastle
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Ground Floor, 414 Hunter Street, , NEWCASTLE, NSW 2300
         postal: PO Box 1816, Newcastle, NSW 2300
         email: newcastle@parliament.nsw.gov.au
@@ -929,12 +929,12 @@ people:
   - name: D.L. Page
     title: Mr
     salutation: Dear Mr Page
-    suffix: M.P. BEc MEc DipRurAcctg
+    suffix: MP BEc MEc DipRurAcctg
     roles:
       - Member for Ballina
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 1, 7 Moon Street, , BALLINA, NSW 2478
         postal: PO Box 1018, BALLINA, NSW 2478
         email: ballina@parliament.nsw.gov.au
@@ -944,12 +944,12 @@ people:
   - name: J.T. Parker
     title: Mr
     salutation: Dear Mr Parker
-    suffix: M.P. BEcon MPolEc
+    suffix: MP BEcon MPolEc
     roles:
       - Member for Balmain
-    party: The Greens
+    party: GRN
     contact:
-      - office: Electorate
+      electorate:
         address: 112A Glebe Point Road, , , GLEBE, NSW 2037
         email: balmain@parliament.nsw.gov.au
         fax: (02) 9660 6112
@@ -958,12 +958,12 @@ people:
   - name: R. M. Parker
     title: Ms
     salutation: Dear Ms Parker
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Maitland
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 34 Church Street, , , MAITLAND, NSW 2320
         postal: PO Box 920, MAITLAND, NSW 2320
         email: Robyn.Parker@parliament.nsw.gov.au
@@ -973,12 +973,12 @@ people:
   - name: R.J. Park
     title: Mr
     salutation: Dear Mr Park
-    suffix: M.P. BEd (Hons) MEd
+    suffix: MP BEd (Hons) MEd
     roles:
       - Member for Keira
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Shops 2 and 3, 247 Princes Highway, , CORRIMAL, NSW 2518
         email: keira@parliament.nsw.gov.au
         fax: (02) 4285 1858
@@ -987,12 +987,12 @@ people:
   - name: C. Patterson
     title: Mr
     salutation: Dear Mr Patterson
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Camden
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 66 John Street, , , CAMDEN, NSW 2570
         email: camden@parliament.nsw.gov.au
         fax: (02) 4655 3325
@@ -1001,18 +1001,18 @@ people:
   - name: D.F. Perrottet
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P. LLB BCOM
+    suffix: MP LLB BCOM
     roles:
       - Minister for Finance and Services
       - Member for Castle Hill
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 36 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@perrottet.minister.nsw.gov.au
         phone: (02) 9228 5287
         fax: (02) 9228 5899
-      - office: Electorate
+      electorate:
         address: 287C Old Northern Road, , , CASTLE HILL, NSW 2154
         email: castlehill@parliament.nsw.gov.au
         fax: (02) 9899 3340
@@ -1021,12 +1021,12 @@ people:
   - name: B.M. Perry
     title: The Hon.
     salutation: Dear Mrs Perry
-    suffix: M.P. BA LLB
+    suffix: MP BA LLB
     roles:
       - Member for Auburn
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: 54-58 Amy Street, , , REGENTS PARK, NSW 2143
         email: auburn@parliament.nsw.gov.au
         fax: (02) 9644 8290
@@ -1035,18 +1035,18 @@ people:
   - name: A. Piccoli
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P. BEc LLB
+    suffix: MP BEc LLB
     roles:
       - Minister for Education
       - Member for Murrumbidgee
-    party: The Nationals
+    party: NP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 34 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@piccoli.minister.nsw.gov.au
         phone: (02) 9228 5261
         fax: (02) 9228 5492
-      - office: Electorate
+      electorate:
         address: NSW Government Offices, 104-110 Banna Avenue, , GRIFFITH, NSW 2680
         email: murrumbidgee@parliament.nsw.gov.au
         fax: (02) 6962 7725
@@ -1055,12 +1055,12 @@ people:
   - name: G.M. Piper
     title: Mr
     salutation: Dear Mr Piper
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Lake Macquarie
-    party: Independent
+    party: IND
     contact:
-      - office: Electorate
+      electorate:
         address: 92 Victory Parade, , , TORONTO, NSW 2283
         email: lakemacquarie@parliament.nsw.gov.au
         fax: (02) 4950 4076
@@ -1069,13 +1069,13 @@ people:
   - name: G.K. Provest
     title: Mr
     salutation: Dear Mr Provest
-    suffix: M.P. CCM FAIM AICD JP
+    suffix: MP CCM FAIM AICD JP
     roles:
       - Parliamentary Secretary
       - Member for Tweed
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: 103 Minjungbal Drive, , , TWEED HEADS SOUTH, NSW 2486
         postal: PO Box 6695, TWEED HEADS SOUTH, NSW 2486
         email: tweed@parliament.nsw.gov.au
@@ -1085,12 +1085,12 @@ people:
   - name: N. Rees
     title: The Hon.
     salutation: Dear Mr Rees
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Toongabbie
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: 166 Best Road, , , SEVEN HILLS, NSW 2147
         email: toongabbie@parliament.nsw.gov.au
         fax: (02) 9831 8044
@@ -1099,17 +1099,17 @@ people:
   - name: J. Robertson
     title: Mr
     salutation: Dear Mr Robertson
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Blacktown
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Parliament House, Macquarie Street, , SYDNEY, NSW 2000
         email: leader.opposition@parliament.nsw.gov.au
         phone: (02) 9230 2310
         fax: (02) 9230 3355
-      - office: Electorate
+      electorate:
         address: Shop 3063, Westpoint Shopping Centre, Flushcombe Road, BLACKTOWN, NSW 2148
         email: blacktown@parliament.nsw.gov.au
         fax: (02) 9671 5266
@@ -1118,19 +1118,19 @@ people:
   - name: A.J. Roberts
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P. MA (Comms)
+    suffix: MP MA (Comms)
     roles:
       - Leader of the House
       - Minister for Resources and Energy; and Special Minister of State
       - Member for Lane Cove
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 37 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@roberts.minister.nsw.gov.au
         phone: (02) 9228 5289
         fax: (02) 9228 3448
-      - office: Electorate
+      electorate:
         address: Level 3 Suite 302, 230 Victoria Road, , GLADESVILLE, NSW 2111
         email: lanecove@parliament.nsw.gov.au
         fax: (02) 9817 5885
@@ -1139,12 +1139,12 @@ people:
   - name: A.R. Rohan
     title: Mr
     salutation: Dear Mr Rohan
-    suffix: M.P. BSc(Geology) MSc(Petroleum Geology)
+    suffix: MP BSc(Geology) MSc(Petroleum Geology)
     roles:
       - Member for Smithfield
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 2/679 The Horsley Drive, , , SMITHFIELD, NSW 2164
         email: smithfield@parliament.nsw.gov.au
         fax: (02) 9756 1544
@@ -1153,18 +1153,18 @@ people:
   - name: J.T. Rowell
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Minister for Mental Health; Assistant Minister for Health
       - Member for Wollondilly
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 31 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@rowell.minister.nsw.gov.au
         phone: (02) 9228 5246
         fax: (02) 9228 5876
-      - office: Electorate
+      electorate:
         address: Shop 1, 117 Remembrance Drive, , TAHMOOR, NSW 2573
         email: wollondilly@parliament.nsw.gov.au
         fax: (02) 4683 2595
@@ -1173,12 +1173,12 @@ people:
   - name: R.E.M. Sage
     title: Mrs
     salutation: Dear Mrs Sage
-    suffix: M.P. BDSc
+    suffix: MP BDSc
     roles:
       - Member for Blue Mountains
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 132 Macquarie Road, , , SPRINGWOOD, NSW 2777
         email: bluemountains@parliament.nsw.gov.au
         fax: (02) 4751 1245
@@ -1187,12 +1187,12 @@ people:
   - name: A.J. Sidoti
     title: Mr
     salutation: Dear Mr Sidoti
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Drummoyne
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 128 Great North Road, , , FIVE DOCK, NSW 2046
         email: drummoyne@parliament.nsw.gov.au
         fax: (02) 9713 2911
@@ -1201,18 +1201,18 @@ people:
   - name: J.G. Skinner
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Minister for Health; and Minister for Medical Research
       - Member for North Shore
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 31 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@skinner.minister.nsw.gov.au
         phone: (02) 9228 5229
         fax: (02) 9228 5877
-      - office: Electorate
+      electorate:
         address: Suite 3, 40 Yeo Street, , NEUTRAL BAY, NSW 2089
         email: northshore@parliament.nsw.gov.au
         fax: (02) 9909 2654
@@ -1221,12 +1221,12 @@ people:
   - name: G.E. Smith
     title: Mr
     salutation: Dear Mr Smith
-    suffix: M.P. SC
+    suffix: MP SC
     roles:
       - Member for Epping
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 303, Level 3 51 Rawson Street, , EPPING, NSW 2121
         email: epping@parliament.nsw.gov.au
         fax: (02) 9877 0405
@@ -1235,12 +1235,12 @@ people:
   - name: G. Souris
     title: The Hon.
     salutation: Dear Mr Souris
-    suffix: M.P. BEc DipFMgt FAIM FCPA
+    suffix: MP BEc DipFMgt FAIM FCPA
     roles:
       - Member for Upper Hunter
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: 20 Bridge Street, , , MUSWELLBROOK, NSW 2333
         email: upperhunter@parliament.nsw.gov.au
         fax: (02) 6543 1416
@@ -1249,13 +1249,13 @@ people:
   - name: M.R. Speakman
     title: Mr
     salutation: Dear Mr Speakman
-    suffix: M.P. SC
+    suffix: MP SC
     roles:
       - Parliamentary Secretary
       - Member for Cronulla
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 203, 30 Kingsway, , CRONULLA, NSW 2230
         email: cronulla@parliament.nsw.gov.au
         fax: (02) 9527 4180
@@ -1264,12 +1264,12 @@ people:
   - name: C.E. Spence
     title: Mr
     salutation: Dear Mr Spence
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for The Entrance
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 24 The Entrance Road, , , THE ENTRANCE, NSW 2261
         postal: PO Box 401, The Entrance, NSW 2261
         email: TheEntrance@parliament.nsw.gov.au
@@ -1279,18 +1279,18 @@ people:
   - name: R.G. Stokes
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P.
+    suffix: MP
     roles:
       - Minister for the Environment; Minister for Heritage; Minister for the Central Coast; and Assistant Minister for Planning
       - Member for Pittwater
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 32 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@stokes.minister.nsw.gov.au
         phone: (02) 9228 5253
         fax: (02) 9228 5763
-      - office: Electorate
+      electorate:
         address: 1725 Pittwater Road, , , MONA VALE, NSW 2103
         email: pittwater@parliament.nsw.gov.au
         fax: (02) 9999 0922
@@ -1299,18 +1299,18 @@ people:
   - name: A.J. Stoner
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P. BBus MBA
+    suffix: MP BBus MBA
     roles:
       - Deputy Premier; Minister for Trade and Investment; Minister for Regional Infrastructure and Services; Minister for Tourism and Major Events; Minister for Small Business; and Minister for the North Coast
       - Member for Oxley
-    party: The Nationals
+    party: NP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 30 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@deputypremier.nsw.gov.au
         phone: (02) 9228 5209
         fax: (02) 9228 5970
-      - office: Electorate
+      electorate:
         address: 37 Elbow Street, , , WEST KEMPSEY, NSW 2440
         postal: PO Box 3120, WEST KEMPSEY, NSW 2440
         email: oxley@parliament.nsw.gov.au
@@ -1320,12 +1320,12 @@ people:
   - name: C.M. Tebbutt
     title: The Hon.
     salutation: Dear Ms Tebbutt
-    suffix: M.P. BEc
+    suffix: MP BEc
     roles:
       - Member for Marrickville
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: 299-301 Marrickville Road, , , MARRICKVILLE, NSW 2204
         email: marrickville@parliament.nsw.gov.au
         fax: (02) 9572 6414
@@ -1334,18 +1334,18 @@ people:
   - name: P.L. Toole
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P. DipTeach
+    suffix: MP DipTeach
     roles:
       - Minister for Local Government
       - Member for Bathurst
-    party: The Nationals
+    party: NP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 33 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@toole.minister.nsw.gov.au
         phone: (02) 9228 3403
         fax: (02) 9228 3442
-      - office: Electorate
+      electorate:
         address: Suites 1 and 2, 229 Howick Street, , BATHURST, NSW 2795
         email: paul.toole@parliament.nsw.gov.au
         fax: (02) 6332 1900
@@ -1354,18 +1354,18 @@ people:
   - name: G.C. Upton
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.P. MBA BA LLB
+    suffix: MP MBA BA LLB
     roles:
       - Minister for Family and Community Services
       - Member for Vaucluse
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 31 Governor Macquarie Tower, 1 Farrer Place, , SYDNEY, NSW 2000
         email: office@upton.minister.nsw.gov.au
         phone: (02) 9228 5259
         fax: (02) 9228 5727
-      - office: Electorate
+      electorate:
         address: 330 New South Head Road, , , DOUBLE BAY, NSW 2028
         email: vaucluse@parliament.nsw.gov.au
         fax: (02) 9328 1132
@@ -1374,13 +1374,13 @@ people:
   - name: G.J. Ward
     title: Mr
     salutation: Dear Mr Ward
-    suffix: M.P. BA BCom MAICD JP
+    suffix: MP BA BCom MAICD JP
     roles:
       - Deputy Government Whip
       - Member for Kiama
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: 102 Terralong Street, , , KIAMA, NSW 2533
         email: kiama@parliament.nsw.gov.au
         fax: (02) 4232 3577
@@ -1389,12 +1389,12 @@ people:
   - name: A. Watson
     title: Ms
     salutation: Dear Ms Watson
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Shellharbour
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 3, 10 College Avenue Shellharbour City Centre, , SHELLHARBOUR, NSW 2529
         email: shellharbour@parliament.nsw.gov.au
         fax: (02) 4297 3144
@@ -1403,12 +1403,12 @@ people:
   - name: D.J. Webber
     title: Mr
     salutation: Dear Mr Webber
-    suffix: M.P.
+    suffix: MP
     roles:
       - Member for Wyong
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 4, 142 Pacific Highway, , WYONG, NSW 2259
         postal: PO Box 836, WYONG, NSW 2259
         email: wyong@parliament.nsw.gov.au
@@ -1418,17 +1418,17 @@ people:
   - name: J.D. Williams
     title: Mr
     salutation: Dear Mr Williams
-    suffix: M.P.
+    suffix: MP
     roles:
       - The Nationals Whip
       - Member for Murray-Darling
-    party: The Nationals
+    party: NP
     contact:
-      - office: Ministerial
+      ministerial:
         address: 228 Cressy Street, , , DENILIQUIN, NSW 2710
         phone: (03) 5881 7034
         fax: (03) 5881 7839
-      - office: Electorate
+      electorate:
         address: 1/142 Argent St, , , BROKEN HILL, NSW 2880
         email: murraydarling@parliament.nsw.gov.au
         fax: (08) 8087 1796
@@ -1437,13 +1437,13 @@ people:
   - name: R.C. Williams
     title: Mr
     salutation: Dear Mr Williams
-    suffix: M.P. MURP(Curtin)
+    suffix: MP MURP(Curtin)
     roles:
       - Parliamentary Secretary
       - Member for Hawkesbury
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 202 Rouse Hill Town Centre, 10-14 Market Lane, , ROUSE HILL, NSW 2155
         email: hawkesbury@parliament.nsw.gov.au
         fax: (02) 8882 9411
@@ -1452,13 +1452,13 @@ people:
   - name: L.G. Williams
     title: Mrs
     salutation: Dear Mrs Williams
-    suffix: M.P. BNurs DipTeach
+    suffix: MP BNurs DipTeach
     roles:
       - Parliamentary Secretary
       - Member for Port Macquarie
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 6, 27 Grant Street, , PORT MACQUARIE, NSW 2444
         email: portmacquarie@parliament.nsw.gov.au
         fax: (02) 6584 0978
@@ -1467,12 +1467,12 @@ people:
   - name: G. Zangari
     title: Mr
     salutation: Dear Mr Zangari
-    suffix: M.P. BEd
+    suffix: MP BEd
     roles:
       - Member for Fairfield
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 6 Level 2 Neeta City Shopping Centre, Smart Street, , FAIRFIELD, NSW 2165
         postal: PO Box 771, FAIRFIELD, NSW 1860
         email: fairfield@parliament.nsw.gov.au
@@ -1482,18 +1482,18 @@ people:
   - name: J. Ajaka
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Deputy Leader of the Government in the Legislative Council
       - Minister for Ageing; Minister for Disability Services; and Minister for the Illawarra
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 34 Governor Macquarie Tower, 1 Farrer Place, , Sydney, NSW 2000
         phone: (02) 9228 5263
         fax: (02) 9228 5500
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: office@ajaka.minister.nsw.gov.au
         fax: (02) 9230 3620
@@ -1502,13 +1502,13 @@ people:
   - name: J. Barham
     title: Ms
     salutation: Dear Ms Barham
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Temporary Chair of Committees
       - Member of the Legislative Council
-    party: The Greens
+    party: GRN
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: jan.barham@parliament.nsw.gov.au
         fax: (02) 9230 2766
@@ -1517,12 +1517,12 @@ people:
   - name: N. Blair
     title: The Hon.
     salutation: Dear Mr Blair
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: niall.blair@parliament.nsw.gov.au
         fax: (02) 9230 2997
@@ -1531,12 +1531,12 @@ people:
   - name: R. Borsak
     title: The Hon.
     salutation: Dear Mr Borsak
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: Shooters and Fishers Party
+    party: SFP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: robert.borsak@parliament.nsw.gov.au
         fax: (02) 9230 2613
@@ -1545,12 +1545,12 @@ people:
   - name: R. L. Brown
     title: The Hon.
     salutation: Dear Mr Brown
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: Shooters and Fishers Party
+    party: SFP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: robert.brown@parliament.nsw.gov.au
         fax: (02) 9230 2613
@@ -1559,12 +1559,12 @@ people:
   - name: J. Buckingham
     title: Mr
     salutation: Dear Mr Buckingham
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: The Greens
+    party: GRN
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: jeremy.buckingham@parliament.nsw.gov.au
         fax: (02) 9230 3341
@@ -1573,13 +1573,13 @@ people:
   - name: D. J. Clarke
     title: The Hon.
     salutation: Dear Mr Clarke
-    suffix: M.L.C. LL B (Syd)
+    suffix: MLC LL B (Syd)
     roles:
       - Parliamentary Secretary
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: david.clarke@parliament.nsw.gov.au
         fax: (02) 9230 3501
@@ -1588,13 +1588,13 @@ people:
   - name: R. H. Colless
     title: The Hon.
     salutation: Dear Mr Colless
-    suffix: M.L.C. HD App Sci(Agric)
+    suffix: MLC HD App Sci(Agric)
     roles:
       - Deputy Government Whip in the Legislative Council
       - Member of the Legislative Council
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: rick.colless@parliament.nsw.gov.au
         fax: (02) 9230 3579
@@ -1603,12 +1603,12 @@ people:
   - name: S. Cotsis
     title: The Hon.
     salutation: Dear Ms Cotsis
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: sophie.cotsis@parliament.nsw.gov.au
         fax: (02) 9230 3056
@@ -1617,13 +1617,13 @@ people:
   - name: C. E. Cusack
     title: The Hon.
     salutation: Dear Ms Cusack
-    suffix: M.L.C. BEc(SocSc)
+    suffix: MLC BEc(SocSc)
     roles:
       - Parliamentary Secretary
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: catherine.cusack@parliament.nsw.gov.au
         fax: (02) 9230 2385
@@ -1632,12 +1632,12 @@ people:
   - name: G. J. Donnelly
     title: The Hon.
     salutation: Dear Mr Donnelly
-    suffix: M.L.C. BEc MIR
+    suffix: MLC BEc MIR
     roles:
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: greg.donnelly@parliament.nsw.gov.au
         fax: (02) 9230 2585
@@ -1646,12 +1646,12 @@ people:
   - name: M. Faruqi
     title: Dr
     salutation: Dear Dr Faruqi
-    suffix: M.L.C. PhD MEngSc BE
+    suffix: MLC PhD MEngSc BE
     roles:
       - Member of the Legislative Council
-    party: The Greens
+    party: GRN
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: mehreen.faruqi@parliament.nsw.gov.au
         phone: (02) 9230 2625
@@ -1659,13 +1659,13 @@ people:
   - name: A. R. Fazio
     title: The Hon.
     salutation: Dear Ms Fazio
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Opposition Whip in the Legislative Council
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: amanda.fazio@parliament.nsw.gov.au
         fax: (02) 9230 3591
@@ -1674,12 +1674,12 @@ people:
   - name: M. A. Ficarra
     title: The Hon.
     salutation: Dear Ms Ficarra
-    suffix: M.L.C. B.Sc.(Hons)
+    suffix: MLC B.Sc.(Hons)
     roles:
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: marie.ficarra@parliament.nsw.gov.au
         fax: (02) 9230 2466
@@ -1688,13 +1688,13 @@ people:
   - name: L. A. Foley
     title: The Hon.
     salutation: Dear Mr Foley
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Leader of the Opposition in the Legislative Council
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: Luke.Foley@parliament.nsw.gov.au
         fax: (02) 9230 3349
@@ -1703,12 +1703,12 @@ people:
   - name: M. J. Gallacher
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.L.C. BProf St
+    suffix: MLC BProf St
     roles:
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         fax: (02) 9230 2980
         phone: (02) 9230 2302
@@ -1716,13 +1716,13 @@ people:
   - name: J. A. Gardiner
     title: The Hon.
     salutation: Dear Ms Gardiner
-    suffix: M.L.C. BBus
+    suffix: MLC BBus
     roles:
       - Deputy President and Chair of Committees
       - Member of the Legislative Council
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: jenny.gardiner@parliament.nsw.gov.au
         fax: (02) 9230 3408
@@ -1731,18 +1731,18 @@ people:
   - name: D. J. Gay
     title: The Hon.
     salutation: Dear Minister
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Leader of the Government in the Legislative Council; Leader of the House in the Legislative Council
       - Minister for Roads and Freight; and Vice-President of the Executive Council
       - Member of the Legislative Council
-    party: The Nationals
+    party: NP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 35 Governor Macquarie Tower, 1 Farrer Place, , Sydney, NSW 2000
         phone: (02) 9228 5271
         fax: (02) 9228 5499
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: office@gay.minister.nsw.gov.au
         fax: (02) 9230 2923
@@ -1751,13 +1751,13 @@ people:
   - name: P. Green
     title: The Hon.
     salutation: Dear Mr Green
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Temporary Chair of Committees
       - Member of the Legislative Council
-    party: Christian Democratic Party (Fred Nile Group)
+    party: CDP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: paul.green@parliament.nsw.gov.au
         fax: (02) 9230 2342
@@ -1766,13 +1766,13 @@ people:
   - name: D. T. Harwin
     title: The Hon.
     salutation: Dear Mr Harwin
-    suffix: M.L.C. BEc(Hons)
+    suffix: MLC BEc(Hons)
     roles:
       - President of the Legislative Council of NSW
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: president@parliament.nsw.gov.au
         fax: (02) 9230 3518
@@ -1781,12 +1781,12 @@ people:
   - name: J. Kaye
     title: Dr
     salutation: Dear Dr Kaye
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: The Greens
+    party: GRN
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: john.kaye@parliament.nsw.gov.au
         fax: (02) 9230 2586
@@ -1795,13 +1795,13 @@ people:
   - name: T. Khan
     title: The Hon.
     salutation: Dear Mr Khan
-    suffix: M.L.C. B Juris LLB(UNSW)
+    suffix: MLC B Juris LLB(UNSW)
     roles:
       - Temporary Chair of Committees
       - Member of the Legislative Council
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: trevor.khan@parliament.nsw.gov.au
         fax: (02) 9230 3502
@@ -1810,13 +1810,13 @@ people:
   - name: C. J. S. Lynn
     title: The Hon.
     salutation: Dear Mr Lynn
-    suffix: M.L.C. psc
+    suffix: MLC psc
     roles:
       - Parliamentary Secretary
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: charlie.lynn@parliament.nsw.gov.au
         fax: (02) 9230 2396
@@ -1825,12 +1825,12 @@ people:
   - name: S. MacDonald
     title: Mr
     salutation: Dear Mr MacDonald
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: scot.macdonald@parliament.nsw.gov.au
         fax: (02) 9230 2366
@@ -1839,13 +1839,13 @@ people:
   - name: N.M.A. Maclaren-Jones
     title: The Hon.
     salutation: Dear Mrs Maclaren-Jones
-    suffix: M.L.C. BN MHSM
+    suffix: MLC BN MHSM
     roles:
       - Temporary Chair of Committees
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: natasha.maclaren-jones@parliament.nsw.gov.au
         fax: (02) 9230 2698
@@ -1854,18 +1854,18 @@ people:
   - name: M. R. Mason-Cox
     title: The Hon.
     salutation: Dear Mr Mason-Cox
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Minister for Fair Trading
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 33 Governor Macquarie Tower, 1 Farrer Place, , Sydney, NSW 2000
         email: office@mason-cox.minister.nsw.gov.au
         phone: (02) 9228 5257
         fax: (02) 9228 5724
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: Matthew.Mason-Cox@parliament.nsw.gov.au
         fax: (02) 9230 3597
@@ -1874,13 +1874,13 @@ people:
   - name: S. Mitchell
     title: The Hon.
     salutation: Dear Mrs Mitchell
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Temporary Chair of Committees
       - Member of the Legislative Council
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: sarah.mitchell@parliament.nsw.gov.au
         fax: (02) 9230 2348
@@ -1889,12 +1889,12 @@ people:
   - name: S. Moselmane
     title: The Hon.
     salutation: Dear Mr Moselmane
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: shaoquett.moselmane@parliament.nsw.gov.au
         fax: (02) 9230 2722
@@ -1903,13 +1903,13 @@ people:
   - name: F. J. Nile
     title: Reverend the Hon.
     salutation: Dear Reverend Nile
-    suffix: M.L.C. ED LTh
+    suffix: MLC ED LTh
     roles:
       - Assistant President
       - Member of the Legislative Council
-    party: Christian Democratic Party (Fred Nile Group)
+    party: CDP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: F.Nile@parliament.nsw.gov.au
         fax: (02) 9230 2098
@@ -1918,13 +1918,13 @@ people:
   - name: M.J Pavey
     title: The Hon.
     salutation: Dear Mrs Pavey
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Parliamentary Secretary
       - Member of the Legislative Council
-    party: The Nationals
+    party: NP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: melinda.pavey@parliament.nsw.gov.au
         fax: (02) 9230 2053
@@ -1933,12 +1933,12 @@ people:
   - name: G. S. Pearce
     title: The Hon.
     salutation: Dear Mr Pearce
-    suffix: M.L.C. BA LLB
+    suffix: MLC BA LLB
     roles:
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         fax: (02) 9230 3581
         phone: (02) 9230 2328
@@ -1946,13 +1946,13 @@ people:
   - name: P. R. Phelps
     title: The Hon. Dr
     salutation: Dear Dr Phelps
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Government Whip in the Legislative Council
       - Member of the Legislative Council
-    party: Liberal Party
+    party: LP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: peter.phelps@parliament.nsw.gov.au
         fax: (02) 9230 3568
@@ -1961,12 +1961,12 @@ people:
   - name: P. T. Primrose
     title: The Hon.
     salutation: Dear Mr Primrose
-    suffix: M.L.C. B SocStud(Syd)
+    suffix: MLC B SocStud(Syd)
     roles:
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: peter.primrose@parliament.nsw.gov.au
         fax: (02) 9230 3498
@@ -1975,13 +1975,13 @@ people:
   - name: A. Searle
     title: The Hon.
     salutation: Dear Mr Searle
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Deputy Leader of the Opposition in the Legislative Council
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: adam.searle@parliament.nsw.gov.au
         fax: (02) 9230 2522
@@ -1990,12 +1990,12 @@ people:
   - name: W. Secord
     title: The Hon.
     salutation: Dear Mr Secord
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: walt.secord@parliament.nsw.gov.au
         phone: (02) 9230 2111
@@ -2003,12 +2003,12 @@ people:
   - name: P.G. Sharpe
     title: The Hon.
     salutation: Dear Ms Sharpe
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: Penny.Sharpe@parliament.nsw.gov.au
         fax: (02) 9230 2589
@@ -2017,12 +2017,12 @@ people:
   - name: D. M. Shoebridge
     title: Mr
     salutation: Dear Mr Shoebridge
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: The Greens
+    party: GRN
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: david.shoebridge@parliament.nsw.gov.au
         fax: (02) 9230 2159
@@ -2031,12 +2031,12 @@ people:
   - name: M. Veitch
     title: The Hon.
     salutation: Dear Mr Veitch
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: mick.veitch@parliament.nsw.gov.au
         fax: (02) 9230 2840
@@ -2045,13 +2045,13 @@ people:
   - name: L. Voltz
     title: The Hon.
     salutation: Dear Ms Voltz
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Deputy Opposition Whip in the Legislative Council
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: lynda.voltz@parliament.nsw.gov.au
         fax: (02) 9230 3043
@@ -2060,13 +2060,13 @@ people:
   - name: H. Westwood
     title: The Hon.
     salutation: Dear Ms Westwood
-    suffix: M.L.C. AM
+    suffix: MLC AM
     roles:
       - Temporary Chair of Committees
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: helen.westwood@parliament.nsw.gov.au
         fax: (02) 9230 2094
@@ -2075,12 +2075,12 @@ people:
   - name: S.J.R. Whan
     title: The Hon.
     salutation: Dear Mr Whan
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         email: steve.whan@parliament.nsw.gov.au
         fax: (02) 9230 2425
@@ -2089,11 +2089,11 @@ people:
   - name: E. K. C. Wong
     title: The Hon.
     salutation: Dear Mr Wong
-    suffix: M.L.C.
+    suffix: MLC
     roles:
       - Member of the Legislative Council
-    party: Australian Labor Party
+    party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Parliament House, Macquarie Street, Sydney, NSW 2000
         phone: (02) 9230 2822

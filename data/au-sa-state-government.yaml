@@ -9,7 +9,7 @@ people:
       - Member for Croydon
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: 488 Port Road, WELLAND 5007
         email: croydon@parliament.sa.gov.au
         phone: 08 8346 2462
@@ -23,7 +23,7 @@ people:
       - Member for Florey
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Shop 1, 436 Montague Road, MODBURY NORTH 5092
         postal: PO Box 143, MODBURY NORTH 5092
         email: florey@parliament.sa.gov.au
@@ -35,9 +35,9 @@ people:
     suffix: BA
     roles:
       - Member for Mount Gambier
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 24a Bay Road, MOUNT GAMBIER 5290
         email: mtgambier@parliament.sa.gov.au
         phone: 08 8724 9944
@@ -56,7 +56,7 @@ people:
       - Member for Ramsay
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: 40-42 Commercial Road, SALISBURY 5108
         email: ramsay@parliament.sa.gov.au
         phone: 08 8258 0480
@@ -73,7 +73,7 @@ people:
       - Member for Mawson
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Shop 12 Hackham Plaza, 154 Main South Road, HACKHAM 5163
         postal: PO Box 158, WOODCROFT 5162
         email: mawson@parliament.sa.gov.au
@@ -87,9 +87,9 @@ people:
       - Minister for Regional Development
       - Minister for Local Government
       - Member for Frome
-    party: Independent
+    party: IND
     contact:
-      - office: electorate
+      electorate:
         address: Shop C, Ellen Centre, PORT PIRIE 5540
         postal: PO Box 519, PORT PIRIE 5540
         email: frome@parliament.sa.gov.au
@@ -103,7 +103,7 @@ people:
       - Member for Colton
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: 318 Seaview Road, HENLEY BEACH 5022
         postal: PO Box 9006, Henley Beach South  5022
         email: colton@parliament.sa.gov.au
@@ -116,9 +116,9 @@ people:
     roles:
       - Deputy Leader of the Opposition
       - Member for Bragg
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 357 Greenhill Road, TOORAK GARDENS 5065
         email: bragg@parliament.sa.gov.au
         phone: 08 8332 4799
@@ -134,7 +134,7 @@ people:
       - Member for Port Adelaide
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: 1/111 Lipson Street, PORT ADELAIDE 5015
         email: ptadelaide@parliament.sa.gov.au
         phone: 08 8241 0300
@@ -147,7 +147,7 @@ people:
       - Member for Elder
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: 967 South Road, MELROSE PARK 5039
         email: elder@parliament.sa.gov.au
         phone: 08 8374 1939
@@ -158,9 +158,9 @@ people:
     suffix: BAppSc, JP
     roles:
       - Member for Davenport
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 1/7-9 Young Street, BLACKWOOD 5051
         email: davenport@parliament.sa.gov.au
         phone: 08 8278 5844
@@ -172,9 +172,9 @@ people:
     roles:
       - Opposition Whip
       - Member for Morialta
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 163 St Bernards Road, ROSTREVOR 5073
         email: morialta@parliament.sa.gov.au
         phone: 08 8365 4224
@@ -186,7 +186,7 @@ people:
       - Member for Napier
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Shop 86B, 600 Main North Road, SMITHFIELD  5114
         postal: PO Box 144, SMITHFIELD 5114
         email: napier@parliament.sa.gov.au
@@ -197,9 +197,9 @@ people:
     title: Mr
     roles:
       - Member for Kavel
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 48 Hutchinson Street, Mount Barker SA 5251
         email: kavel@parliament.sa.gov.au
         phone: 08 8391 5599
@@ -210,9 +210,9 @@ people:
     suffix: DipLG Administration, JP
     roles:
       - Member for Goyder
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 51 Robert Street, MAITLAND 5573
         email: goyder@parliament.sa.gov.au
         phone: 08 8832 2455
@@ -226,9 +226,9 @@ people:
       - Minister for Defence Industries
       - Minister for Veterans' Affairs
       - Member for Waite
-    party: Independent
+    party: IND
     contact:
-      - office: electorate
+      electorate:
         address: Shop 2, 212 Belair Road, HAWTHORN 5062
         postal: PO Box 275, TORRENS PARK 5062
         email: waite@parliament.sa.gov.au
@@ -241,7 +241,7 @@ people:
       - Member for Reynell
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: 198 Main South Road, MORPHETT VALE 5162
         email: reynell@parliament.sa.gov.au
         phone: 08 8382 0409
@@ -254,7 +254,7 @@ people:
       - Member for Giles
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Westland Shopping Centre, Nicolson Avenue, WHYALLA NORRIE 5608
         postal: PO Box 2476, WHYALLA NORRIE 5608
         email: giles@parliament.sa.gov.au
@@ -269,7 +269,7 @@ people:
       - Member for Newland
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Office 4, 1257 North East Road, RIDGEHAVEN 5097
         email: newland@parliament.sa.gov.au
         phone: 08 8264 4482
@@ -282,7 +282,7 @@ people:
       - Member for Ashford
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: 407 Marion Road, PLYMPTON 5038
         email: ashford@parliament.sa.gov.au
         phone: 08 8371 5600
@@ -293,9 +293,9 @@ people:
     suffix: BComm
     roles:
       - Member for Schubert
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 129A Murray Street, TANUNDA 5352
         email: schubert@parliament.sa.gov.au
         phone: 08 8563 3636
@@ -312,7 +312,7 @@ people:
       - Member for West Torrens
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: 229 Henley Beach Road, TORRENSVILLE 5031
         email: westtorrens@parliament.sa.gov.au
         phone: 08 8234 0777
@@ -323,9 +323,9 @@ people:
     roles:
       - Leader of the Opposition
       - Member for Dunstan
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: Unit 2 90-94 The Parade, NORWOOD 5067
         email: dunstan@parliament.sa.gov.au
         phone: 08 8363 9111
@@ -336,9 +336,9 @@ people:
     suffix: Dip T, BSc(Vet Biol), BVMS, BSc (Ag Sc)
     roles:
       - Member for Morphett
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 4 Byron Street, GLENELG 5045
         email: morphett@parliament.sa.gov.au
         phone: 08 8294 6711
@@ -354,7 +354,7 @@ people:
       - Member for Lee
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Shop 4/ 173-177 Tapleys Hill Road, SEATON 5023
         postal: PO Box 4100, SEATON 5023
         email: lee@parliament.sa.gov.au
@@ -368,7 +368,7 @@ people:
       - Member for Little Para
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Elizabeth Vale Shopping Centre, John Rice Avenue, ELIZABETH VALE 5112
         postal: PO Box 1046, ELIZABETH VALE 5112
         email: littlepara@parliament.sa.gov.au
@@ -380,9 +380,9 @@ people:
     suffix: JP
     roles:
       - Member for Hammond
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 20 Mannum Road, MURRAY BRIDGE 5253
         email: hammond@parliament.sa.gov.au
         phone: 08 8531 1676
@@ -392,14 +392,14 @@ people:
     title:  Mr
     roles:
       - Member for Finniss
-    party: Liberal
+    party: LP
     contact:
-      - office: Kangaroo Island
+      electorate:
         address: 44 Dauncey Street Kingscote
         email: finniss.ki@parliament.sa.gov.au
         phone: 08 8553 2974
         fax: 08 8553 0398
-      - office: Victor Harbour
+      alternate:
         address: 71 Victoria Street, VICTOR HARBOR 5211
         email: finniss@parliament.sa.gov.au
         phone: 08 8552 2152
@@ -417,7 +417,7 @@ people:
       - Member for Light
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: 148 Murray Street, GAWLER 5118
         email: light@parliament.sa.gov.au
         phone: 08 8522 2878
@@ -429,7 +429,7 @@ people:
       - Member for Kaurna
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: 99 Dyson Road, CHRISTIES BEACH 5165
         email: kaurna@parliament.sa.gov.au
         phone: 08 8326 6055
@@ -439,9 +439,9 @@ people:
     title:  Mr
     roles:
       - Member for Unley
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 372 Unley Road, UNLEY PARK 5061
         email: unley@parliament.sa.gov.au
         phone: 08 8373 4846
@@ -454,7 +454,7 @@ people:
       - Member for Wright
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Suite 1, Village Shopping Centre, Corner The Golden Way &amp; The Grove Way, GOLDEN GROVE 5125
         postal: PO Box 1111, GOLDEN GROVE VILLAGE 5125
         email: wright@parliament.sa.gov.au
@@ -474,7 +474,7 @@ people:
       - Member for Enfield
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Shop 6, 430 Prospect Road, KILBURN 5084
         postal: PO Box 286, KILBURN  5084
         email: enfield@parliament.sa.gov.au
@@ -486,9 +486,9 @@ people:
     suffix: LLB
     roles:
       - Member for Heysen
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 14 Druids Avenue, STIRLING 5152
         email: heysen@parliament.sa.gov.au
         phone: 08 8339 5077
@@ -499,9 +499,9 @@ people:
     suffix: BA ACC
     roles:
       - Member for Adelaide
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 84 Prospect Road, PROSPECT 5082
         email: adelaide@parliament.sa.gov.au
         phone: 08 8269 1838
@@ -518,7 +518,7 @@ people:
       - Member for Playford
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Unit 1/3 Wilkinson Road, Para Hills SA, 5096
         email: playford@parliament.sa.gov.au
         phone: 08 8263 3777
@@ -529,9 +529,9 @@ people:
     suffix: LLB (Hons.)
     roles:
       - Member for Bright
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 7 Sturt Road, BRIGHTON 5048
         postal: PO Box 121 BRIGHTON SA  5048
         email: bright@parliament.sa.gov.au
@@ -543,9 +543,9 @@ people:
     suffix: B.A. (Hons.), Dip.T., Dip.Ed., Ph.D. JP
     roles:
       - Member for Fisher
-    party: Independent
+    party: IND
     contact:
-      - office: electorate
+      electorate:
         address: Shop 11 Aberfoyle Hub Shopping Centre, ABERFOYLE PARK 5159
         email: fisher@parliament.sa.gov.au
         phone: 08 8270 5122
@@ -555,9 +555,9 @@ people:
     title:  Mr
     roles:
       - Member for Hartley
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 25A Montacute Road, CAMPBELLTOWN  5074
         postal: PO Box 2151, FELIXSTOW  5070
         email: hartley@parliament.sa.gov.au
@@ -568,15 +568,15 @@ people:
     title:  Mr
     roles:
       - Member for Flinders
-    party: Liberal
+    party: LP
     contact:
-      - office: Port Lincoln
+      electorate:
         address: Shop 16, Civic Centre, Tasman Terrace, PORT LINCOLN 5606
         postal: PO Box 1798, PORT LINCOLN 5606
         email: flinders.portlincoln@parliament.sa.gov.au
         phone: 08 8683 0722
         fax: 08 8682 5912
-      - office: Ceduna
+      alternate:
         phone: 08 8625 2392
 
   - name: Daniel Cornelis 'Dan' VAN HOLST PELLEKAAN
@@ -584,14 +584,14 @@ people:
     suffix: BEc
     roles:
       - Member for Stuart
-    party: Liberal
+    party: LP
     contact:
-      - office: Kapunda
+      electorate:
         address: 44 Main Street, KAPUNDA 5373
         email: stuart.kapunda@parliament.sa.gov.au
         phone: 08 8566 2099
         fax: 08 8566 2077
-      - office: Port Augusta
+      alternate:
         address: Shop 2, 5 Young Street, PORT AUGUSTA 5700
         email: mailto:stuart.portaugusta@parliament.sa.gov.au
         phone: 08 8642 3633
@@ -604,7 +604,7 @@ people:
       - Member for Taylor
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Paralowie Shopping Centre, Units 1 &amp; 2, 9 Liberator Drive, PARALOWIE 5108
         email: taylor@parliament.sa.gov.au
         phone: 08 8280 5144
@@ -618,7 +618,7 @@ people:
       - Member for Cheltenham
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Unit 4, 95 Findon Road Woodville South SA 5011
         postal: PO Box 102, WOODVILLE 5011
         email: cheltenham@parliament.sa.gov.au
@@ -629,9 +629,9 @@ people:
     title:  Mr
     roles:
       - Member for Chaffey
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 13 Kay Avenue, BERRI 5343
         postal: PO Box 959, BERRI SA 5343
         email: chaffey@parliament.sa.gov.au
@@ -642,9 +642,9 @@ people:
     title:  Mr
     roles:
       - Member for MacKillop
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: 30 Ormerod Street, NARACOORTE 5271
         email: mackillop@parliament.sa.gov.au
         phone: 08 8762 1211
@@ -654,9 +654,9 @@ people:
     title:  Mr
     roles:
       - Member for Mitchell
-    party: Liberal
+    party: LP
     contact:
-      - office: electorate
+      electorate:
         address: L2/1 Milham Street, OAKLANDS PARK  SA  5046
         postal: PO Box 650, OAKLANDS PARK SA 5046
         email: Wingard.mitchell@parliament.sa.gov.au
@@ -669,7 +669,7 @@ people:
       - Member for Torrens
     party: ALP
     contact:
-      - office: electorate
+      electorate:
         address: Shop 8, 511-529 North East Road, GILLES PLAINS 5086
         email: torrens@parliament.sa.gov.au
         phone: 08 8369 2323
@@ -677,202 +677,202 @@ people:
 
   - name: Robert Brokenshire
     title: The Honourable
-    party: Family First Party
+    party: FFP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: John Darley
     title: The Honourable
-    party: Independent
+    party: IND
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: John Dawkins
     title: The Honourable
-    party: Liberal Party
+    party: LP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Bernard Finnigan
     title: The Honourable
-    party: Independent
+    party: IND
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Tammy Franks
     title: The Honourable
-    party: The Greens
+    party: GRN
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Gail Gago
     title: The Honourable
-    party: Australian Labor Party
+    party: ALP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: John Gazzola
     title: The Honourable
-    party: Australian Labor Party
+    party: ALP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Dennis Hood
     title: The Honourable
-    party: Family First Party
+    party: FFP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Ian Hunter
     title: The Honourable
-    party: Australian Labor Party
+    party: ALP
     roles:
       - Minister for Sustainability, Environment and Conservation
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
-      - office: Ministerial
+      ministerial:
         postal: GPO Box 1047 ADELAIDE SA 5001
 
   - name: Gerry Kandelaars
     title: The Honourable
-    party: Australian Labor Party
+    party: ALP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Jing Lee
     title: The Honourable
-    party: Liberal Party
+    party: LP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Michelle Lensink
     title: The Honourable
-    party: Liberal Party
+    party: LP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Rob Lucas
     title: The Honourable
-    party: Liberal Party
+    party: LP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Kyam Maher
     title: The Honourable
-    party: Australian Labor Party
+    party: ALP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Andrew McLachlan
     title: The Honourable
     suffix: CSC
-    party: Liberal Party
+    party: LP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Tung Ngo
     title: The Honourable
-    party: Australian Labor Party
+    party: ALP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Mark Parnell
     title: The Honourable
-    party: The Greens
+    party: GRN
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: David Ridgway
     title: The Honourable
-    party: Liberal Party
+    party: LP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Terry Stephens
     title: The Honourable
-    party: Liberal Party
+    party: LP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Kelly Vincent
     title: The Honourable
-    party: Dignity for Disability
+    party: DFD
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000
 
   - name: Stephen Wade
     title: The Honourable
-    party: Liberal Party
+    party: LP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA	5000
 
   - name: Russell Wortley
     title: The Honourable
-    party: Australian Labor Party
+    party: ALP
     roles:
       - Member of the Legislative Council
     contact:
-      - office: Parliament
+      parliament:
         postal: Parliament House ADELAIDE SA 5000

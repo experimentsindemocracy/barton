@@ -10,7 +10,7 @@ people:
       - Member for Broadwater
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 102 Imperial Parade, (Cnr Government Rd and Imperial Pde), Labrador Qld  4215
         postal: PO Box 644, Labrador Qld 4215
         email: broadwater@parliament.qld.gov.au
@@ -24,7 +24,7 @@ people:
       - Member for Mudgeeraba
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Mudgeeraba Professional Centre, Swan Lane, Mudgeeraba Qld  4213
         postal: PO Box 897, Mudgeeraba Qld 4213
         email: mudgeeraba@parliament.qld.gov.au
@@ -37,7 +37,7 @@ people:
       - Member for Burnett
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 7, Bargara Beach Plaza, 15-19 See Street, Bargara Qld  4670
         postal: PO Box 8371, Bargara Qld 4670
         email: burnett@parliament.qld.gov.au
@@ -50,7 +50,7 @@ people:
       - Member for Ipswich
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 125 Brisbane Road, Booval Qld  4304
         postal: PO Box 52, Booval Qld 4304
         email: ipswich@parliament.qld.gov.au
@@ -66,15 +66,15 @@ people:
       - Member for Kawana
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 18, State Law Building, 50 Ann Street, Brisbane Qld 4001
         postal: GPO Box 149, Brisbane Qld 4001
         email: attorney@ministerial.qld.gov.au
         phone: 07 3719 7400
         fax: 07 3220 6227
-      - office: electorate
+      electorate:
         address: Sunshine Central, 4/3 Nicklin Way, Minyama Qld  4575
         postal: PO Box 1200, Buddina Qld 4575
         email: kawana@parliament.qld.gov.au
@@ -87,7 +87,7 @@ people:
       - Member for Albert
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 2 Rochester Drive, Mt Warren Park Qld  4207
         postal: PO Box 1255, Beenleigh Qld 4207
         email: albert@parliament.qld.gov.au
@@ -102,7 +102,7 @@ people:
       - Member for Rockhampton
     party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 3, 7 Denham Street, Rockhampton Qld  4700
         postal: PO Box 729, Rockhampton Qld 4700
         email: rockhampton@parliament.qld.gov.au
@@ -116,7 +116,7 @@ people:
       - Member for Brisbane Central
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit 2, Hill House, 541 Boundary Street (cnr Bradley Street), Spring Hill Qld  4000
         email: brisbane.central@parliament.qld.gov.au
         phone: 07 3832 1322
@@ -128,7 +128,7 @@ people:
       - Member for Ipswich West
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 1, Brassall Shopping Centre, 68 Hunter  Street, Brassall QLD 4305
         postal: PO Box 5273, Brassall Qld 4305
         email: ipswich.west@parliament.qld.gov.au
@@ -142,7 +142,7 @@ people:
       - Member for Whitsunday
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 2, Federation House, 20 Chapman Street, Proserpine Qld 4800
         postal: PO Box 251, Proserpine Qld 4800
         email: whitsunday@parliament.qld.gov.au
@@ -156,7 +156,7 @@ people:
       - Member for Thuringowa
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit 8B, 48 Thuringowa Drive, Kirwan Qld  4817
         postal: PO Box 94, Thuringowa Qld 4817
         Email: thuringowa@parliament.qld.gov.au
@@ -170,7 +170,7 @@ people:
       - Member for Coomera
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 20, Hope Island Central, 340 Hope Island Road, Hope Island Qld  4212
         postal: PO Box 80, Oxenford Qld 4210
         email: coomera@parliament.qld.gov.au
@@ -187,13 +187,13 @@ people:
       - Member for Hinchinbrook
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Hinchinbrook Central, 86-92 Herbert Street, Ingham Qld  4850
         postal: PO Box 1515, Ingham Qld 4850
         email: hinchinbrook@parliament.qld.gov.au
         phone: 07 4776 1428
         fax: 07 4776 3503
-      - office: Ministerial
+      ministerial:
         address: Level 17, QMEC Building, 61 Mary Street, Brisbane Qld 4000
         postal: PO Box 15216, City East Qld 4002
         email: nrm@ministerial.qld.gov.au
@@ -209,12 +209,12 @@ people:
       - Member for Mundingburra
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 3, 198 Nathan Street, Aitkenvale Qld  4814
         email: mundingburra@parliament.qld.gov.au
         phone: 07 4725 4166
         fax: 07 4725 4194
-      - office: Ministerial
+      ministerial:
         address: Level 18, Mineral House, 41 George Street, Brisbane Qld 4000
         postal: PO Box 15031, City East Qld 4002
         email: localgovernment@ministerial.qld.gov.au
@@ -228,7 +228,7 @@ people:
       - Member for Gladstone
     party: IND
     contact:
-      - office: Electorate
+      electorate:
         address: 2/191 Philip Street, Gladstone Qld 4680
         postal: PO Box 1592, Gladstone Qld 4680
         email: gladstone@parliament.qld.gov.au
@@ -244,7 +244,7 @@ people:
       - Member for Redcliffe
     party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 35, Level 1, Bluewater Square Shopping Centre, Cnr Anzac Ave and Sutton Street, Redcliffe Qld 4020
         postal: PO Box 936, Redcliffe Qld 4020
         email: redcliffe@parliament.qld.gov.au
@@ -258,7 +258,7 @@ people:
       - Member for Capalaba
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 60 Capalaba Park, Mt Cotton Road, Capalaba Qld 4157
         postal: PO Box 523, Capalaba DC Qld 4157
         email: capalaba@parliament.qld.gov.au
@@ -276,12 +276,12 @@ people:
       - Member for Aspley
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 2, 1315 Gympie Road, Aspley Qld  4034
         email: aspley@parliament.qld.gov.au
         phone: 07 3719 7500
         fax: 07 3220 6235
-      - office: Ministerial
+      ministerial:
         address: Level 13, 111 George Street, Brisbane Qld 4000
         postal: GPO Box 806, Brisbane Qld 4001
         email: ccsds@ministerial.qld.gov.au
@@ -297,13 +297,13 @@ people:
       - Member for Bundaberg
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: WIN Tower, Cnr Quay & Barolin Streets, Bundaberg  Qld 4670
         postal: PO Box 935, Bundaberg Qld 4670
         email: bundaberg@parliament.qld.gov.au
         phone: 07 4152 1476
         fax: 07 4152 8726
-      - office: Ministerial
+      ministerial:
         address: Level 24, State Law Building, 50 Ann Street, Brisbane Qld 4000
         postal: PO Box 15195, City East Qld 4002
         email: police@ministerial.qld.gov.au
@@ -320,13 +320,13 @@ people:
       - Member for Buderim
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit 4, 102 Burnett Street, Buderim Qld  4556
         postal: PO Box 187, Buderim Qld 4556
         email: buderim@parliament.qld.gov.au
         phone: 07 5450 1115
         fax: 07 5453 7802
-      - office: Ministerial
+      ministerial:
         address: Level 7 111 George Street, Brisbane Qld 4000
         postal: PO Box 15187, City East Qld 4002
         email: nprsr@ministerial.qld.gov.au
@@ -339,7 +339,7 @@ people:
       - Member for Bulimba
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Tenancy 2, 630 Wynnum Road, Morningside 4170
         postal: PO Box 107, Morningside Qld 4170
         email: bulimba@parliament.qld.gov.au
@@ -354,7 +354,7 @@ people:
       - Member for Gaven
     party: PUP
     contact:
-      - office: Electorate
+      electorate:
         address: Units 4 & 5, 12 Ferry Street, Nerang Qld 4211
         postal: PO Box 1140, Nerang Qld 4211
         email: gaven@parliament.qld.gov.au
@@ -368,7 +368,7 @@ people:
       - Member for Redlands
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Tenancy H20, Victoria Point Lakeside,  11-27 Bunker Road, Victoria Point Qld 4165
         postal: PO Box 3667, Victoria Point West Qld 4165
         email: redlands@parliament.qld.gov.au
@@ -385,14 +385,14 @@ people:
       - Member for Noosa
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite CB05, Noosa Civic, 28 Eenie Creek Road, Noosaville Qld 4566
         postal: PO Box 1849, Noosaville DC Qld 4566
         email: noosa@parliament.qld.gov.au
         phone: 07 5449 8988
         fax: 07 5449 9719
         tollfree: 1800 818 396
-      - office: Ministerial
+      ministerial:
         address: Level 6B, Neville Bonner Building, 75 William Street, Brisbane Qld 4000
         postal: PO Box 15397, City East Qld 4002
         email: ATSI@ministerial.qld.gov.au
@@ -408,12 +408,12 @@ people:
       - Member for Indooroopilly
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 1, 49 Station Road, Indooroopilly Qld  4068
         email: indooroopilly@parliament.qld.gov.au
         phone: 07 3878 1928
         fax: 07 3378 7072
-      - office: Ministerial
+      ministerial:
         address: Level 15, Capital Hill, 85 George Street Brisbane Qld 4000
         postal: GPO Box 2644, Brisbane Qld 4001
         email: TMR@ministerial.qld.gov.au
@@ -427,7 +427,7 @@ people:
       - Member for Moggill
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suites 16&17, Level 1, Kenmore Village, 9  BrookfieldRoad, Kenmore Qld 4069
         postal: PO Box 328, Kenmore Qld 4069
         email: moggill@parliament.qld.gov.au
@@ -442,7 +442,7 @@ people:
       - Member for Pumicestone
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 1/43 Benabrow Avenue, Bellara Qld  4507
         email: pumicestone@parliament.qld.gov.au
         phone: 07 3408 6436
@@ -456,7 +456,7 @@ people:
       - Member for Nanango
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 2/34A Alford Street, Kingaroy Qld  4610
         postal: PO Box 1158, Kingaroy Qld 4610
         email: nanango@parliament.qld.gov.au
@@ -470,7 +470,7 @@ people:
       - Member for Gympie
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 58 Channon Street, Gympie Qld  4570
         postal: PO Box 1277, Gympie Qld 4570
         email: gympie@parliament.qld.gov.au
@@ -484,7 +484,7 @@ people:
       - Member for Springwood
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shops  4-6, Springwood Road Business Centre, 71-73 Springwood Road, Springwood Qld 4127
         postal: PO Box 1940, Springwood Qld 4127
         email: springwood@parliament.qld.gov.au
@@ -497,7 +497,7 @@ people:
       - Member for Morayfield
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit 3,  67 Morayfield Road, Caboolture South Q 4510
         postal: PO Box 202, Morayfield Qld 4506
         email: morayfield@parliament.qld.gov.au
@@ -510,7 +510,7 @@ people:
       - Member for Murrumba
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop T1.18, The Zone Shopping Centre, 743 Deception Bay Road, Rothwell Qld 4022
         postal: PO Box 76, Deception Bay Qld 4508
         email: murrumba@parliament.qld.gov.au
@@ -523,7 +523,7 @@ people:
       - Member for Burleigh
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 1 Paradise Avenue, Miami Qld  4220
         postal: PO Box 2093, Burleigh BC Qld 4220
         email: burleigh@parliament.qld.gov.au
@@ -537,7 +537,7 @@ people:
       - Member for Townsville
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Ground Floor, 31 Sturt Street, Townsville Qld  4810
         email: townsville@parliament.qld.gov.au
         postal: PO Box 1101, Townsville Qld 4810)
@@ -551,14 +551,14 @@ people:
       - Member for Warrego
     party: LNP
     contact:
-      - office: Roma Electorate
+      electorate:
         address: 74 Wyndham Street (Cnr Wyndham and Bowen Streets), Roma Qld 4455
         postal: PO Box 945, Roma Qld 4455
         email: warrego@parliament.qld.gov.au
         phone: 07 4622 8888
         fax: 07 4622 8777
         tollfree: 1800 814 479
-      - office: St George Electorate
+      alternate:
         address: 19B Henry Street, St George Qld 4487
         postal: PO Box 503, St George Qld 4487
         email: warrego.st.george@parliament.qld.gov.au
@@ -573,7 +573,7 @@ people:
       - Member for Pine Rivers
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 5A, 199 Gympie Road,  Strathpine Qld 4500
         postal: PO Box 109, Strathpine Centre Qld 4500
         email: pine.rivers@parliament.qld.gov.au
@@ -588,7 +588,7 @@ people:
       - Member for Condamine
     party: KAP
     contact:
-      - office: Electorate
+      electorate:
         address: 14A Cunningham Street, Dalby Qld 4405
         email: condamine@parliament.qld.gov.au
         phone: 07 4662 2527
@@ -602,14 +602,14 @@ people:
       - Member for Gregory
     party: LNP
     contact:
-      - office: Longreach Electorate
+      electorate:
         address: Shop 2, Studio Exclusive Arcade, 120A Eagle Street, Longreach Qld 4730
         postal: PO Box 180, Longreach Q 4730
         email: gregory@parliament.qld.gov.au
         phone: 07 4658 1227
         fax: 07 4658 1949
         tollfree: 800 818 754
-      - office: Emerald Electorate
+      alternate:
         address: 93 Clermont Street, Emerald Qld 4720
         postal: PO Box 444, Emerald Qld 4720
         email: gregory.emerald@parliament.qld.gov.au
@@ -623,7 +623,7 @@ people:
       - Member for Yeerongpilly
     party: PUP
     contact:
-      - office: Electorate
+      electorate:
         address: 3/116 Beaudesert Road, Moorooka Qld 4105
         postal: PO Box 412, Moorooka Qld 4105
         email: yeerongpilly@parliament.qld.gov.au
@@ -637,14 +637,14 @@ people:
       - Member for Mount Isa
     party: KAP
     contact:
-      - office: Mount Isa Electorate
+      electorate:
         address: Mt Isa Trades & Labour Council Bldg, 74 Camooweal Street, Mt Isa Qld 4825
         postal: PO Box 1968, Mount Isa Qld 4825
         email: mount.isa@parliament.qld.gov.au
         phone: 07 4743 5149
         fax: 07 4743 3386
         tollfree: 1800 818 824
-      - office: Cloncurry
+      alternate:
         address: 27 Ramsay Street, Cloncurry Qld 4824
         email: mount.isa.cloncurry@parliament.qld.gov.au
         phone: 07 4742 2530
@@ -658,7 +658,7 @@ people:
       - Member for Greenslopes
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 3, Coorparoo Village Shopping Centre, 358  Old Cleveland Road, Coorparoo Qld 4151
         email: greenslopes@parliament.qld.gov.au
         phone: 07 3394 3956
@@ -671,14 +671,14 @@ people:
       - Member for Cook
     party: LNP
     contact:
-      - office: Cook Electorate  Office
+      electorate:
         address: Shop 11, Post Office Centre, 94 Byrnes Street, Mareeba Qld 4880
         postal: PO Box 2251 Mareeba Qld 4880
         email: cook@parliament.qld.gov.au
         phone: 07 4092 7608
         fax: 07 4092 7653
         tollfree: 1800 816 264
-      - office: Thursday Island Office
+      alternate:
         address: Commonwealth Centre, Hastings Street, Thursday Island Qld 4875
         postal: PO Box 545, Thursday Island Qld 4875
         email: cook.thursday.is@parliament.qld.gov.au
@@ -693,7 +693,7 @@ people:
       - Member for Cairns
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Office 1 “McLeod South”,  78 - 84 Spence Street, Cairns Qld 4870
         postal: PO Box 5697, Cairns Qld 4870
         email: cairns@parliament.qld.gov.au
@@ -707,14 +707,14 @@ people:
       - Member for Dalrymple
     party: KAP
     contact:
-      - office: Atherton Electorate Office
+      electorate:
         address: Silo Shopping Centre, Silo Road, Atherton Qld 4883
         postal: PO Box 1667, Atherton Qld 4883
         email: dalrymple@parliament.qld.gov.au
         phone: 07 4091 5861
         fax: 07 4091 4675
         tollfree: 1800 245 247
-      - office: Charters Towers Electorate Office
+      alternate:
         address: Stock Exchange Arcade, 2/76 Mosman Street, Charters Towers Qld 4820
         email: dalrymple.charters@parliament.qld.gov.au
         phone: 07 4787 2139
@@ -727,7 +727,7 @@ people:
       - Member for Beaudesert
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 91 Brisbane Street, Beaudesert Qld  4285
         postal: PO Box 656, Beaudesert Qld 4285
         email: beaudesert@parliament.qld.gov.au
@@ -744,13 +744,13 @@ people:
       - Member for Surfers Paradise
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 1, Level 1, Building 1, Capri on Via Roma, Isle of Capri Qld 4217
         postal: PO Box 80, Isle of Capri Qld 4217
         email: surfers.paradise@parliament.qld.gov.au
         phone: 07 5538 9833
         fax: 07 5538 5560
-      - office: Ministerial
+      ministerial:
         address: Level 22, Education House, 30 Mary Street, Brisbane Qld 4000
         postal: PO Box 15033, City East Qld 4002
         email: education@ministerial.qld.gov.au
@@ -763,7 +763,7 @@ people:
       - Member for Waterford
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shops 13/14 Waterford Shopping Centre, 22  Loganlea Road, Waterford West Qld 4133
         postal: PO Box 112, Waterford Qld 4133
         email: waterford@parliament.qld.gov.au
@@ -776,7 +776,7 @@ people:
       - Member for Maryborough
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 1, Comet Place, 133 Lennox  Street, Maryborough Qld 4650
         postal: PO Box 51, Maryborough Qld 4650
         email: maryborough@parliament.qld.gov.au
@@ -791,7 +791,7 @@ people:
       - Member for Mirani
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: The Sarina  Centre, Central Street, Sarina Qld 4737
         postal: PO Box 56, Sarina Q 4737
         email: mirani@parliament.qld.gov.au
@@ -808,13 +808,13 @@ people:
       - Member for Everton
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 1st Floor,  510 - 520 South Pine Road, Everton Park Q 4053
         postal: PO Box 656, Everton Park Qld 4053
         email: everton@parliament.qld.gov.au
         phone: 07 3855 1133
         fax: 07 3855 1280
-      - office: Ministerial
+      ministerial:
         address: Level 7, 80 George Street, Brisbane Qld 4000
         postal: GPO Box 2457, Brisbane Qld 4001
         email: HousingandPublicworks@ministerial.qld.gov.au
@@ -831,13 +831,13 @@ people:
       - Member for Caloundra
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 1, Pia Place, 118 Bulcock Street, Caloundra Qld  4551
         postal: PO Box 3998, Caloundra DC Qld 4551
         email: caloundra@parliament.qld.gov.au
         phone: 07 5491 2780
         fax: 07 5491 1801
-      - office: Ministerial
+      ministerial:
         address: Level 13, Mineral House, 41 George Street, Brisbane Qld 4000
         postal: PO Box 15456, City East Qld 4002
         email: EnergyandWater@ministerial.qld.gov.au
@@ -854,13 +854,13 @@ people:
       - Member for Toowoomba South
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 2,  Commercial Union Arcade, 566 Ruthven Street, Toowoomba Qld 4350
         postal: PO Box 3005, Toowoomba Qld 4350
         email: toowoomba.south@parliament.qld.gov.au
         phone: 07 4639 1199
         fax: 07 4639 1045
-      - office: Ministerial
+      ministerial:
         address: Level 8, Primary Industries Building, 80 Ann Street, Brisbane Qld 4000
         postal: GPO Box 46, Brisbane Qld 4001
         email: daff@ministerial.qld.gov.au
@@ -875,7 +875,7 @@ people:
       - Member for Burdekin
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 30, Centrepoint Arcade, Queen  Street, Ayr Qld 4807
         email: burdekin@parliament.qld.gov.au
         phone: 07 4783 2017
@@ -889,7 +889,7 @@ people:
       - Member for Sandgate
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 2, Fifth Avenue, Sandgate Qld  4017
         postal: PO Box 496, Sandgate Qld 4017
         email: sandgate@parliament.qld.gov.au
@@ -904,7 +904,7 @@ people:
       - Member for Bundamba
     party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 39, St Ives Shopping  Centre, 2 Smiths Road, Goodna Qld 4300
         postal: PO Box 122, Goodna Qld 4300
         email: bundamba@parliament.qld.gov.au
@@ -919,7 +919,7 @@ people:
       - Member for Chatsworth
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit 1, Millennium Business Centre, Millennium  Bvd, Carindale Qld 4152
         postal: PO Box 1565, Carindale Qld 4152
         email: chatsworth@parliament.qld.gov.au
@@ -934,7 +934,7 @@ people:
       - Member for Southport
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 2, 24 Musgrave Avenue, Chirn Park Qld  4215
         postal: PO Box 903, Southport Qld 4215
         email: southport@parliament.qld.gov.au
@@ -951,7 +951,7 @@ people:
       - Member for Mackay
     party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: 1st Floor, Mackay Day & Night Pharmacy Building, 67 - 69 Sydney Street, Mackay Qld 4740
         postal: PO Box 1238, Mackay Qld 4740
         email: mackay@parliament.qld.gov.au
@@ -967,13 +967,13 @@ people:
       - Member for Ashgrove
     party: LNP
     contact:
-      - office: Ministerial
+      ministerial:
         address: Level 15, Executive Building, 100 George Street, Brisbane Qld 4000
         postal: PO Box 15185, City East Qld 4002
         email: thepremier@premiers.qld.gov.au Shop 2, 230 Waterworks Road, Ashgrove Qld 4060
         phone: 07 3719 7000
         fax: 07 3220 6222
-      - office: Electorate
+      electorate:
         postal: PO Box 3010, Ashgrove East Qld 4060
         email: ashgrove@parliament.qld.gov.au
         phone: 07 3366 6000
@@ -988,13 +988,13 @@ people:
       - Member for Clayfield
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 1, 729 Sandgate Road, Clayfield Qld  4011
         postal: PO Box 281, Clayfield Qld 4011
         email: clayfield@parliament.qld.gov.au
         phone: 07 3262 8819
         fax: 07 3262 3613
-      - office: Ministerial
+      ministerial:
         address: Level 9, Executive Building, 100 George Street, Brisbane Qld 4000
         postal: GPO Box 611, Brisbane Qld 4001
         email: Treasurer@ministerial.qld.gov.au
@@ -1008,7 +1008,7 @@ people:
       - Member for Stretton
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit 5, 62 Pinelands  Road, Sunnybank Hills Qld 4109
         email: stretton@parliament.qld.gov.au
         phone: 07 3344 2659
@@ -1024,7 +1024,7 @@ people:
       - Member for Inala
     party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 101 Business Centre, Richlands Plaza, Cnr  Archerfield and Old Progress Roads, Richlands Qld 4077
         postal: PO Box 75, Inala Qld 4077
         email: inala@parliament.qld.gov.au
@@ -1039,7 +1039,7 @@ people:
       - Member for Mulgrave
     party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: 94 - 96 Norman Street, Gordonvale Qld 4865
         postal: PO Box 314, Gordonvale Qld 4865
         email: mulgrave@parliament.qld.gov.au
@@ -1056,14 +1056,14 @@ people:
       - Member for Glass House
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 4, 70 Maple Street, Maleny Qld  4552
         postal: PO Box 727, Maleny Qld 4552
         email: glass.house@parliament.qld.gov.au
         phone: 07 5435 2013
         fax: 07 5435 2165
         tollfree: 1800 555 016
-      - office: Ministerial
+      ministerial:
         address: Level 13, 400 George Street, Brisbane Qld 4000
         postal: GPO Box 2454, Brisbane Qld 4001
         email: environment@ministerial.qld.gov.au
@@ -1076,7 +1076,7 @@ people:
       - Member for Logan
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Maxima House, 1/3 Helen Street, Hillcrest Qld  4118
         postal: PO Box 513, Browns Plains Qld 4118
         email: logan@parliament.qld.gov.au
@@ -1091,7 +1091,7 @@ people:
       - Member for Mount Coot-tha
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Tenancy  G-3, 524 Milton Road, Toowong Qld 4066
         postal: PO Box 1626, Milton Qld 4064
         email: mount.coot-tha@parliament.qld.gov.au
@@ -1104,7 +1104,7 @@ people:
       - Member for Lockyer
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 1, 47 North Street, Gatton Qld  4343
         email: lockyer@parliament.qld.gov.au
         phone: 07 5462 2772
@@ -1119,7 +1119,7 @@ people:
       - Member for Cleveland
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: “Kramer Place”, 19 Waterloo Street, Cleveland Qld  4163
         postal: PO Box 1399, Cleveland Qld 4163
         email: cleveland@parliament.qld.gov.au
@@ -1132,7 +1132,7 @@ people:
       - Member for Kallangur
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 1, Aldi Centre, 15 Goodfellows Road, Kallangur  Qld 4503
         postal: PO Box 700, Kallangur Qld 4503
         email: kallangur@parliament.qld.gov.au
@@ -1147,7 +1147,7 @@ people:
       - Member for Woodridge
     party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit 1, 80 Wembley Road, Woodridge Qld 4114
         postal: PO Box 2486, Logan City DC Qld 4114
         email: woodridge@parliament.qld.gov.au
@@ -1164,14 +1164,14 @@ people:
       - Member for Callide
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 64 Callide Street, Biloela Qld  4715
         postal: PO Box 559, Biloela Qld 4715
         email: callide@parliament.qld.gov.au
         phone: 07 4992 2475
         fax: 07 4992 3189
         tollfree: 1800 812 119
-      - office: Ministerial
+      ministerial:
         address: Level 12, Executive Building, 100 George Street, Brisbane Qld 4000
         postal: PO Box 15009, City East Qld 4002
         email: DeputyPremier@ministerial.qld.gov.au
@@ -1184,7 +1184,7 @@ people:
       - Member for Algester
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shops 3 & 4, 137 Parkwood Drive, Heathwood Qld  4110
         postal: PO Box 854, Archerfield Qld 4108
         email: algester@parliament.qld.gov.au
@@ -1197,7 +1197,7 @@ people:
       - Member for Ferny Grove
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 14, Ferny Grove Shopping Village, 51 McGinn  Road, Ferny Grove Qld 4055
         postal: PO Box 316, Ferny Hills DC Qld 4055
         email: ferny.grove@parliament.qld.gov.au
@@ -1214,7 +1214,7 @@ people:
       - Memnber for Maroochydore
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 1, Cnr First &  Memorial Avenues, Maroochydore Qld 4558
         email: maroochydore@parliament.qld.gov.au
         phone: 07 5443 7995
@@ -1228,7 +1228,7 @@ people:
       - Member for Mount Ommaney
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit 6A, Level 1, Mount Ommaney Centre, 171 Dandenong Road, Mount Ommaney Qld 4074
         postal: PO Box 1153, Mount Ommaney Qld 4074
         email: mount.ommaney@parliament.qld.gov.au
@@ -1242,7 +1242,7 @@ people:
       - Member for Hervey Bay
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 3, “Baiavista” 357 Esplanade, Scarness Qld  4655
         postal: PO Box 5049, Torquay Qld 4655
         email: hervey.bay@parliament.qld.gov.au
@@ -1259,14 +1259,14 @@ people:
       - Member for Southern Downs
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 9 Victoria Street, Stanthorpe Qld  4380
         postal: PO Box 444, Stanthorpe Qld 4380
         email: southern.downs@parliament.qld.gov.au
         phone: 07 4681 2160
         fax: 07 4681 2949
         tollfree: 1800 811 827
-      - office: Ministerial
+      ministerial:
         address: Level 19, 147-163 Charlotte Street, Brisbane Qld 4000
         postal: GPO Box 48, Brisbane Qld 4001
         email: Health@ministerial.qld.gov.au
@@ -1280,7 +1280,7 @@ people:
       - Member for Mermaid Beach
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 2434 Gold Coast Highway, Mermaid Beach Qld 4218
         postal: PO Box 435, Mermaid Beach Qld 4218
         email: mermaid.beach@parliament.qld.gov.au
@@ -1293,7 +1293,7 @@ people:
       - Member for Sunnybank
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 4, 309 Mains Road, Sunnybank Qld  4109
         email: sunnybank@parliament.qld.gov.au
         phone: 07 3219 6974
@@ -1309,13 +1309,13 @@ people:
       - Member for Currumbin
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 1, Samuel Plaza 1045 Gold Coast Highway, Palm Beach Qld 4221
         postal: PO Box 751, Currumbin Qld 4223
         email: currumbin@parliament.qld.gov.au
         phone: 07 5598 1387
         fax: 07 5598 1861
-      - office: Ministerial
+      ministerial:
         address: Level 26, 111 George Street, Brisbane Qld 4000
         postal: GPO Box 1141, Brisbane Qld 4001
         email: Tourism@ministerial.qld.gov.au
@@ -1328,7 +1328,7 @@ people:
       - Member for Lytton
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 100 Edith Street, Wynnum Qld  4178
         postal: PO Box 227, Wynnum Qld 4178
         email: lytton@parliament.qld.gov.au
@@ -1343,7 +1343,7 @@ people:
       - Member for South Brisbane
     party: ALP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 1/90 Vulture Street, West End Qld  4101
         postal: PO Box 5326, West End Qld 4101
         email: south.brisbane@parliament.qld.gov.au
@@ -1356,7 +1356,7 @@ people:
       - Member for Barron River
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit 7, Stanton Place, Captain Cook Highway, Smithfield Qld 4878
         postal: PO Box 1014, Smithfield Qld 4878
         email: barron.river@parliament.qld.gov.au
@@ -1370,7 +1370,7 @@ people:
       - Member for Stafford
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Unit  207, 6 Babarra Street, Stafford Qld 4053
         postal: PO Box 1403, Stafford Qld 4053
         email: stafford@parliament.qld.gov.au
@@ -1386,13 +1386,13 @@ people:
       - Member for Mansfield
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: 12 Mt  Gravatt - Capalaba Road, Upper Mt Gravatt Qld 4122
         postal: PO Box 2202, Mansfield BC Qld 4122
         email: mansfield@parliament.qld.gov.au
         phone: 07 3849 3488
         fax: 07 3849 3511
-      - office: Ministerial
+      ministerial:
         address: Level 5, Executive Building, 100 George Street, Brisbane Qld 4000
         postal: GPO Box 5078, Brisbane Qld 4001
         email: sitia@ministerial.qld.gov.au
@@ -1405,7 +1405,7 @@ people:
       - Member for Toowoomba North
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Suite 2, ABC Building, 297 Margaret Street, Toowoomba Qld 4350
         postal: PO Box 285, Harlaxton Qld 4350
         email: toowoomba.north@parliament.qld.gov.au
@@ -1418,7 +1418,7 @@ people:
       - Member for Nicklin
     party: IND
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 3, 51 Currie Street, Nambour Qld 4560
         postal: PO Box 265, Nambour Qld 4560
         email: nicklin@parliament.qld.gov.au
@@ -1432,7 +1432,7 @@ people:
       - Member for Nudgee
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Cnr Toombul and Melton Roads, Northgate Qld 4013
         postal: PO Box 419, Northgate Qld 4013
         email: nudgee@parliament.qld.gov.au
@@ -1445,7 +1445,7 @@ people:
       - Member for Keppel
     party: LNP
     contact:
-      - office: Electorate
+      electorate:
         address: Shop 3, Evia Building, 3 Normanby Street, Yeppoon Qld 4703
         postal: PO Box 1661, Yeppoon Qld 4703
         email: keppel@parliament.qld.gov.au

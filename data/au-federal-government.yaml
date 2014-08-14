@@ -140,7 +140,7 @@ people:
     gender: male
     roles:
       - Member for Melbourne
-    party: AG
+    party: GRN
     polities:
       - Victoria
     contact:
@@ -291,7 +291,7 @@ people:
     gender: male
     roles:
       - Member for Mallee
-    party: Nats
+    party: NP
     polities:
       - Victoria
     contact:
@@ -541,7 +541,7 @@ people:
     roles:
       - Parliamentary Secretary to the Minister for Defence
       - Member for Gippsland
-    party: Nats
+    party: NP
     polities:
       - Victoria
     contact:
@@ -584,7 +584,7 @@ people:
     roles:
       - The Nationals Deputy Whip
       - Member for Dawson
-    party: Nats
+    party: NP
     polities:
       - Queensland
     contact:
@@ -668,7 +668,7 @@ people:
     gender: male
     roles:
       - Member for Calare
-    party: Nats
+    party: NP
     polities:
       - New South Wales
     contact:
@@ -749,7 +749,7 @@ people:
     roles:
       - The Nationals Chief Whip
       - Member for Parkes
-    party: Nats
+    party: NP
     polities:
       - New South Wales
     contact:
@@ -1044,7 +1044,7 @@ people:
     gender: male
     roles:
       - Member for Lyne
-    party: Nats
+    party: NP
     polities:
       - New South Wales
     contact:
@@ -1165,7 +1165,7 @@ people:
     roles:
       - Assistant Minister for Employment, Deputy Leader of the House
       - Member for Cowper
-    party: Nats
+    party: NP
     polities:
       - New South Wales
     contact:
@@ -1290,7 +1290,7 @@ people:
     gender: male
     roles:
       - Member for Page
-    party: Nats
+    party: NP
     polities:
       - New South Wales
     contact:
@@ -1481,7 +1481,7 @@ people:
       - Minister for Agriculture
       - Deputy Leader of The Nationals
       - Member for New England
-    party: Nats
+    party: NP
     polities:
       - Australia
       - New South Wales
@@ -1503,7 +1503,7 @@ people:
     gender: male
     roles:
       - Member for Kennedy
-    party: AUS
+    party: KAP
     polities:
       - Queensland
     contact:
@@ -1610,7 +1610,7 @@ people:
     gender: female
     roles:
       - Member for Capricornia
-    party: Nats
+    party: NP
     polities:
       - Queensland
     contact:
@@ -1838,7 +1838,7 @@ people:
     roles:
       - Parliamentary Secretary to the Minister for Finance
       - Member for Riverina
-    party: Nats
+    party: NP
     polities:
       - New South Wales
     contact:
@@ -2009,7 +2009,7 @@ people:
     gender: male
     roles:
       - Member for Flynn
-    party: Nats
+    party: NP
     polities:
       - Queensland
     contact:
@@ -2175,7 +2175,7 @@ people:
     gender: male
     roles:
       - Member for Hinkler
-    party: Nats
+    party: NP
     polities:
       - Queensland
     contact:
@@ -2510,7 +2510,7 @@ people:
     roles:
       - Deputy Speaker
       - Member for Maranoa
-    party: Nats
+    party: NP
     polities:
       - Queensland
     contact:
@@ -2823,7 +2823,7 @@ people:
       - Deputy Prime Minister
       - Minister for Infrastructure and Regional Development
       - Member for Wide Bay
-    party: Nats
+    party: NP
     polities:
       - Australia
       - Queensland
@@ -3032,7 +3032,7 @@ people:
     gender: male
     roles:
       - Member for Denison
-    party: Ind.
+    party: IND
     polities:
       - Tasmania
     contact:
@@ -3360,7 +3360,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: male
-    party: NATS
+    party: NP
     polities:
       - Queensland
     roles:
@@ -3553,7 +3553,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: male
-    party: AG
+    party: GRN
     polities:
       - Victoria
     roles:
@@ -3694,7 +3694,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: female
-    party: AG
+    party: GRN
     polities:
       - South Australia
     roles:
@@ -3850,7 +3850,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: male
-    party: AG
+    party: GRN
     polities:
       - Western Autralia
     roles:
@@ -4026,7 +4026,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: female
-    party: NATS
+    party: NP
     polities:
       - Victoria
     roles:
@@ -4065,7 +4065,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: female
-    party: AG
+    party: GRN
     polities:
       - Tasmania
     roles:
@@ -4124,7 +4124,7 @@ people:
     title: Senator the Hon
     salutation: Dear Senator
     gender: female
-    party: NATS
+    party: NP
     polities:
       - New South Wales
     roles:
@@ -4162,7 +4162,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: male
-    party: NATS
+    party: NP
     polities:
       - Queensland
     roles:
@@ -4275,7 +4275,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: female
-    party: AG
+    party: GRN
     polities:
       - New South Wales
     roles:
@@ -4294,7 +4294,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: female
-    party: AG
+    party: GRN
     polities:
       - Victoria
     roles:
@@ -4431,7 +4431,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: female
-    party: AG
+    party: GRN
     polities:
       - Western Autralia
     roles:
@@ -4565,7 +4565,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: female
-    party: AG
+    party: GRN
     polities:
       - Queensland
     roles:
@@ -4583,7 +4583,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: male
-    party: AG
+    party: GRN
     polities:
       - Tasmania
     roles:
@@ -4603,7 +4603,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: male
-    party: NATS
+    party: NP
     polities:
       - New South Wales
     roles:
@@ -4642,7 +4642,7 @@ people:
     title: Senator
     salutation: Dear Senator
     gender: female
-    party: AG
+    party: GRN
     polities:
       - South Australia
     roles:

@@ -4,21 +4,21 @@ tags: [LGA, local, South East Queensland]
 people:
 
   - name: Graham Quirk
-  title: The Right Honourable
-  salutation: My dear Lord Mayor
+    title: The Right Honourable
+    salutation: My dear Lord Mayor
     roles:
       - Lord Mayor of Brisbane
-  contact:
-    - office: Office of the Lord Mayor
-        postal: GPO Box 2287, Brisbane Qld 4001
-        phone: 07 3403 4400
-        fax: 07 3403 9930
+    contact:
+      mayoral:
+          postal: GPO Box 2287, Brisbane Qld 4001
+          phone: 07 3403 4400
+          fax: 07 3403 9930
 
   - name: Amanda Cooper
     roles:
       - Councillor for Bracken Ridge
     contact:
-      - office: Ward
+      ward:
         postal: Cnr Bracken and Barrett Streets, Bracken Ridge Qld 4017
         phone: 07 3667 6000
         fax: 07 3667 6005
@@ -29,7 +29,7 @@ people:
     roles:
       - Councillor for Central
     contact:
-      - office: Ward
+      ward:
         postal: Shop 11, 31 Duncan Street, Fortitude Valley Qld 4006
         phone: 07 3403 0254
         fax: 07 3403 0256
@@ -39,7 +39,7 @@ people:
     roles:
       - Councillor for Chandler
     contact:
-      - office: Ward
+      ward:
         postal: Shop 8, Millennium Centre, 14 Millennium Boulevard, Carindale Qld 4152
         phone: 07 3407 1400
         fax: 07 3407 1891
@@ -51,7 +51,7 @@ people:
     roles:
       - Councillor for Deagon
     contact:
-      - office: Ward
+      ward:
         postal: Cliff Street, Sandgate Qld 4017
         phone:  07 3667 6011
         fax:  07 3667 6016
@@ -62,7 +62,7 @@ people:
     roles:
       - Councillor for Doboy
     contact:
-      - office: Ward
+      ward:
         postal: Shop 5, 1181 Wynnum Road, Cannon Hill Qld 4170
         phone: 07 3407 8800
         fax: 07 3407 8805
@@ -73,7 +73,7 @@ people:
     roles:
       - Councillor for Enoggera
     contact:
-      - office: Ward
+      ward:
         postal: 102 Samford Road, Alderley Qld 4051
         phone: 07 3407 2510
         fax: 07 3407 2515
@@ -84,7 +84,7 @@ people:
     roles:
       - Councillor for Hamilton
     contact:
-      - office: Ward
+      ward:
         postal: 42 Racecourse Road, Hamilton Qld 4007
         phone: 07 3403 1095
         fax: 07 3403 1099
@@ -95,7 +95,7 @@ people:
     roles:
       - Councillor for Holland Park
     contact:
-      - office: Ward
+      ward:
         postal: Suite 6, 737 Logan Road, Greenslopes Qld 4120
         phone: 3403 2101
         fax: 3403 2105
@@ -106,7 +106,7 @@ people:
     roles:
       - Councillor for Jamboree
     contact:
-      - office: Ward
+      ward:
         postal: Shop 146A, Mt Ommaney Shopping Centre, 171 Dandenong Road, Mt Ommaney, Qld 4074
         phone: 07 3407 7000
         fax: 07 3407 7005
@@ -117,7 +117,7 @@ people:
     roles:
       - Councillor for Karawatha
     contact:
-      - office: Ward
+      ward:
         address: Shop 53, Level 2, Sunnybank Hills Shoppingtown, Sunnybank Hills Qld 4109
         postal: PO Box 1991, Sunnybank Hills Qld 4109
         phone: 07 3407 0566
@@ -129,7 +129,7 @@ people:
     roles:
       - Councillor for MacGregor
     contact:
-      - office: Ward
+      ward:
         postal: Sunnybank Centre, 121 Lister Street, Sunnybank Qld 4109
         phone: 07 3407 8500
         fax: 07 3407 8505
@@ -140,7 +140,7 @@ people:
     roles:
       - Councillor for Marchant
     contact:
-      - office: Ward
+      ward:
         postal: North Regional Business Centre, 960 Gympie Road, Chermside Qld 4032
         phone: 07 3407 0707
         fax: 07 3407 0797
@@ -151,7 +151,7 @@ people:
     roles:
       - Councillor for McDowall
     contact:
-      - office: Ward
+      ward:
         postal: Shops 5 and 6, Rode Shopping Centre, 271 Appleby Road, Stafford Heights Qld 4053
         phone:  07 3403 7690
         fax:  07 3403 7693
@@ -162,7 +162,7 @@ people:
     roles:
       - Councillor for Moorooka
     contact:
-      - office: Ward
+      ward:
         postal: Shop 2, 122  Beaudesert Road, Moorooka Qld 4105
         phone: 07 3403 1730
         fax: 07 3403 1733
@@ -173,7 +173,7 @@ people:
     roles:
       - Councillor for Morningside
     contact:
-      - office: Ward
+      ward:
         postal: 63 Oxford Street, Bulimba Qld 4171
         phone: 07 3407 8200
         fax: 07 3407 8205
@@ -183,7 +183,7 @@ people:
     roles:
       - Councillor for Northgate
     contact:
-      - office: Ward
+      ward:
         postal: 284 St Vincents Road, Banyo Qld 4014
         phone:  07 3403 2210
         fax:  07 3403 2213
@@ -194,7 +194,7 @@ people:
     roles:
       - Councillor for Parkinson
     contact:
-      - office: Ward
+      ward:
         postal: Shop 10 Central Park Medical Centre, 168 Algester Road, Algester Qld 4115
         phone: 07 3131 7022
         fax: 07 3131 7033
@@ -205,7 +205,7 @@ people:
     roles:
       - Councillor for Pullenvale
     contact:
-      - office: Ward
+      ward:
         postal: 9 Brookfield Road, Kenmore Qld 4069
         phone: 07 3407 0220
         fax: 07 3407 0226
@@ -216,7 +216,7 @@ people:
     roles:
       - Councillor for Richlands
     contact:
-      - office: Ward
+      ward:
         postal: Cnr Wirraway Parade and Corsair Avenue, Inala Qld 4077
         phone: 07 3407 1211
         fax: 07 3407 1215
@@ -226,7 +226,7 @@ people:
     roles:
       - Councillor for Tennyson
     contact:
-      - office: Ward
+      ward:
         postal: 180 Fairfield Road, Fairfield Qld 4103
         phone: 07 3403 8605
         fax: 07 3403 8607
@@ -237,7 +237,7 @@ people:
     roles:
       - Councillor for The Gabba
     contact:
-      - office: Ward
+      ward:
         postal: 2/63 Annerley Road, Woolloongabba Qld 4102
         phone: 07 3403 2165
         fax: 07 3403 2168
@@ -248,7 +248,7 @@ people:
     roles:
       - Councillor for The Gap
     contact:
-      - office: Ward
+      ward:
         postal: 477 Waterworks Road, Ashgrove Qld 4060
         phone: 07 3407 1900
         fax: 07 3407 1905
@@ -259,7 +259,7 @@ people:
     roles:
       - Councillor for Toowong
     contact:
-      - office: Ward
+      ward:
         postal: 50 High Street, Toowong Qld 4066
         phone: 07 3403 2520
         fax: 07 3403 2523
@@ -270,7 +270,7 @@ people:
     roles:
       - Councillor for Walter Taylor
     contact:
-      - office: Ward
+      ward:
         postal: 70 Station Rd, Indooroopilly Qld 4068
         phone: 07 3407 0005
         fax: 07 3407 0008
@@ -280,7 +280,7 @@ people:
     roles:
       - Councillor for Wishart
     contact:
-      - office: Ward
+      ward:
         postal: 2072 Logan Road, Upper Mt Gravatt Qld 4122
         phone: 07 3403 7791
         fax: 07 3403 7794
@@ -291,7 +291,7 @@ people:
     roles:
       - Councillor for Wynnum Manly
     contact:
-      - office: Ward
+      ward:
         postal: 3a/212 Bay Terrace, Wynnum Qld 4178
         phone: 07 3403 2180
         fax: 07 3403 2177
