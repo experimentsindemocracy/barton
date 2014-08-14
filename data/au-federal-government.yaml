@@ -1,3 +1,4 @@
+---
 name: Commonwealth of Australia
 tags: [Australia, federal]
 people:
@@ -10,17 +11,21 @@ people:
       - Prime Minister
       - Member for Warringah
     party: LP
-    state: NSW
+    polities:
+      - Australia
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7700
         fax: (02) 6273 4100
-      - office: Electorate
+        twitter: http://twitter.com/TonyAbbottMHR
+        facebook: http://www.facebook.com/TonyAbbottMP
+      electorate:
         postal: PO Box 450, Manly, NSW 2095
         fax: (02) 9977 8715
         phone: (02) 9977 6411
 
-  - name: Anthony Norman  Albanese
+  - name: Anthony Norman Albanese
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -28,12 +33,14 @@ people:
     roles:
       - Member for Grayndler
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4664
         fax: (02) 6277 8532
-      - office: Electorate
+        twitter: http://twitter.com/AlboMP
+      electorate:
         postal: 334A Marrickville Road, Marrickville, NSW 2204
         fax: (02) 9564 1734
         phone: (02) 9564 3588
@@ -46,12 +53,15 @@ people:
     roles:
       - Member for Bennelong
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4804
         fax: (02) 6277 8581
-      - office: Electorate
+        twitter: http://twitter.com/JohnAlexanderMP
+        facebook: http://www.facebook.com/profile.php?id=100001834307725
+      electorate:
         postal: PO Box 872, Epping, NSW 2121
         fax: (02) 9869 4833
         phone: (02) 9869 4288
@@ -64,12 +74,15 @@ people:
     roles:
       - Member for McPherson
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4360
         fax: (02) 6277 8462
-      - office: Electorate
+        twitter: http://twitter.com/karenandrewsmp
+        facebook: http://www.facebook.com/pages/Karen-Andrews-MP/150255771679533?ref=ts
+      electorate:
         postal: PO Box 409, Varsity Lakes, Qld 4227
         fax: (07) 5580 9700
         phone: (07) 5580 9111
@@ -83,12 +96,16 @@ people:
       - Minister for Social Services
       - Member for Menzies
     party: LP
-    state: Vic
+    polities:
+      - Australia
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7560
         fax: (02) 6273 4122
-      - office: Electorate
+        twitter: http://twitter.com/kevinandrewsmp
+        facebook: http://www.facebook.com/kevinandrewsmp
+      electorate:
         postal: PO Box 124, Doncaster, Vic 3108
         fax: (03) 9848 2741
         phone: (03) 9848 9900
@@ -102,12 +119,16 @@ people:
       - Parliamentary Secretary to the Minister for Industry
       - Member for Paterson
     party: LP
-    state: NSW
+    polities:
+      - Australia
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4200
         fax: (02) 6277 8447
-      - office: Electorate
+        twitter: http://twitter.com/bobbaldwinmp
+        facebook: http://en-gb.facebook.com/bobbaldwinmp
+      electorate:
         postal: PO Box 156, Raymond Terrace, NSW 2324
         fax: (02) 4987 5444
         phone: (02) 4983 1330
@@ -120,17 +141,20 @@ people:
     roles:
       - Member for Melbourne
     party: AG
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4775
         fax: (02) 6277 8583
-      - office: Electorate
+        twitter: http://twitter.com/adambandt
+        facebook: http://www.facebook.com/Adam.Bandt.MP
+      electorate:
         postal: 280 King St, Melbourne, Vic 3000
         fax: (03) 9642 0599
         phone: (03) 9642 0922
 
-  - name: Bruce Fredrick  Billson
+  - name: Bruce Fredrick Billson
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -139,17 +163,21 @@ people:
       - Minister for Small Business
       - Member for Dunkley
     party: LP
-    state: Vic
+    polities:
+      - Australia
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7930
         fax: (02) 6273 0434
-      - office: Electorate
+        twitter: http://twitter.com/BruceBillsonMP
+        facebook: http://www.facebook.com/profile.php?id=100001833476620
+      electorate:
         postal: PO Box 501, Frankston, Vic 3199
         fax: (03) 9783 7912
         phone: (03) 9781 2333
 
-  - name: Sharon Leah  Bird
+  - name: Sharon Leah Bird
     title: The Honourable
     salutation: Dear Ms
     suffix: MP
@@ -157,17 +185,20 @@ people:
     roles:
       - Member for Cunningham
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4244
         fax: (02) 6277 4260
-      - office: Electorate
+        twitter: http://twitter.com/SharonBirdMP
+        facebook: http://www.facebook.com/sharon.bird.mp
+      electorate:
         postal: PO Box 387,, Wollongong, NSW 2520
         fax: (02) 4228 5077
         phone: (02) 4228 5899
 
-  - name: Bronwyn Kathleen  Bishop
+  - name: Bronwyn Kathleen Bishop
     title: The Honourable
     salutation: Dear Mrs
     suffix: MP
@@ -176,17 +207,18 @@ people:
       - Speaker
       - Member for Mackellar
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4000
         fax: (02) 6277 2050
-      - office: Electorate
+      electorate:
         postal: Shop 1, 1238-1246 Pittwater Road, Narrabeen, NSW 2101
         fax: (02) 9913 9577
         phone: (02) 9913 9566
 
-  - name: Julie Isabel  Bishop
+  - name: Julie Isabel Bishop
     title: The Honourable
     salutation: Dear Ms
     suffix: MP
@@ -195,12 +227,16 @@ people:
       - Minister for Foreign Affairs
       - Member for Curtin
     party: LP
-    state: WA
+    polities:
+      - Australia
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7500
         fax: (02) 6273 4112
-      - office: Electorate
+        twitter: http://twitter.com/JulieBishopMP
+        facebook: http://www.facebook.com/julie.bishop.mp
+      electorate:
         postal: PO Box 2010,, Subiaco, WA 6904
         fax: (08) 9388 0299
         phone: (08) 9388 0288
@@ -213,12 +249,15 @@ people:
     roles:
       - Member for McMahon
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4822
         fax: (02) 6277 8587
-      - office: Electorate
+        twitter: http://twitter.com/Bowenchris
+        facebook: http://www.facebook.com/chrisbowenmp
+      electorate:
         postal: PO Box W210, Fairfield, NSW 2165
         fax: (02) 9609 3873
         phone: (02) 9604 0710
@@ -232,12 +271,15 @@ people:
       - Assistant Minister for Infrastructure and Regional Development
       - Member for Mayo
     party: LP
-    state: SA
+    polities:
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7020
         fax: (02) 6273 4126
-      - office: Electorate
+        twitter: http://twitter.com/BriggsJamie
+        facebook: http://www.facebook.com/profile.php?id=1024460381
+      electorate:
         postal: PO Box 1601, Mount Barker, SA 5251
         fax: (08) 8398 5577
         phone: (08) 8398 5566
@@ -250,17 +292,19 @@ people:
     roles:
       - Member for Mallee
     party: Nats
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4761
         fax: (02) 6277 2356
-      - office: Electorate
+        twitter: https://twitter.com/broad4mallee
+      electorate:
         postal: PO Box 1133, Mildura, Vic 3502
         fax: (03) 5023 3274
         phone: 1300 131 620
 
-  - name: Russell Evan  Broadbent
+  - name: Russell Evan Broadbent
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -268,12 +312,13 @@ people:
     roles:
       - Member for McMillan
     party: LP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4233
         fax: (02) 6277 8485
-      - office: Electorate
+      electorate:
         postal: 46C Albert Street, Warragul, Vic 3820
         fax: (03) 5623 2509
         phone: (03) 5623 2064
@@ -286,12 +331,14 @@ people:
     roles:
       - Member for Canberra
     party: ALP
-    state: ACT
+    polities:
+      - Australian Capital Territory
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4811
         fax: (02) 6277 8585
-      - office: Electorate
+        facebook: http://www.facebook.com/pages/Gai-Brodtmann/139691649380518
+      electorate:
         postal: 205 Anketell St, Tuggeranong, ACT 2900
         fax: (02) 6293 1068
         phone: (02) 6293 1344
@@ -304,17 +351,19 @@ people:
     roles:
       - Member for Fisher
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4970
         fax: (02) 6277 2860
-      - office: Electorate
+        facebook: https://www.facebook.com/MalBroughMP
+      electorate:
         postal: PO Box 1224, Buddina, Qld 4575
         fax: (07) 5452 6655
         phone: (07) 5444 4888
 
-  - name: Scott   Buchholz
+  - name: Scott Buchholz
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -323,17 +372,20 @@ people:
       - Government Whip
       - Member for Wright
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4449
         fax: (02) 6277 8408
-      - office: Electorate
+        twitter: http://twitter.com/ScottBuchholzMP
+        facebook: http://www.facebook.com/ScottBuchholzMP
+      electorate:
         postal: PO Box 628, Beaudesert, Qld 4285
         fax: (07) 5541 4150
         phone: (07) 5541 0150
 
-  - name: Anna Elizabeth  Burke
+  - name: Anna Elizabeth Burke
     title: Ms
     salutation: Dear Ms
     suffix: MP
@@ -341,12 +393,14 @@ people:
     roles:
       - Member for Chisholm
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4866
         fax: (02) 6277 4867
-      - office: Electorate
+        facebook: http://www.facebook.com/pages/Anna-Burke-MP/184394935018499
+      electorate:
         postal: PO Box 3042, Syndal, Vic 3149
         fax: (03) 9802 0588
         phone: (03) 9802 0566
@@ -360,17 +414,20 @@ people:
       - Manager of Opposition Business
       - Member for Watson
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4410
         fax: (02) 6277 2215
-      - office: Electorate
+        twitter: http://twitter.com/stephenjonesalp
+        facebook: http://www.facebook.com/pages/Stephen-Jones-for-Throsby/324823886818
+      electorate:
         postal: PO Box 156, Roselands, NSW 2196
         fax: (02) 9750 9288
         phone: (02) 9750 9088
 
-  - name: Mark Christopher  Butler
+  - name: Mark Christopher Butler
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -378,12 +435,15 @@ people:
     roles:
       - Member for Port Adelaide
     party: ALP
-    state: SA
+    polities:
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4089
         fax: (02) 6277 2222
-      - office: Electorate
+        twitter: https://www.twitter.com/C_Pyne_MP
+        facebook: https://www.facebook.com/christopher.pyne
+      electorate:
         postal: PO Box 2038, Port Adelaide, SA 5015
         fax: (08) 8242 0744
         phone: (08) 8242 0733
@@ -396,17 +456,20 @@ people:
     roles:
       - Member for Griffith
     party: ALP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4877
         fax: (02) 6277 8497
-      - office: Electorate
+        twitter: https://twitter.com/terrimbutler
+        facebook: https://www.facebook.com/butler4griffith
+      electorate:
         postal: PO Box 476, Morningside, Qld 4170
         fax: (07) 3899 5755
         phone: (07) 3899 4031
 
-  - name: Anthony Michael  Byrne
+  - name: Anthony Michael Byrne
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -414,12 +477,15 @@ people:
     roles:
       - Member for Holt
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4309
         fax: (02) 6277 8473
-      - office: Electorate
+        twitter: http://twitter.com/AnthonyByrne_MP
+        facebook: http://www.facebook.com/anthonybyrne
+      electorate:
         postal: Shop HM 2B, 8-10 Overland Drive, Fountain Gate, Vic 3805
         fax: (03) 9796 7088
         phone: (03) 9796 7533
@@ -432,12 +498,15 @@ people:
     roles:
       - Member for Rankin
     party: ALP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4880
         fax: (02) 6277 4908
-      - office: Electorate
+        twitter: https://twitter.com/JEChalmers
+        facebook: https://www.facebook.com/jim4rankin
+      electorate:
         postal: PO Box 349, Woodridge, Qld 4114
         fax: (07) 3208 8744
         phone: (07) 3299 5910
@@ -450,12 +519,15 @@ people:
     roles:
       - Member for Wakefield
     party: ALP
-    state: SA
+    polities:
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4451
         fax: (02) 6277 8511
-      - office: Electorate
+        twitter: http://twitter.com/NickChampionMP
+        facebook: http://www.facebook.com/pages/Nick-Champion-MP/325495831575
+      electorate:
         postal: PO Box 288, Smithfield, SA 5114
         fax: (08) 8284 2433
         phone: (08) 8284 2422
@@ -470,12 +542,15 @@ people:
       - Parliamentary Secretary to the Minister for Defence
       - Member for Gippsland
     party: Nats
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4029
         fax: (02) 6277 8402
-      - office: Electorate
+        twitter: https://twitter.com/DarrenChesterMP
+        facebook: https://www.facebook.com/darrenchestermp
+      electorate:
         postal: PO Box 486, Sale, Vic 3850
         fax: (03) 5144 3945
         phone: (03) 5144 6744
@@ -488,12 +563,15 @@ people:
     roles:
       - Member for Bendigo
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4657
         fax: (02) 6277 2357
-      - office: Electorate
+        twitter: https://twitter.com/LMChesters
+        facebook: https://www.facebook.com/LisaChestersBendigo
+      electorate:
         postal: PO Box 338, Bendigo, Vic 3550
         fax: (03) 5443 9736
         phone: (03) 5443 9055
@@ -507,18 +585,21 @@ people:
       - The Nationals Deputy Whip
       - Member for Dawson
     party: Nats
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4538
         fax: (02) 6277 8508
-      - office: Electorate
+        twitter: http://twitter.com/GChristensenMP
+        facebook: https://www.facebook.com/georgechristensen78
+      electorate:
         postal: PO Box 1697, Mackay, Qld 4740
         fax: (07) 4944 0575
         phone: (07) 4944 0662
         tollfree: 1300 301 979
 
-  - name: Steven Michele  Ciobo
+  - name: Steven Michele Ciobo
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -527,17 +608,19 @@ people:
       - Parliamentary Secretary to the Treasurer
       - Member for Moncrieff
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 2330
         fax: (02) 6277 8452
-      - office: Electorate
+        twitter: http://twitter.com/steveciobo
+      electorate:
         postal: PO Box 4922, Gold Coast Mail Centre, Qld 9726
         fax: (07) 5504 6944
         phone: (07) 5504 6000
 
-  - name: Jason Dean  Clare
+  - name: Jason Dean Clare
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -545,12 +628,14 @@ people:
     roles:
       - Member for Blaxland
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4904
         fax: (02) 6277 4750
-      - office: Electorate
+        twitter: http://twitter.com/JasonClareMP
+      electorate:
         postal: PO Box 153, Bankstown, NSW 1885
         fax: (02) 9790 0770
         phone: (02) 9790 2466
@@ -563,17 +648,20 @@ people:
     roles:
       - Member for Newcastle
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4285
         fax: (02) 6277 2378
-      - office: Electorate
+        twitter: https://twitter.com/SharonClaydon
+        facebook: https://www.facebook.com/SharonClaydonforNewcastle
+      electorate:
         postal: 427 Hunter Street, Newcastle, NSW 2300
         fax: (02) 4926 1895
         phone: (02) 4926 1555
 
-  - name: John Kenneth  Cobb
+  - name: John Kenneth Cobb
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -581,12 +669,13 @@ people:
     roles:
       - Member for Calare
     party: Nats
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4721
         fax: (02) 6277 8543
-      - office: Electorate
+      electorate:
         postal: PO Box 673, Orange, NSW 2800
         fax: (02) 6362 3480
         phone: (02) 6361 7138
@@ -599,17 +688,19 @@ people:
     roles:
       - Member for Banks
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4188
         fax: (02) 6277 2353
-      - office: Electorate
+        facebook: https://www.facebook.com/davidcoleman4banks
+      electorate:
         postal: PO Box 564, Revesby, NSW 2212
         fax: (02) 9773 4144
         phone: (02) 9771 3400
 
-  - name: Julie Maree  Collins
+  - name: Julie Maree Collins
     title: The Honourable
     salutation: Dear Ms
     suffix: MP
@@ -617,12 +708,15 @@ people:
     roles:
       - Member for Franklin
     party: ALP
-    state: Tas
+    polities:
+      - Tasmania
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4107
         fax: (02) 6277 2321
-      - office: Electorate
+        twitter: https://twitter.com/JulieCollinsMP
+        facebook: https://www.facebook.com/juliecollinsmp
+      electorate:
         postal: PO Box 38, Rosny Park, Tas 7018
         fax: (03) 6244 1211
         phone: (03) 6244 1222
@@ -635,17 +729,19 @@ people:
     roles:
       - Member for Charlton
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4863
         fax: (02) 6277 4963
-      - office: Electorate
+        facebook: https://www.facebook.com/PatConroyLaborforCharlton
+      electorate:
         postal: PO Box 747, Cardiff, NSW 2285
         fax: (02) 4954 2655
         phone: (02) 4954 2611
 
-  - name: Mark Maclean  Coulton
+  - name: Mark Maclean Coulton
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -654,17 +750,20 @@ people:
       - The Nationals Chief Whip
       - Member for Parkes
     party: Nats
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4607
         fax: (02) 6277 8504
-      - office: Electorate
+        twitter: https://twitter.com/MarkCoultonMP
+        facebook: http://www.facebook.com/people/Mark-Coulton/732382571
+      electorate:
         postal: Shop 3, 153 Brisbane Street, Dubbo, NSW 2830
         fax: (02) 6882 9935
         phone: (02) 6882 0999
 
-  - name: Michael   Danby
+  - name: Michael Danby
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -672,12 +771,14 @@ people:
     roles:
       - Member for Melbourne Ports
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4520
         fax: (02) 6277 8480
-      - office: Electorate
+        facebook: https://www.facebook.com/michael.danby.39
+      electorate:
         postal: PO Box 2086, St Kilda West, Vic 3182
         fax: (03) 9534 1575
         phone: (03) 9534 8126
@@ -691,31 +792,40 @@ people:
       - Deputy Manager of Opposition Business
       - Member for Isaacs
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4205
         fax: (02) 6277 8523
-      - office: Electorate
-        postal: Shop No. 6, Parkmore Shopping Centre, Cheltenham Road, Keysborough, Vic 3173
+        twitter: http://twitter.com/alexhawkemp
+        facebook: http://www.facebook.com/alex.hawke.mp
+      electorate:
+        postal: Shop No. 6, Parkmore Shopping Centre, Cheltenham Road, Keysborough,
+          Vic 3173
         fax: (03) 9769 1977
         phone: (03) 9769 1955
 
-  - name: Peter Craig  Dutton
+  - name: Peter Craig Dutton
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
     gender: male
     roles:
-      - Minister for Health, Minister for Sport
+      - Minister for Health
+      - Minister for Sport
       - Member for Dickson
     party: LP
-    state: Qld
+    polities:
+      - Australia
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7220
         fax: (02) 6273 4146
-      - office: Electorate
+        twitter: http://twitter.com/PeterDutton_MP
+        facebook: http://www.facebook.com/peterduttonmp
+      electorate:
         postal: PO Box 2012, Strathpine, Qld 4500
         fax: (07) 3205 5111
         phone: (07) 3205 9977
@@ -728,12 +838,13 @@ people:
     roles:
       - Member for Richmond
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4554
         fax: (02) 6277 8520
-      - office: Electorate
+      electorate:
         postal: PO Box 6996, Tweed Heads South, NSW 2486
         fax: (07) 5523 4379
         phone: (07) 5523 4371
@@ -746,12 +857,15 @@ people:
     roles:
       - Member for Adelaide
     party: ALP
-    state: SA
+    polities:
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4479
         fax: (02) 6277 2216
-      - office: Electorate
+        twitter: http://twitter.com/KateEllisMP
+        facebook: http://www.facebook.com/pages/Kate-Ellis-MP/248221178548054
+      electorate:
         postal: 161 Main North Road, Nailsworth, , SA 5083
         fax: (08) 8269 2488
         phone: (08) 8269 2433
@@ -764,12 +878,13 @@ people:
     roles:
       - Member for Leichhardt
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4803
         fax: (02) 6277 2238
-      - office: Electorate
+      electorate:
         postal: PO Box 14, Bungalow, Qld 4870
         fax: (07) 4031 1592
         phone: (07) 4051 2220
@@ -782,12 +897,14 @@ people:
     roles:
       - Member for Batman
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4948
         fax: (02) 6277 4849
-      - office: Electorate
+        twitter: https://twitter.com/Feeney4Batman
+      electorate:
         postal: 159 High St, Preston, Vic 3072
         fax: (03) 9410 7810
         phone: (03) 9416 8690
@@ -800,17 +917,20 @@ people:
     roles:
       - Member for Werriwa
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4920
         fax: (02) 6277 8507
-      - office: Electorate
+        twitter: https://twitter.com/FergusonLMP
+        facebook: https://www.facebook.com/LaurieFergusonMP
+      electorate:
         postal: PO Box 191,, Ingleburn, NSW 1890
         fax: (02) 9829 7499
         phone: (02) 9829 7477
 
-  - name: Joel Andrew  Fitzgibbon
+  - name: Joel Andrew Fitzgibbon
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -818,12 +938,15 @@ people:
     roles:
       - Member for Hunter
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4550
         fax: (02) 6277 8556
-      - office: Electorate
+        twitter: http://twitter.com/fitzhunter
+        facebook: https://www.facebook.com/JoelFitzgibbonMP
+      electorate:
         postal: PO Box 526, Cessnock, NSW 2325
         fax: (02) 4991 2322
         phone: (02) 4991 1022
@@ -837,12 +960,15 @@ people:
       - Parliamentary Secretary to the Minister for Communications
       - Member for Bradfield
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4240
         fax: (02) 6277 8457
-      - office: Electorate
+        twitter: http://twitter.com/paulwfletcher/
+        facebook: http://www.facebook.com/pages/Paul-Fletcher/142496131402
+      electorate:
         postal: Suite 1, Level 2, 280 Pacific Highway, Lindfield, NSW 2070
         fax: (02) 9465 3999
         phone: (02) 9465 3950
@@ -856,17 +982,20 @@ people:
       - Parliamentary Secretary to the Prime Minister
       - Member for Kooyong
     party: LP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4606
         fax: (02) 6277 8546
-      - office: Electorate
+        twitter: http://twitter.com/JoshFrydenberg
+        facebook: http://www.facebook.com/JoshFrydenbergMP
+      electorate:
         postal: 695 Burke Road, Camberwell, Vic 3124
         fax: (03) 9882 3773
         phone: (03) 9882 3677
 
-  - name: Teresa   Gambaro
+  - name: Teresa Gambaro
     title: The Honourable
     salutation: Dear Ms
     suffix: MP
@@ -874,12 +1003,15 @@ people:
     roles:
       - Member for Brisbane
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4331
         fax: (02) 6277 8515
-      - office: Electorate
+        twitter: http://twitter.com/TeresaGambaroMP
+        facebook: https://www.facebook.com/TeresaGambaroMP
+      electorate:
         postal: PO Box 98, Grange, Qld 4051
         fax: (07) 3356 6711
         phone: (07) 3356 1555
@@ -892,12 +1024,15 @@ people:
     roles:
       - Member for Scullin
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4044
         fax: (02) 6277 8417
-      - office: Electorate
+        twitter: https://twitter.com/andrewjgiles
+        facebook: https://www.facebook.com/AndrewGilesScullin
+      electorate:
         postal: PO Box 167, Mill Park LPO, Vic 3082
         fax: (03) 9404 1725
         phone: (03) 9404 1911
@@ -910,12 +1045,15 @@ people:
     roles:
       - Member for Lyne
     party: Nats
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4960
         fax: (02) 6277 2856
-      - office: Electorate
+        twitter: https://twitter.com/DaveGillespieMP
+        facebook: https://www.facebook.com/DavidGillespieMP
+      electorate:
         postal: PO Box 1112, Port Macquarie, NSW 2444
         fax: (02) 6584 1022
         phone: (02) 6583 2077
@@ -928,17 +1066,18 @@ people:
     roles:
       - Member for Moore
     party: LP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4651
         fax: (02) 6277 2082
-      - office: Electorate
+      electorate:
         postal: 3 Boas Avenue, Joondalup, WA 6027
         fax: (08) 9300 2245
         phone: (08) 9300 2244
 
-  - name: Gary   Gray
+  - name: Gary Gray
     title: The Honourable
     salutation: Dear Mr
     suffix: AO, MP
@@ -946,17 +1085,19 @@ people:
     roles:
       - Member for Brand
     party: ALP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4913
         fax: (02) 6277 4937
-      - office: Electorate
+        facebook: https://www.facebook.com/garygraymp
+      electorate:
         postal: 1/15 Kent Street, Rockingham, , WA 6168
         fax: (08) 9592 1361
         phone: (08) 9527 9377
 
-  - name: Alan Peter  Griffin
+  - name: Alan Peter Griffin
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -964,17 +1105,19 @@ people:
     roles:
       - Member for Bruce
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4303
         fax: (02) 6277 8499
-      - office: Electorate
+        facebook: https://www.facebook.com/griffin.alan
+      electorate:
         postal: PO Box 1034, Waverley Gardens, Vic 3170
         fax: (03) 9547 7944
         phone: (03) 9547 1444
 
-  - name: Natasha Louise  Griggs
+  - name: Natasha Louise Griggs
     title: Mrs
     salutation: Dear Mrs
     suffix: MP
@@ -982,17 +1125,18 @@ people:
     roles:
       - Member for Solomon
     party: CLP
-    state: NT
+    polities:
+      - Northern Territory
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 2392
         fax: (02) 6277 8479
-      - office: Electorate
+      electorate:
         postal: PO Box 43300, Casuarina, NT 811
         fax: (08) 8928 0189
         phone: (08) 8928 0180
 
-  - name: Jill Griffiths  Hall
+  - name: Jill Griffiths Hall
     title: Ms
     salutation: Dear Ms
     suffix: MP
@@ -1001,17 +1145,19 @@ people:
       - Opposition Whip
       - Member for Shortland
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4492
         fax: (02) 6277 8505
-      - office: Electorate
+        facebook: https://www.facebook.com/griffin.alan
+      electorate:
         postal: PO Box 499, Belmont, NSW 2280
         fax: (02) 4947 9722
         phone: (02) 4947 9711
 
-  - name: Luke   Hartsuyker
+  - name: Luke Hartsuyker
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -1020,12 +1166,13 @@ people:
       - Assistant Minister for Employment, Deputy Leader of the House
       - Member for Cowper
     party: Nats
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7540
         fax: (02) 6273 0207
-      - office: Electorate
+      electorate:
         postal: PO Box 2056, Coffs Harbour, NSW 2450
         fax: (02) 6651 4346
         phone: (02) 6652 6233
@@ -1038,12 +1185,15 @@ people:
     roles:
       - Member for Mitchell
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4430
         fax: (02) 6277 8522
-      - office: Electorate
+        twitter: http://twitter.com/alexhawkemp
+        facebook: http://www.facebook.com/alex.hawke.mp
+      electorate:
         postal: PO Box 1173, Castle Hill, NSW 2154
         fax: (02) 9899 7990
         phone: (02) 9899 7211
@@ -1057,12 +1207,15 @@ people:
       - Chief Opposition Whip
       - Member for Fowler
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4083
         fax: (02) 6277 2309
-      - office: Electorate
+        twitter: https://www.twitter.com/C_Pyne_MP
+        facebook: https://www.facebook.com/christopher.pyne
+      electorate:
         postal: PO Box 205, Cabramatta, NSW 2166
         fax: (02) 9727 2240
         phone: (02) 9726 3988
@@ -1075,12 +1228,15 @@ people:
     roles:
       - Member for Corangamite
     party: LP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4172
         fax: (02) 6277 2043
-      - office: Electorate
+        twitter: https://twitter.com/SHendersonMP
+        facebook: https://www.facebook.com/SarahHendersonMP
+      electorate:
         postal: 3A/195 Colac Rd, Waurn Ponds, Vic 3216
         fax: (03) 5243 1666
         phone: (03) 5243 1444
@@ -1093,12 +1249,14 @@ people:
     roles:
       - Member for Eden-Monaro
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4717
         fax: (02) 6277 4737
-      - office: Electorate
+        facebook: https://www.facebook.com/peterhendy4edenmonaro
+      electorate:
         postal: PO Box 214, Queanbeyan, NSW 2620
         fax: (02) 6284 3904
         phone: (02) 6284 3977
@@ -1112,12 +1270,15 @@ people:
       - The Treasurer
       - Member for North Sydney
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7340
         fax: (02) 6273 3420
-      - office: Electorate
+        twitter: http://twitter.com/JoeHockey
+        facebook: http://www.facebook.com/joehockey
+      electorate:
         postal: PO Box 1107, North Sydney, NSW 2059
         fax: (02) 9929 9833
         phone: (02) 9929 9822
@@ -1130,12 +1291,15 @@ people:
     roles:
       - Member for Page
     party: Nats
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4746
         fax: (02) 6277 2278
-      - office: Electorate
+        twitter: https://twitter.com/KevinHoganMP
+        facebook: https://www.facebook.com/KevinHoganMP
+      electorate:
         postal: 61-63 Molesworth Street, Lismore, NSW 2480
         fax: (02) 6621 4255
         phone: (02) 6621 4044
@@ -1148,12 +1312,14 @@ people:
     roles:
       - Member for Petrie
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4018
         fax: (02) 6277 2361
-      - office: Electorate
+        facebook: https://www.facebook.com/LukeHowarthLNP
+      electorate:
         postal: 40 Hornibrook Esplanade, Clontarf Beach, Qld 4019
         fax: (07) 3284 8002
         phone: (07) 3284 8008
@@ -1167,12 +1333,15 @@ people:
       - Minister for the Environment
       - Member for Flinders
     party: LP
-    state: Vic
+    polities:
+      - Australia
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7920
         fax: (02) 6273 7330
-      - office: Electorate
+        twitter: https://twitter.com/broad4mallee
+      electorate:
         postal: PO Box 274, Hastings, Vic 3915
         fax: (03) 5979 3034
         phone: (03) 5979 3188
@@ -1185,12 +1354,15 @@ people:
     roles:
       - Member for Chifley
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4488
         fax: (02) 6277 8590
-      - office: Electorate
+        twitter: http://twitter.com/edhusicmp
+        facebook: http://www.facebook.com/ehusic
+      electorate:
         postal: PO Box 259, Mt Druitt, NSW 2770
         fax: (02) 9832 2641
         phone: (02) 9625 4344
@@ -1203,12 +1375,15 @@ people:
     roles:
       - Member for Lyons
     party: LP
-    state: Tas
+    polities:
+      - Tasmania
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4918
         fax: (02) 6277 4299
-      - office: Electorate
+        twitter: https://twitter.com/hutchinson_eric
+        facebook: https://www.facebook.com/eric.hutchinson.9212
+      electorate:
         postal: PO Box 50, Perth, Tas 7300
         fax: (03) 6398 1120
         phone: (03) 6398 1115
@@ -1221,12 +1396,15 @@ people:
     roles:
       - Member for Swan
     party: LP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4337
         fax: (02) 6277 8494
-      - office: Electorate
+        twitter: http://twitter.com/SteveIronsMP
+        facebook: https://www.facebook.com/pages/Steve-Irons-MP-Federal-Member-for-Swan/162172533830403
+      electorate:
         postal: PO Box 1060, East Victoria Park, WA 6981
         fax: (08) 9355 0199
         phone: (08) 9355 0099
@@ -1239,17 +1417,20 @@ people:
     roles:
       - Member for Tangney
     party: LP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4156
         fax: (02) 6277 8460
-      - office: Electorate
+        twitter: http://twitter.com/DennisJensenMP
+        facebook: http://www.facebook.com/dennisjensenmp
+      electorate:
         postal: PO Box 329, Willetton, WA 6955
         fax: (08) 9354 9233
         phone: (08) 9354 9633
 
-  - name: Ewen Thomas  Jones
+  - name: Ewen Thomas Jones
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -1257,12 +1438,15 @@ people:
     roles:
       - Member for Herbert
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4693
         fax: (02) 6277 8551
-      - office: Electorate
+        twitter: http://twitter.com/KelvinThomsonMP
+        facebook: http://www.facebook.com/profile.php?id=634701493
+      electorate:
         postal: PO Box 226, Aitkenvale, Qld 4814
         fax: (07) 4725 2088
         phone: (07) 4725 2066
@@ -1275,31 +1459,39 @@ people:
     roles:
       - Member for Throsby
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4661
         fax: (02) 6277 8548
-      - office: Electorate
+        twitter: http://twitter.com/stephenjonesalp
+        facebook: http://www.facebook.com/pages/Stephen-Jones-for-Throsby/324823886818
+      electorate:
         postal: PO Box 864, Dapto, NSW 2530
         fax: (02) 4262 6155
         phone: (02) 4262 6122
 
-  - name: Barnaby Thomas Gerard  Joyce
+  - name: Barnaby Thomas Gerard Joyce
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
     gender: male
     roles:
-      - Minister for Agriculture, Deputy Leader of The Nationals
+      - Minister for Agriculture
+      - Deputy Leader of The Nationals
       - Member for New England
     party: Nats
-    state: NSW
+    polities:
+      - Australia
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7520
         fax: (02) 6273 4120
-      - office: Electorate
+        twitter: https://twitter.com/Barnaby_Joyce
+        facebook: https://www.facebook.com/BarnabyJoyceMP
+      electorate:
         postal: PO Box 963, Tamworth, NSW 2340
         fax: (02) 6761 3380
         phone: (02) 6761 3080
@@ -1312,17 +1504,20 @@ people:
     roles:
       - Member for Kennedy
     party: AUS
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4978
         fax: (02) 6277 8558
-      - office: Electorate
+        twitter: http://twitter.com/RealBobKatter
+        facebook: http://www.facebook.com/bobkattermp
+      electorate:
         postal: PO Box 1638, Innisfail, Qld 4860
         fax: (07) 4061 6566
         phone: (07) 4061 6066
 
-  - name: Michael   Keenan
+  - name: Michael Keenan
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -1331,17 +1526,21 @@ people:
       - Minister for Justice
       - Member for Stirling
     party: LP
-    state: WA
+    polities:
+      - Australia
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7290
         fax: (02) 6273 7098
-      - office: Electorate
+        twitter: http://twitter.com/michaelkeenanmp
+        facebook: http://www.facebook.com/MichaelKeeenanMP
+      electorate:
         postal: PO Box 261, Osborne Park, WA 6917
         fax: (08) 9440 3988
         phone: (08) 9440 3999
 
-  - name: Craig   Kelly
+  - name: Craig Kelly
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -1349,17 +1548,20 @@ people:
     roles:
       - Member for Hughes
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4366
         fax: (02) 6277 8567
-      - office: Electorate
+        twitter: http://twitter.com/CraigKellyMP
+        facebook: http://www.facebook.com/CraigKellyMP
+      electorate:
         postal: PO Box 1014,, Sutherland, NSW 1499
         fax: (02) 9545 0927
         phone: (02) 9521 6262
 
-  - name: Catherine Fiona  King
+  - name: Catherine Fiona King
     title: The Honourable
     salutation: Dear Ms
     suffix: MP
@@ -1367,17 +1569,20 @@ people:
     roles:
       - Member for Ballarat
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4407
         fax: (02) 6277 4998
-      - office: Electorate
+        twitter: http://twitter.com/CatherineKingMP
+        facebook: http://www.facebook.com/CatherineKingMP
+      electorate:
         postal: 5 Lydiard Street North, Ballarat, Vic 3350
         fax: (03) 5333 7710
         phone: (03) 5338 8123
 
-  - name: Andrew   Laming
+  - name: Andrew Laming
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -1385,12 +1590,15 @@ people:
     roles:
       - Member for Bowman
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4258
         fax: (02) 6277 8503
-      - office: Electorate
+        twitter: http://twitter.com/AndrewLamingMP
+        facebook: http://www.facebook.com/profile.php?id=100000494042921
+      electorate:
         postal: PO Box 8024, Cleveland, Qld 4163
         fax: (07) 3821 3799
         phone: (07) 3821 0155
@@ -1403,12 +1611,14 @@ people:
     roles:
       - Member for Capricornia
     party: Nats
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4373
         fax: (02) 6277 2376
-      - office: Electorate
+        facebook: https://www.facebook.com/Michelle4Capricornia
+      electorate:
         postal: PO Box 1919, Rockhampton, Qld 4700
         fax: (07) 4922 6607
         phone: (07) 4922 6604
@@ -1421,17 +1631,19 @@ people:
     roles:
       - Member for Reid
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4345
         fax: (02) 6277 8577
-      - office: Electorate
+        facebook: https://www.facebook.com/CraigLaundyMP
+      electorate:
         postal: PO Box 2028, Burwood North, NSW 2134
         fax: (02) 9745 2825
         phone: (02) 9715 7444
 
-  - name: Andrew Keith  Leigh
+  - name: Andrew Keith Leigh
     title: The Honourable Dr
     salutation: Dear Dr
     suffix: MP
@@ -1439,17 +1651,19 @@ people:
     roles:
       - Member for Fraser
     party: ALP
-    state: ACT
+    polities:
+      - Australian Capital Territory
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4140
         fax: (02) 6277 8469
-      - office: Electorate
+        facebook: https://www.facebook.com/KeithPittMP
+      electorate:
         postal: Unit 8/1 Torrens St, Braddon, ACT 2612
         fax: (02) 6247 3457
         phone: (02) 6247 4396 or 6247 4037
 
-  - name: Sussan Penelope  Ley
+  - name: Sussan Penelope Ley
     title: The Honourable
     salutation: Dear Ms
     suffix: MP
@@ -1458,18 +1672,21 @@ people:
       - Assistant Minister for Education
       - Member for Farrer
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7630
         fax: (02) 6273 5188
-      - office: Electorate
+        twitter: http://twitter.com/sussanley
+        facebook: http://www.facebook.com/pages/Sussan-Ley-MP/198830586850988
+      electorate:
         postal: PO Box 672, Albury, NSW 2640
         fax: (02) 6021 6620
         phone: (02) 6021 3264
         tollfree: 1300 303 203
 
-  - name: Ian Elgin  Macfarlane
+  - name: Ian Elgin Macfarlane
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -1478,12 +1695,14 @@ people:
       - Minister for Industry
       - Member for Groom
     party: LP
-    state: Qld
+    polities:
+      - Australia
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7070
         fax: (02) 6273 3662
-      - office: Electorate
+      electorate:
         postal: PO Box 777, Toowoomba, Qld 4350
         fax: (07) 4638 2147
         phone: (07) 4632 4144
@@ -1496,12 +1715,13 @@ people:
     roles:
       - Member for Jagajaga
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4305
         fax: (02) 6277 8595
-      - office: Electorate
+      electorate:
         postal: PO Box 316, Heidelberg, Vic 3084
         fax: (03) 9457 5721
         phone: (03) 9459 1411
@@ -1514,17 +1734,20 @@ people:
     roles:
       - Member for Perth
     party: ALP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4835
         fax: (02) 6277 4851
-      - office: Electorate
+        twitter: https://twitter.com/AlannahMac
+        facebook: https://www.facebook.com/AMacTiernan
+      electorate:
         postal: PO Box 901, Inglewood, WA 6932
         fax: (08) 9272 3477
         phone: (08) 9272 3411
 
-  - name: Nola Bethwyn  Marino
+  - name: Nola Bethwyn Marino
     title: Ms
     salutation: Dear Ms
     suffix: MP
@@ -1533,12 +1756,14 @@ people:
       - Government Whip
       - Member for Forrest
     party: LP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 2318
         fax: (02) 6277 8450
-      - office: Electorate
+        twitter: http://twitter.com/bertvanmanen/
+      electorate:
         postal: PO Box 2028, Bunbury, WA 6231
         fax: (08) 9721 4911
         phone: (08) 9721 3788
@@ -1551,17 +1776,19 @@ people:
     roles:
       - Member for Macquarie
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 2371
         fax: (02) 6277 8463
-      - office: Electorate
+        facebook: http://www.facebook.com/louise.markus.mp
+      electorate:
         postal: PO Box 855, Windsor, NSW 2756
         fax: (02) 4577 2640
         phone: (02) 4577 2631
 
-  - name: Richard Donald  Marles
+  - name: Richard Donald Marles
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -1569,12 +1796,15 @@ people:
     roles:
       - Member for Corio
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4330
         fax: (02) 6277 8599
-      - office: Electorate
+        twitter: https://twitter.com/RichardMarlesMP
+        facebook: https://www.facebook.com/richardmarlesmp
+      electorate:
         postal: 17A Yarra Street, Geelong, Vic 3220
         fax: (03) 5222 4505
         phone: (03) 5221 3033
@@ -1587,12 +1817,15 @@ people:
     roles:
       - Member for Macarthur
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 2035
         fax: (02) 6277 8486
-      - office: Electorate
+        twitter: http://twitter.com/russellmatheson
+        facebook: http://www.facebook.com/pages/Russell-Matheson-MP-Federal-Member-for-Macarthur/164320700256328
+      electorate:
         postal: PO Box 1065, Camden, NSW 2570
         fax: (02) 4655 7690
         phone: (02) 4655 7600
@@ -1606,17 +1839,20 @@ people:
       - Parliamentary Secretary to the Minister for Finance
       - Member for Riverina
     party: Nats
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4725
         fax: (02) 6277 8563
-      - office: Electorate
+        twitter: http://twitter.com/M_McCormackMP
+        facebook: http://www.facebook.com/people/Michael-McCormack/100002102184276
+      electorate:
         postal: Suite 2, 11-15 Fitzmaurice Street, Wagga Wagga, NSW 2650
         fax: (02) 6921 5900
         phone: (02) 6921 4600
 
-  - name: Catherine  'Cathy' McGowan
+  - name: Catherine 'Cathy' McGowan
     title: Ms
     salutation: Dear Ms
     suffix: AO, MP
@@ -1624,17 +1860,20 @@ people:
     roles:
       - Member for Indi
     party: Ind.
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4778
         fax: (02) 6277 2365
-      - office: Electorate
+        twitter: http://twitter.com/CatherineKingMP
+        facebook: http://www.facebook.com/CatherineKingMP
+      electorate:
         postal: 117 Murphy Street, Wangaratta, Vic 3677
         fax: (03) 5721 7066
         phone: (03) 5721 7077
 
-  - name: Karen Jane  McNamara
+  - name: Karen Jane McNamara
     title: Mrs
     salutation: Dear Mrs
     suffix: MP
@@ -1642,12 +1881,14 @@ people:
     roles:
       - Member for Dobell
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4055
         fax: (02) 6277 4293
-      - office: Electorate
+        facebook: https://www.facebook.com/karenmcnamara4dobell
+      electorate:
         postal: PO Box 3763, Tuggerah, NSW 2259
         fax: (02) 4351 1487
         phone: (02) 4351 0837
@@ -1661,17 +1902,20 @@ people:
       - Second Deputy Speaker
       - Member for McEwen
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4117
         fax: (02) 6277 8443
-      - office: Electorate
+        twitter: http://twitter.com/#!/RobMitchellMP
+        facebook: http://www.facebook.com/pages/Rob-Mitchell-MP-Federal-Labor-Member-for-McEwen/113830088678537
+      electorate:
         postal: Suite 4B, 61 High Street, Wallan, Vic 3756
         fax: (03) 5783 4889
         phone: (03) 5783 4880, 1300 701 966
 
-  - name: Scott John  Morrison
+  - name: Scott John Morrison
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -1680,17 +1924,21 @@ people:
       - Minister for Immigration and Border Protection
       - Member for Cook
     party: LP
-    state: NSW
+    polities:
+      - Australia
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7860
         fax: (02) 6273 4144
-      - office: Electorate
+        twitter: http://twitter.com/ScottMorrisonMP
+        facebook: http://www.facebook.com/pages/Scott-Morrison/101546263223119
+      electorate:
         postal: PO Box 1306, Cronulla, NSW 2230
         fax: (02) 9523 8959
         phone: (02) 9523 0339
 
-  - name: Shayne Kenneth  Neumann
+  - name: Shayne Kenneth Neumann
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -1698,18 +1946,21 @@ people:
     roles:
       - Member for Blair
     party: ALP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4755
         fax: (02) 6277 8533
-      - office: Electorate
+        twitter: http://twitter.com/ShayneNeumannMP
+        facebook: https://www.facebook.com/shayne.neumann
+      electorate:
         postal: PO Box 5117, Brassall, Qld 4305
         fax: (07) 3201 5311
         phone: (07) 3201 5300
         tollfree: 1300 792 714
 
-  - name: Andrew Alexander  Nikolic
+  - name: Andrew Alexander Nikolic
     title: Mr
     salutation: Dear Mr
     suffix: AM, CSC, MP
@@ -1717,12 +1968,15 @@ people:
     roles:
       - Member for Bass
     party: LP
-    state: Tas
+    polities:
+      - Tasmania
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4954
         fax: (02) 6277 2273
-      - office: Electorate
+        twitter: http://twitter.com/JohnAlexanderMP
+        facebook: http://www.facebook.com/profile.php?id=100001834307725
+      electorate:
         postal: PO Box 5035, Launceston, Tas 7250
         fax: (03) 63347055
         phone: (03) 63347033
@@ -1736,12 +1990,14 @@ people:
     roles:
       - Member for Gorton
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4105
         fax: (02) 6277 2286
-      - office: Electorate
+        facebook: https://www.facebook.com/pages/Brendan-OConnor-MP/287789063686?sk=info
+      electorate:
         postal: Suite 1 Level 2 13-15 Lake Street, Caroline Springs, Vic 3023
         fax: (03) 8358 4245
         phone: (03) 8390 6166
@@ -1754,12 +2010,13 @@ people:
     roles:
       - Member for Flynn
     party: Nats
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4380
         fax: (02) 6277 8495
-      - office: Electorate
+      electorate:
         postal: 76 Goondoon Street, Gladstone, Qld 4680
         fax: (07) 4972 0888
         phone: (07) 4972 5465
@@ -1772,17 +2029,20 @@ people:
     roles:
       - Member for Higgins
     party: LP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4155
         fax: (02) 6277 8453
-      - office: Electorate
+        twitter: http://twitter.com/kellyodwyer
+        facebook: http://www.facebook.com/pages/Kelly-ODwyer/171601117783
+      electorate:
         postal: Suite 1, 1343 Malvern Road, Malvern, Vic 3144
         fax: (03) 9822 0319
         phone: (03) 9822 4422
 
-  - name: Clare Ellen  O'Neil
+  - name: Clare Ellen O'Neil
     title: Ms
     salutation: Dear Ms
     suffix: MP
@@ -1790,17 +2050,20 @@ people:
     roles:
       - Member for Hotham
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4907
         fax: (02) 6277 2347
-      - office: Electorate
+        twitter: https://twitter.com/clare_oneil
+        facebook: https://www.facebook.com/ClareforHotham
+      electorate:
         postal: PO Box 5295, Clayton, Vic 3168
         fax: (03) 9545 6299
         phone: (03) 9545 6211
 
-  - name: Julie   Owens
+  - name: Julie Owens
     title: Ms
     salutation: Dear Ms
     suffix: MP
@@ -1808,13 +2071,17 @@ people:
     roles:
       - Member for Parramatta
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4134
         fax: (02) 6277 8433
-      - office: Electorate
-        postal: Suite 1, 25 Smith Street (Entry via Macquarie Street, opposite the Post Office), Parramatta, NSW 2150
+        twitter: http://twitter.com/JulieOwensMP
+        facebook: http://www.facebook.com/julie.owens.mp
+      electorate:
+        postal: Suite 1, 25 Smith Street (Entry via Macquarie Street, opposite the Post
+          Office), Parramatta, NSW 2150
         fax: (02) 9689 3813
         phone: (02) 9689 1455
 
@@ -1826,17 +2093,20 @@ people:
     roles:
       - Member for Fairfax
     party: PUP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4372
         fax: (02) 6277 8484
-      - office: Electorate
+        twitter: https://twitter.com/CliveFPalmer
+        facebook: https://www.facebook.com/pages/Palmer-United-Party/331204223675563?ref=ts&fref=ts
+      electorate:
         postal: PO Box 1978, Sunshine Plaza, Qld 4558
         fax: (07) 5443 5333
         phone: (07) 5479 2800
 
-  - name: Melissa   Parke
+  - name: Melissa Parke
     title: The Honourable
     salutation: Dear Ms
     suffix: MP
@@ -1844,17 +2114,19 @@ people:
     roles:
       - Member for Fremantle
     party: ALP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4504
         fax: 6277 2237
-      - office: Electorate
+        facebook: https://www.facebook.com/MelissaParkeMP
+      electorate:
         postal: PO Box 1224, Fremantle, WA 6959
         fax: (08) 9336 1059
         phone: (08) 9335 8555
 
-  - name: Antony  'Tony' Pasin
+  - name: Antony 'Tony' Pasin
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -1862,17 +2134,20 @@ people:
     roles:
       - Member for Barker
     party: LP
-    state: SA
+    polities:
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4864
         fax: (02) 6277 4865
-      - office: Electorate
-        postal: Shop 17, Murray Bridge Market Place, South Terrace, Murray Bridge, SA 5253
+        facebook: https://www.facebook.com/pages/Tony-Pasin-Liberal-Candidate-for-Barker/250684105072363
+      electorate:
+        postal: Shop 17, Murray Bridge Market Place, South Terrace, Murray Bridge, SA
+          5253
         fax: (08) 8531 2124
         phone: (08) 8531 2466
 
-  - name: Graham Douglas  Perrett
+  - name: Graham Douglas Perrett
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -1880,12 +2155,15 @@ people:
     roles:
       - Member for Moreton
     party: ALP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4542
         fax: (02) 6277 8419
-      - office: Electorate
+        twitter: http://www.twitter.com/GrahamPerrettMP
+        facebook: http://www.facebook.com/profile.php?id=660999841
+      electorate:
         postal: PO Box 419, Sunnybank Plaza, Sunnybank, Qld 4109
         fax: (07) 3344 4276
         phone: (07) 3344 2622
@@ -1898,17 +2176,19 @@ people:
     roles:
       - Member for Hinkler
     party: Nats
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4122
         fax: (02) 6277 2394
-      - office: Electorate
+        facebook: https://www.facebook.com/KeithPittMP
+      electorate:
         postal: PO Box 535, Bundaberg, Qld 4670
         fax: (07) 4153 1752
         phone: (07) 4152 0744
 
-  - name: Tanya Joan  Plibersek
+  - name: Tanya Joan Plibersek
     title: The Honourable
     salutation: Dear Ms
     suffix: MP
@@ -1917,12 +2197,14 @@ people:
       - Deputy Leader of the Opposition
       - Member for Sydney
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4404
         fax: (02) 6277 2212
-      - office: Electorate
+        twitter: http://twitter.com/tanya_plibersek
+      electorate:
         postal: 150 Broadway, Broadway, NSW 2007
         fax: (02) 9379 0701
         phone: (02) 9379 0700
@@ -1935,17 +2217,19 @@ people:
     roles:
       - Member for Pearce
     party: LP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4275
         fax: (02) 6277 2231
-      - office: Electorate
+        facebook: http://www.facebook.com/christianportermp
+      electorate:
         postal: PO Box 1005, Midland, WA 6936
         fax: (08) 9294 2888
         phone: (08) 9294 3222
 
-  - name: Jane   Prentice
+  - name: Jane Prentice
     title: Mrs
     salutation: Dear Mrs
     suffix: MP
@@ -1953,17 +2237,20 @@ people:
     roles:
       - Member for Ryan
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4426
         fax: (02) 6277 8512
-      - office: Electorate
+        twitter: http://twitter.com/JanePrentice_MP
+        facebook: https://www.facebook.com/jprenticemp
+      electorate:
         postal: PO Box 704, Indooroopilly, Qld 4068
         fax: (07) 3378 1399
         phone: (07) 3378 1599
 
-  - name: Melissa Lee  Price
+  - name: Melissa Lee Price
     title: Ms
     salutation: Dear Ms
     suffix: MP
@@ -1971,36 +2258,43 @@ people:
     roles:
       - Member for Durack
     party: LP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4242
         fax: (02) 6277 8554
-      - office: Electorate
+        facebook: https://www.facebook.com/pages/Melissa-Price-Durack/146533948886081
+      electorate:
         postal: 2B/209 Foreshore Drive, Geraldton, WA 6530
         fax: (08) 9921 7990
         phone: (08) 9964 2195
 
-  - name: Christopher Maurice  Pyne
+  - name: Christopher Maurice Pyne
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
     gender: male
     roles:
-      - Minister for Education, Leader of the House
+      - Minister for Education
+      - Leader of the House
       - Member for Sturt
     party: LP
-    state: SA
+    polities:
+      - Australia
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7350
         fax: (02) 6273 4134
-      - office: Electorate
+        twitter: https://www.twitter.com/C_Pyne_MP
+        facebook: https://www.facebook.com/christopher.pyne
+      electorate:
         postal: 429 Magill Road, St Morris, SA 5068
         fax: (08) 8431 2288
         phone: (08) 8431 2277
 
-  - name: Rowan Eric  Ramsey
+  - name: Rowan Eric Ramsey
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -2008,18 +2302,19 @@ people:
     roles:
       - Member for Grey
     party: LP
-    state: SA
+    polities:
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4967
         fax: (02) 6277 8440
-      - office: Electorate
+      electorate:
         postal: PO Box 296, Port Pirie, SA 5540
         fax: (08) 8633 1749
         phone: (08) 8633 1744
         tollfree: 1300 301 742
 
-  - name: Don James  Randall
+  - name: Don James Randall
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -2027,12 +2322,13 @@ people:
     roles:
       - Member for Canning
     party: LP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 2090
         fax: (02) 6277 8425
-      - office: Electorate
+      electorate:
         postal: PO Box 465, Kelmscott, WA 6111
         fax: (08) 9390 1255
         phone: (08) 9390 1211
@@ -2045,17 +2341,20 @@ people:
     roles:
       - Member for Oxley
     party: ALP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4934
         fax: (02) 6277 8584
-      - office: Electorate
+        twitter: http://twitter.com/bernieripoll_mp
+        facebook: http://www.facebook.com/pages/Bernie-Ripoll/47126097966
+      electorate:
         postal: PO Box 4042, Forest Lake, Qld 4078
         fax: (07) 38796441
         phone: (07) 38796440
 
-  - name: Amanda Louise  Rishworth
+  - name: Amanda Louise Rishworth
     title: The Honourable
     salutation: Dear Ms
     suffix: MP
@@ -2063,18 +2362,21 @@ people:
     roles:
       - Member for Kingston
     party: ALP
-    state: SA
+    polities:
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 2293
         fax: (02) 6277 8498
-      - office: Electorate
+        twitter: http://twitter.com/AmandaRishworth
+        facebook: http://www.facebook.com/rishworth
+      electorate:
         postal: 232 Main South Road, Morphett Vale, SA 5162
         fax: (08) 8186 2688
         phone: (08) 8186 2588
         tollfree: 1300 797 211
 
-  - name: Andrew John  Robb
+  - name: Andrew John Robb
     title: The Honourable
     salutation: Dear Mr
     suffix: AO, MP
@@ -2083,17 +2385,19 @@ people:
       - Minister for Trade and Investment
       - Member for Goldstein
     party: LP
-    state: Vic
+    polities:
+      - Australia
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7420
         fax: (02) 6273 4128
-      - office: Electorate
+      electorate:
         postal: 368 Centre Road, Bentleigh, Vic 3204
         fax: (03) 9557 2906
         phone: (03) 9557 4644
 
-  - name: Stuart Rowland  Robert
+  - name: Stuart Rowland Robert
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -2102,12 +2406,14 @@ people:
       - Assistant Minister for Defence
       - Member for Fadden
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7730
         fax: (02) 6273 3897
-      - office: Electorate
+        twitter: http://twitter.com/stuartrobertmp
+      electorate:
         postal: PO Box 733, Biggera Waters, Qld 4216
         fax: (07) 5500 5484
         phone: (07) 5500 5919
@@ -2120,17 +2426,20 @@ people:
     roles:
       - Member for Greenway
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4833
         fax: (02) 6277 8586
-      - office: Electorate
+        twitter: http://twitter.com/MRowlandMP
+        facebook: http://www.facebook.com/mrowlandmp
+      electorate:
         postal: PO Box 686, Seven Hills, NSW 1730
         fax: (02) 9671 5147
         phone: (02) 9671 4780
 
-  - name: Wyatt  'Wyatt' Roy
+  - name: Wyatt 'Wyatt' Roy
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -2138,17 +2447,20 @@ people:
     roles:
       - Member for Longman
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4646
         fax: (02) 6277 8539
-      - office: Electorate
+        twitter: http://twitter.com/Wyatt_Roy_MP
+        facebook: http://www.facebook.com/wyatt.roy1
+      electorate:
         postal: PO Box 825, Morayfield, Qld 4506
         fax: (07) 5428 6800
         phone: (07) 5428 7755
 
-  - name: Philip Maxwell  Ruddock
+  - name: Philip Maxwell Ruddock
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -2157,12 +2469,13 @@ people:
       - Chief Government Whip
       - Member for Berowra
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4088
         fax: (02) 6277 8468
-      - office: Electorate
+      electorate:
         postal: PO Box 743, Pennant Hills, NSW 1715
         fax: (02) 9980 1833
         phone: (02) 9980 1822
@@ -2176,17 +2489,20 @@ people:
       - Opposition Whip
       - Member for Lalor
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4398
         fax: (02) 6277 2364
-      - office: Electorate
+        twitter: http://twitter.com/CatherineKingMP
+        facebook: http://www.facebook.com/CatherineKingMP
+      electorate:
         postal: 2/36 Synnot Street, Werribee, Vic 3030
         fax: (03) 9741 6213
         phone: (03) 9742 5800
 
-  - name: Bruce Craig  Scott
+  - name: Bruce Craig Scott
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -2195,12 +2511,13 @@ people:
       - Deputy Speaker
       - Member for Maranoa
     party: Nats
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4949
         fax: (02) 6277 8421
-      - office: Electorate
+      electorate:
         postal: PO Box 641, Dalby, Qld 4405
         fax: (07) 4662 5149
         phone: (07) 4662 2715
@@ -2214,12 +2531,14 @@ people:
     roles:
       - Member for Lindsay
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4270
         fax: (02) 6277 8422
-      - office: Electorate
+        facebook: https://www.facebook.com/liberalforlindsay
+      electorate:
         postal: PO Box 712, Penrith, NSW 2750
         fax: (02) 4732 1812
         phone: (02) 4731 3700
@@ -2233,17 +2552,20 @@ people:
       - Leader of the Opposition
       - Member for Maribyrnong
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4022
         fax: (02) 6277 8562
-      - office: Electorate
+        twitter: http://twitter.com/billshortenmp
+        facebook: http://www.facebook.com/BillShorten
+      electorate:
         postal: PO Box 214, Moonee Ponds, Vic 3039
         fax: (03) 9326 0611
         phone: (03) 9326 1300
 
-  - name: Luke Xavier Linton  Simpkins
+  - name: Luke Xavier Linton Simpkins
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -2251,12 +2573,14 @@ people:
     roles:
       - Member for Cowan
     party: LP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4009
         fax: (02) 6277 8423
-      - office: Electorate
+        facebook: http://www.facebook.com/profile.php?id=1588540248
+      electorate:
         postal: PO Box 219, Kingsway, WA 6065
         fax: (08) 9409 5100
         phone: (08) 9409 4100
@@ -2269,17 +2593,19 @@ people:
     roles:
       - Member for Casey
     party: LP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4284
         fax: (02) 6277 8439
-      - office: Electorate
+        twitter: https://twitter.com/Feeney4Batman
+      electorate:
         postal: PO Box 40, Chirnside Park, Vic 3116
         fax: (03) 9727 0833
         phone: (03) 9727 0799
 
-  - name: Warren Edward  Snowdon
+  - name: Warren Edward Snowdon
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -2287,17 +2613,19 @@ people:
     roles:
       - Member for Lingiari
     party: ALP
-    state: NT
+    polities:
+      - Northern Territory
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4081
         fax: (02) 6277 2088
-      - office: Electorate
+        facebook: http://www.facebook.com/snowdonmp
+      electorate:
         postal: PO Box 4007, Alice Springs, NT 870
         fax: (08) 8952 5922
         phone: (08) 8952 9696
 
-  - name: Andrew John  Southcott
+  - name: Andrew John Southcott
     title: Dr
     salutation: Dear Dr
     suffix: MP
@@ -2305,17 +2633,20 @@ people:
     roles:
       - Member for Boothby
     party: LP
-    state: SA
+    polities:
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4283
         fax: (02) 6277 8476
-      - office: Electorate
+        twitter: http://twitter.com/asouthcottmp
+        facebook: http://www.facebook.com/people/Andrew-Southcott/564332755
+      electorate:
         postal: Level 1, 724 Marion Road, Marion, SA 5043
         fax: (08) 8374 3071
         phone: (08) 8374 0511
 
-  - name: Sharman Nancy  Stone
+  - name: Sharman Nancy Stone
     title: The Honourable Dr
     salutation: Dear Dr
     suffix: MP
@@ -2323,17 +2654,20 @@ people:
     roles:
       - Member for Murray
     party: LP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4477
         fax: (02) 6277 8454
-      - office: Electorate
+        twitter: http://twitter.com/SharmanStone
+        facebook: http://www.facebook.com/profile.php?id=618520734
+      electorate:
         postal: PO Box 884, Shepparton, Vic 3632
         fax: (03) 5821 8429
         phone: (03) 5821 5371
 
-  - name: Ann Elizabeth  Sudmalis
+  - name: Ann Elizabeth Sudmalis
     title: Mrs
     salutation: Dear Mrs
     suffix: MP
@@ -2341,12 +2675,15 @@ people:
     roles:
       - Member for Gilmore
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4141
         fax: (02) 6277 8482
-      - office: Electorate
+        twitter: https://twitter.com/AnnSudmalisMP
+        facebook: https://www.facebook.com/AnnSudmalisMP
+      electorate:
         postal: PO Box 1009, Nowra, NSW 2541
         fax: (02) 4423 1785
         phone: (02) 4423 1782
@@ -2359,17 +2696,19 @@ people:
     roles:
       - Member for Deakin
     party: LP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4847
         fax: (02) 6277 4862
-      - office: Electorate
+        facebook: https://www.facebook.com/Michael.Sukkar.MP
+      electorate:
         postal: PO Box 232, Mitcham, Vic 3132
         fax: (03) 9874 0599
         phone: (03) 9874 1711
 
-  - name: Wayne Maxwell  Swan
+  - name: Wayne Maxwell Swan
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -2377,12 +2716,15 @@ people:
     roles:
       - Member for Lilley
     party: ALP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4311
         fax: (02) 6277 2399
-      - office: Electorate
+        twitter: https://twitter.com/SwannyQLD
+        facebook: http://www.facebook.com/Wayne.Swan.MP
+      electorate:
         postal: PO Box 182, Nundah, Qld 4012
         fax: (07) 3266 4263
         phone: (07) 3266 8244
@@ -2395,12 +2737,15 @@ people:
     roles:
       - Member for Hume
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4662
         fax: (02) 6277 2389
-      - office: Electorate
+        twitter: https://twitter.com/angusjtaylor
+        facebook: https://www.facebook.com/Angustaylor4hume
+      electorate:
         postal: PO Box 700, Goulburn, NSW 2580
         fax: (02) 4822 1029
         phone: (02) 4822 2277
@@ -2413,12 +2758,15 @@ people:
     roles:
       - Member for Wannon
     party: LP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4393
         fax: (02) 6277 8538
-      - office: Electorate
+        twitter: http://twitter.com/DanTehanWannon
+        facebook: https://www.facebook.com/pages/Dan-Tehan-MP/307339209323908
+      electorate:
         postal: 190 Gray Street, Hamilton, Vic 3300
         fax: (03) 5572 1141
         phone: (03) 5572 1100
@@ -2432,17 +2780,20 @@ people:
     roles:
       - Member for Kingsford Smith
     party: ALP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4840
         fax: (02) 6277 4969
-      - office: Electorate
+        twitter: https://twitter.com/MThistlethwaite
+        facebook: https://www.facebook.com/ThistlethwaiteM
+      electorate:
         postal: PO Box 895, Maroubra, NSW 2035
         fax: (02) 9349 8089
         phone: (02) 9349 6007
 
-  - name: Kelvin John  Thomson
+  - name: Kelvin John Thomson
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -2450,31 +2801,39 @@ people:
     roles:
       - Member for Wills
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4633
         fax: (02) 6277 8409
-      - office: Electorate
+        twitter: http://twitter.com/KelvinThomsonMP
+        facebook: http://www.facebook.com/profile.php?id=634701493
+      electorate:
         postal: 3 Munro Street, Coburg, Vic 3058
         fax: (03) 9350 6613
         phone: (03) 9350 5777
 
-  - name: Warren Errol  Truss
+  - name: Warren Errol Truss
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
     gender: male
     roles:
-      - Deputy Prime Minister, Minister for Infrastructure and Regional Development
+      - Deputy Prime Minister
+      - Minister for Infrastructure and Regional Development
       - Member for Wide Bay
     party: Nats
-    state: Qld
+    polities:
+      - Australia
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7680
         fax: (02) 6273 4163
-      - office: Electorate
+        twitter: https://twitter.com/warrentrussmp
+        facebook: https://www.facebook.com/warrentrussmp
+      electorate:
         postal: PO Box 283, Maryborough, Qld 4650
         fax: (07) 4122 3968
         phone: (07) 4121 2936
@@ -2488,17 +2847,20 @@ people:
       - Parliamentary Secretary to the Prime Minister
       - Member for Aston
     party: LP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4354
         fax: (02) 6277 8487
-      - office: Electorate
+        twitter: http://twitter.com/AlanTudgeMP
+        facebook: http://www.facebook.com/alantudgemp
+      electorate:
         postal: Suite 4, Level 1, 420 Burwood Highway, Wantirna South, Vic 3152
         fax: (03) 9887 3893
         phone: (03) 9887 3890
 
-  - name: Malcolm Bligh  Turnbull
+  - name: Malcolm Bligh Turnbull
     title: The Honourable
     salutation: Dear Mr
     suffix: MP
@@ -2507,17 +2869,21 @@ people:
       - Minister for Communications
       - Member for Wentworth
     party: LP
-    state: NSW
+    polities:
+      - Australia
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 7480
         fax: (02) 6273 3776
-      - office: Electorate
+        twitter: http://twitter.com/TurnbullMalcolm
+        facebook: http://www.facebook.com/pages/Malcolm-Turnbull/53772921578
+      electorate:
         postal: PO Box 545, Edgecliff, NSW 2027
         fax: (02) 9327 2533
         phone: (02) 9327 3988
 
-  - name: Maria   Vamvakinou
+  - name: Maria Vamvakinou
     title: Ms
     salutation: Dear Ms
     suffix: MP
@@ -2525,12 +2891,15 @@ people:
     roles:
       - Member for Calwell
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4249
         fax: (02) 6277 8426
-      - office: Electorate
+        twitter: http://twitter.com/MariaVamvakinou
+        facebook: http://en-gb.facebook.com/people/Maria-Vamvakinou-Mp/100000798112750
+      electorate:
         postal: Office 6, 1100 Pascoe Vale Road, Broadmeadows, Vic 3047
         fax: (03) 9309 4255
         phone: (03) 9309 3655
@@ -2543,17 +2912,19 @@ people:
     roles:
       - Member for Forde
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4719
         fax: (02) 6277 8553
-      - office: Electorate
+        twitter: http://twitter.com/bertvanmanen/
+      electorate:
         postal: PO Box 884, Beenleigh, Qld 4207
         fax: (07) 3807 1990
         phone: (07) 3807 6340
 
-  - name: Nickolas   Varvaris
+  - name: Nickolas Varvaris
     title: Mr
     salutation: Dear Mr
     suffix: MP
@@ -2561,12 +2932,14 @@ people:
     roles:
       - Member for Barton
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4626
         fax: (02) 6277 8428
-      - office: Electorate
+        facebook: https://www.facebook.com/nickvarvaris4barton
+      electorate:
         postal: PO Box 32, Kogarah, NSW 2217
         fax: (02) 9587 1544
         phone: (02) 9587 1555
@@ -2579,12 +2952,14 @@ people:
     roles:
       - Member for Bonner
     party: LP
-    state: Qld
+    polities:
+      - Queensland
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4632
         fax: (02) 6277 8535
-      - office: Electorate
+        facebook: http://www.facebook.com/pages/Ross-Vasta/299861623376616
+      electorate:
         postal: 69 Clara Street, Wynnum, Qld 4178
         fax: (07) 3893 3422
         phone: (07) 3893 3488
@@ -2597,12 +2972,15 @@ people:
     roles:
       - Member for Gellibrand
     party: ALP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4537
         fax: (02) 6277 2327
-      - office: Electorate
+        twitter: http://www.twitter.com/GrahamPerrettMP
+        facebook: http://www.facebook.com/profile.php?id=660999841
+      electorate:
         postal: 1 Thomas Holmes Street, Maribyrnong, Vic 3032
         fax: (03) 9317 7477
         phone: (03) 9317 7077
@@ -2615,17 +2993,20 @@ people:
     roles:
       - Member for Braddon
     party: LP
-    state: Tas
+    polities:
+      - Tasmania
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4387
         fax: (02) 6277 2335
-      - office: Electorate
+        twitter: https://twitter.com/brettwhiteleymp
+        facebook: https://www.facebook.com/brettwhiteley.braddon
+      electorate:
         postal: PO Box 908, Burnie, Tas 7320
         fax: (03) 6431 5680
         phone: (03) 6431 1333
 
-  - name: Lucy Elizabeth  Wicks
+  - name: Lucy Elizabeth Wicks
     title: Mrs
     salutation: Dear Mrs
     suffix: MP
@@ -2633,12 +3014,13 @@ people:
     roles:
       - Member for Robertson
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4738
         fax: (02) 6277 4739
-      - office: Electorate
+      electorate:
         postal: PO Box 577, Gosford, NSW 2250
         fax: (02) 4322 2499
         phone: (02) 4322 2400
@@ -2651,12 +3033,15 @@ people:
     roles:
       - Member for Denison
     party: Ind.
-    state: Tas
+    polities:
+      - Tasmania
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4766
         fax: (02) 6277 8579
-      - office: Electorate
+        twitter: http://twitter.com/WilkieMP
+        facebook: http://www.facebook.com/andrewwilkiemp
+      electorate:
         postal: GPO Box 32, Hobart, Tas 7001
         fax: (03) 6223 8560
         phone: (03) 6234 5255
@@ -2669,12 +3054,14 @@ people:
     roles:
       - Member for Hindmarsh
     party: LP
-    state: SA
+    polities:
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4429
         fax: (02) 6277 2375
-      - office: Electorate
+        facebook: https://www.facebook.com/matt.williamsmp
+      electorate:
         postal: Shop 2, 670 Anzac Highway, Glenelg East, SA 5045
         fax: (08) 8376 7888
         phone: (08) 8376 9000
@@ -2687,12 +3074,15 @@ people:
     roles:
       - Member for O'Connor
     party: LP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4101
         fax: (02) 6277 2073
-      - office: Electorate
+        twitter: https://twitter.com/RickWilsonMP
+        facebook: https://www.facebook.com/RickWilsonMP
+      electorate:
         postal: PO Box 10415, Kalgoorlie, WA 6430
         fax: (08) 9021 2033
         phone: (08) 9021 2044
@@ -2705,12 +3095,15 @@ people:
     roles:
       - Member for La Trobe
     party: LP
-    state: Vic
+    polities:
+      - Victoria
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4982
         fax: (02) 6277 4994
-      - office: Electorate
+        twitter: https://twitter.com/JasonWood_MP
+        facebook: https://www.facebook.com/JasonWood.updates
+      electorate:
         postal: PO Box 539, Berwick, Vic 3806
         fax: (03) 9768 9883
         phone: (03) 9768 9164
@@ -2723,12 +3116,13 @@ people:
     roles:
       - Member for Hasluck
     party: LP
-    state: WA
+    polities:
+      - Western Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4707
         fax: (02) 6277 8552
-      - office: Electorate
+      electorate:
         postal: PO Box 325, Forrestfield, WA 6058
         fax: (08) 9359 0197
         phone: (08) 9359 0322
@@ -2741,12 +3135,13 @@ people:
     roles:
       - Member for Makin
     party: ALP
-    state: SA
+    polities:
+      - South Australia
     contact:
-      - office: Parliament
+      parliament:
         phone: (02) 6277 4147
         fax: (02) 6277 8592
-      - office: Electorate
+      electorate:
         postal: PO Box 775, Modbury, SA 5092
         fax: (08) 8265 3900
         phone: (08) 8265 3100
@@ -2755,1172 +3150,1529 @@ people:
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
-    roles:
-      - Leader of the Government in the Senate Minister for Employment Minister Assisting the Prime Minister for the Public Service
-      - Senator for Tasmania
     party: LP
-    state: TAS
+    polities:
+      - Australia
+      - Tasmania
+    roles:
+      - Senator for Tasmania
+      - Minister for Employment
+      - Minister Assisting the Prime Minister for the Public Service
+      - Leader of the Government in the Senate
     contact:
-      - office: Electorate
-        address: Highbury House, 136 Davey Street, Hobart, Tas 7000
+      electorate:
+        address: Highbury House, 136 Davey Street, Hobart, Tas, 7000
         postal: GPO Box 1675, Hobart, Tas, 7001
-        fax: (03) 6224 3709
         phone: (03) 6224 3707
+        fax: (03) 6224 3709
         tollfree: 1300 132 493
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: http://twitter.com/SenatorAbetz
+        facebook: http://www.facebook.com/SenatorAbetz
 
   - name: Christopher John 'Chris' Back
     title: Senator
     salutation: Dear Senator
     gender: male
-    roles:
-      - Second Deputy Government Whip in the Senate
-      - Senator for Western Australia
     party: LP
-    state: WA
+    polities:
+      - Western Autralia
+    roles:
+      - Senator for Western Autralia
     contact:
-      - office: Electorate
-        address: Unit E5, 817 Beeliar Drive, Cockburn Central, WA 6164
+      electorate:
+        address: Unit E5, 817 Beeliar Drive, Cockburn Central, WA, 6164
         postal: PO Box 3468, Success, WA, 6964
-        fax: (08) 9414 8819
-        phone: (08)9414 7288
+        phone: (08) 9414 7288
+        fax: (08)9414 8819
         tollfree: 1300 301 846
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: https://www.twitter.com/C_Pyne_MP
+        facebook: https://www.facebook.com/christopher.pyne
 
   - name: Cory  'Cory' Bernardi
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: LP
+    polities:
+      - South Australia
     roles:
       - Senator for South Australia
-    party: LP
-    state: SA
     contact:
-      - office: Electorate
-        address: 36 Grenfell Street, Kent Town , SA 5067
-        fax: (08) 8362 8579
+      electorate:
+        address: 36 Grenfell Street, Kent Town, SA, 5067
+        postal: PO Box 2192, Kent Town, SA, 5071
         phone: (08) 8362 8600
-        tollfree: 1300 301 647
+        fax: (08) 8362 8579
+        tollfree: 1300 880 569
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Catryna Louise 'Catryna' Bilyk
     title: Senator
     salutation: Dear Senator
     gender: female
-    roles:
-      - Deputy Opposition Whip in the Senate
-      - Senator for Tasmania
     party: ALP
-    state: TAS
+    polities:
+      - Tasmania
+    roles:
+      - Senator for Tasmania
+      - Deputy Opposition Whip in the Senate
     contact:
-      - office: Electorate
-        address: Shop 3, Kingston Plaza, 20 Channel Highway, Kingston, Tas 7050
+      electorate:
+        address: Shop 3, Kingston Plaza, 20 Channel Highway, Kingston, Tas, 7050
         postal: PO Box 320, Kingston, Tas, 7051
-        fax: (03) 6229 4100
         phone: (03) 6229 4444
+        fax: (03) 6229 4100
         tollfree: 1300 855 225
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Simon John 'Simon' Birmingham
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
+    party: LP
+    polities:
+      - South Australia
     roles:
-      - Parliamentary Secretary to the Minister for the Environment
       - Senator for South Australia
-    party: LP
-    state: SA
+      - Parliamentary Secretary to the Minister for the Environment
     contact:
-      - office: Electorate
-        address: 61 Henley Beach Road, Mile End, SA 5031
-        fax: (08) 8354 1655
+      electorate:
+        address: 107 Sir Donald Bradman Drive, Hilton, SA, 5033
+        postal: 107 Sir Donald Bradman Drive, Hilton, SA, 5033
         phone: (08) 8354 1644
+        fax: (08) 8354 1655
         tollfree: 1300 301 638
-
-  - name: Thomas Mark 'Mark' Bishop
-    title: Senator
-    salutation: Dear Senator
-    gender: male
-    roles:
-      - Senator for Western Australia
-    party: ALP
-    state: WA
-    contact:
-      - office: Electorate
-        address: Suite 31, 443 Albany Highway, Victoria Park, WA 6100
-        postal: PO Box 571, Victoria Park, WA, 6979
-        fax: (08) 9472 6200
-        phone: (08) 9472 6177
-        tollfree: 1300 301 726
-
-  - name: Ronald Leslie Doyle 'Ronald' Boswell
-    title: Senator the Hon
-    salutation: Dear Senator
-    gender: male
-    roles:
-      - Senator for Queensland
-    party: Nats
-    state: Qld
-    contact:
-      - office: Electorate
-        address: Level 36, Waterfront Place, 1 Eagle Street, Brisbane, Qld 4000
-        postal: GPO Box 228, Brisbane, Qld, 4001
-        fax: (07) 3001 8151
-        phone: (07) 3001 8150
-        tollfree: 0
-
-  - name: Suzanne Kay 'Sue' Boyce
-    title: Senator
-    salutation: Dear Senator
-    gender: female
-    roles:
-      - Senator for Queensland
-    party: LP
-    state: Qld
-    contact:
-      - office: Electorate
-        address: 349 Sandgate Road, Albion, Qld 4010
-        postal: PO Box 143, Albion DC, Qld, 4010
-        fax: (07) 3862 4244
-        phone: (07) 3862 4044
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: https://twitter.com/Birmo
+        facebook: https://facebook.com/simonbirmingham
 
   - name: George Henry 'George' Brandis
     title: Senator the Hon
     salutation: Dear Senator
-    suffix: QC
     gender: male
-    roles:
-      - Deputy Leader of the Government in the Senate Attorney-General Minister for the Arts Vice-President of the Executive Council
-      - Senator for Queensland
     party: LP
-    state: Qld
+    polities:
+      - Australia
+      - Queensland
+    roles:
+      - Senator for Queensland
+      - Attorney-General
+      - Minister for Arts
+      - Vice-President of the Executive Council
+      - Deputy Leader of the Government in the Senate
     contact:
-      - office: Electorate
-        address: Suite 2, Level 36, Waterfront Place, 1 Eagle Street, Brisbane, Qld 4000
-        postal: GPO Box 228, Brisbane, Qld, 4001
-        fax: (07) 3001 8181
-        phone: (07) 3001 8180
-        tollfree: 0
+      electorate:
+        address: 349 Sandgate Road, Albion, Qld, 4010
+        postal: PO Box 143, Albion DC, Qld, 4010
+        phone: '(07) 3862 4244 '
+        fax: (07) 3862 4044
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Carol Louise 'Carol' Brown
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: ALP
+    polities:
+      - Tasmania
     roles:
       - Senator for Tasmania
-    party: ALP
-    state: TAS
     contact:
-      - office: Electorate
-        address: AMP Building, Ground Floor,, 27 Elizabeth Street,, Hobart, Tas 7001
+      electorate:
+        address: AMP Building, Ground Floor, 27 Elizabeth Street, Hobart, Tas, 7001
         postal: GPO Box 376, Hobart, Tas, 7001
-        fax: (03) 6231 3099
         phone: (03) 6231 0099
+        fax: (03) 6231 3009
         tollfree: 1300 301 532
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        facebook: http://www.facebook.com/louise.markus.mp
+
+  - name: Joseph Warrington 'Joe' Bullock
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    party: ALP
+    polities:
+      - Western Autralia
+    roles:
+      - Senator for Western Autralia
+    contact:
+      electorate:
+        address: Suite 31, 443 Albany Highway, Victoria Park, WA, 6100
+        postal: PO Box 571, Victoria Park, WA, 6979
+        phone: (08) 9472 6177
+        fax: (08) 9472 6200
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: David Christopher 'David' Bushby
     title: Senator
     salutation: Dear Senator
     gender: male
-    roles:
-      - Deputy Government Whip in the Senate
-      - Senator for Tasmania
     party: LP
-    state: TAS
+    polities:
+      - Tasmania
+    roles:
+      - Senator for Tasmania
+      - Government Whip in the Senate
     contact:
-      - office: Electorate
-        address: Level 2,, 18 Ross Avenue,, Rosny Park, Tas 7018
+      electorate:
+        address: Level 2, 18 Ross Avenue, Rosny Park, Tas, 7018
         postal: PO Box 429, Rosny Park, Tas, 7018
-        fax: (03) 6244 8521
         phone: (03) 6244 8533
+        fax: (03) 6244 8521
         tollfree: 1300 134 468
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: https://www.twitter.com/C_Pyne_MP
+        facebook: https://www.facebook.com/christopher.pyne
 
   - name: Douglas Niven 'Doug' Cameron
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
+    party: ALP
+    polities:
+      - New South Wales
     roles:
       - Senator for New South Wales
-    party: ALP
-    state: NSW
     contact:
-      - office: Electorate
-        address: Unit 6, 5 Raymond Road,, Springwood, NSW 2777
+      electorate:
+        address: Unit 6, 5 Raymond Road, Springwood, NSW, 2777
         postal: PO Box 322, Springwood, NSW, 2777
-        fax: (02) 4751 3288
         phone: (02) 4751 4288
+        fax: (02) 4751 3288
         tollfree: 1300 226 005
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        facebook: http://facebook.com/senator.doug.cameron
+
+  - name: Matthew James 'Matthew' Canavan
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    party: NATS
+    polities:
+      - Queensland
+    roles:
+      - Senator for Queensland
+    contact:
+      electorate:
+        address: Tenancy 4E, Level 4, 34 East Street, Rockhampton, Qld, 4700
+        postal: PO Box 737, Rockhampton, Qld, 4700
+        phone: (07) 4927 2003
+        fax: (07) 4927 2004
+        tollfree: 1300 301 887
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Kim John 'Kim' Carr
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
+    party: ALP
+    polities:
+      - Victoria
     roles:
       - Senator for Victoria
-    party: ALP
-    state: VIC
     contact:
-      - office: Electorate
-        address: 62 Lygon Street, Carlton South, Vic 3053
-        fax: (03) 9639 3109
+      electorate:
+        address: 62 Lygon Street, Carlton South, Vic, 3053
+        postal: 62 Lygon Street, Carlton South, Vic, 3053
         phone: (03) 9639 2798
+        fax: (03) 9639 3109
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Michaelia Clare 'Michaelia' Cash
     title: Senator the Hon
     salutation: Dear Senator
     gender: female
-    roles:
-      - Minister Assisting the Prime Minister for Women  Assistant Minister for Immigration and Border Protection
-      - Senator for Western Australia
     party: LP
-    state: WA
+    polities:
+      - Western Autralia
+    roles:
+      - Senator for Western Autralia
+      - Assistant Minister for Immigration and Border Protection
+      - Minister Assisting the Prime Minister for Women
     contact:
-      - office: Electorate
-        address: 44 Outram Street,  West Perth, WA 6005
+      electorate:
+        address: 44 Outram Street, West Perth, WA, 6005
         postal: PO Box 1966, West Perth, WA, 6872
-        fax: (08) 9226 2211
         phone: (08) 9226 2000
+        fax: (08) 9226 2211
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Richard  'Richard' Colbeck
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
-    roles:
-      - Parliamentary Secretary to the Minister for Agriculture
-      - Senator for Tasmania
     party: LP
-    state: TAS
+    polities:
+      - Tasmania
+    roles:
+      - Senator for Tasmania
+      - Parliamentary Secretary to the Minister for Agriculture
     contact:
-      - office: Electorate
-        address: 5-7 Best Street, Devonport, Tas 7310
+      electorate:
+        address: 5-7 Best Street, Devonport, Tas, 7310
         postal: PO Box 603, Devonport, Tas, 7310
-        fax: (03) 6423 5244
         phone: (03) 6424 5960
+        fax: (03) 6423 5244
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Jacinta Mary Ann 'Jacinta' Collins
     title: Senator the Hon
     salutation: Dear Senator
     gender: female
+    party: ALP
+    polities:
+      - Victoria
     roles:
       - Senator for Victoria
-    party: ALP
-    state: VIC
     contact:
-      - office: Electorate
-        address: Ground Floor, 1013 Whitehorse Road, Box Hill, Vic 3128
-        fax: (03) 9890 7122
+      electorate:
+        address: Ground Floor, 1013 Whitehorse Road, Box Hill, Vic, 3128
+        postal: Ground Floor, 1013 Whitehorse Road, Box Hill, Vic, 3128
         phone: (03) 9890 7022
+        fax: (03) 9890 7122
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Stephen Michael 'Stephen' Conroy
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
-    roles:
-      - Deputy Leader of the Opposition in the Senate
-      - Senator for Victoria
     party: ALP
-    state: VIC
+    polities:
+      - Victoria
+    roles:
+      - Senator for Victoria
+      - Deputy Leader of the Opposition in the Senate
     contact:
-      - office: Electorate
-        address: 17 Mason Street, Newport, Vic 3015
-        postal: PO Box 3162, Newport, Vic, 3015
-        fax: (03) 9391 5451
-        phone: (03) 9391 4952
-        tollfree: 1300 131 546
+      electorate:
+        address: Level 4, 4 Treasury Place, Melbourne, Vic, 3002
+        postal: Level 4, 4 Treasury Place, Melbourne, Vic, 3002
+        phone: 03 9650 1188
+        fax: 03 9663 7245
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
-  - name: Mathias  'Mathias' Cormann
+  - name: Stephen Michael 'Stephen' Conroy
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
+    party: ALP
+    polities:
+      - Victoria
     roles:
-      - Minister for Finance
-      - Senator for Western Australia
-    party: LP
-    state: WA
+      - Senator for Victoria
+      - Deputy Leader of the Opposition in the Senate
     contact:
-      - office: Electorate
-        address: Level 38, Exchange Plaza, 2 The Esplanade, Perth, WA 6000
+      electorate:
+        address: 17 Mason Street, Newport, Vic, 3015
+        postal: PO Box 3162, Newport West, Vic, 3015
+        phone: (03) 9391 4952
+        fax: (03) 9391 5451
+        tollfree: 1300 131 546
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+
+  - name: Mathias Hubert Paul 'Mathias' Cormann
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    party: LP
+    polities:
+      - Western Autralia
+    roles:
+      - Senator for Western Autralia
+      - Minister for Finance
+    contact:
+      electorate:
+        address: Level 38, Exchange Plaza, 2 The Esplanade, Perth, WA, 6000
         postal: GPO Box B58, Perth, WA, 6838
-        fax: (08) 9325 6857
         phone: (08) 9325 4227
+        fax: (08) 9325 6857
         tollfree: 1300 301 728
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Sam  'Sam' Dastyari
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: ALP
+    polities:
+      - New South Wales
     roles:
       - Senator for New South Wales
-    party: ALP
-    state: NSW
     contact:
-      - office: Electorate
-        address: Suite 2, 206T Allison Road, Randwick, NSW 2031
+      electorate:
+        address: Suite 2, 206T Allison Road, Randwick, NSW, 2031
         postal: PO Box 717, Randwick, NSW, 2031
-        fax: (02) 9326 5895
         phone: (02) 9326 5987
+        fax: (02) 9326 5895
+        tollfree: 1300 880 904
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+
+  - name: Robert John 'Bob' Day
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    party: FFP
+    polities:
+      - South Australia
+    roles:
+      - Senator for South Australia
+    contact:
+      electorate:
+        address: Commonwealth Parliamentary Offices, Suite 8 Level 13 100 King William
+          Street, Adelaide, SA, 5000
+        postal: Commonwealth Parliamentary Offices, Suite 8 Level 13 100 King William
+          Street, Adelaide, SA, 5000
+        phone: (08) 8205 1080
+        fax: (08) 8205 1085
+        tollfree: 1300 554 166
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Richard  'Richard' Di Natale
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: AG
+    polities:
+      - Victoria
     roles:
       - Senator for Victoria
-    party: AG
-    state: VIC
     contact:
-      - office: Electorate
-        address: Level 4,, 199 Moorabool Street, Geelong, Vic 3220
-        fax: (03) 5221 5100
+      electorate:
+        address: Level 4, 199 Moorabool Street, Geelong, Vic, 3220
+        postal: Level 4, 199 Moorabool Street, Geelong, Vic, 3220
         phone: (03) 5221 4100
+        fax: (03) 5221 5100
         tollfree: 1300 883 502
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: http://www.twitter.com/RichardDiNatale
+        facebook: http://www.facebook.com/SenatorDiNatale
 
   - name: Sean  'Sean' Edwards
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: LP
+    polities:
+      - South Australia
     roles:
       - Senator for South Australia
-    party: LP
-    state: SA
     contact:
-      - office: Electorate
-        address: 187 Grenfell Street, Adelaide, SA 5000
-        fax: (08) 8232 0448
+      electorate:
+        address: 187 Grenfell Street, Adelaide, SA, 5000
+        postal: 187 Grenfell Street, Adelaide, SA, 5000
         phone: (08) 8232 0440
+        fax: (08) 8232 0448
         tollfree: 1300 738 260
-
-  - name: Alan  'Alan' Eggleston
-    title: Senator
-    salutation: Dear Senator
-    gender: male
-    roles:
-      - Senator for Western Australia
-    party: LP
-    state: WA
-    contact:
-      - office: Electorate
-        address: 26 Charles Street, South Perth, WA 6151
-        postal: PO Box 984, South Perth, WA, 6951
-        fax: (08) 9368 6699
-        phone: (08) 9368 6633
-        tollfree: 1300 301 845
-
-  - name: Donald Edward 'Don' Farrell
-    title: Senator the Hon
-    salutation: Dear Senator
-    gender: male
-    roles:
-      - Senator for South Australia
-    party: ALP
-    state: SA
-    contact:
-      - office: Electorate
-        address: Wave Building, Level 5, 19 Gillies Street, Adelaide, SA 5000
-        postal: PO Box 6338, Halifax Street, SA, 5000
-        fax: (08) 8211 7933
-        phone: (08)  8231 8400
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: https://twitter.com/SeanC_Edwards
+        facebook: https://www.facebook.com/Sean.Edwards.Clare
 
   - name: John Philip 'John' Faulkner
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
+    party: ALP
+    polities:
+      - New South Wales
     roles:
       - Senator for New South Wales
-    party: ALP
-    state: NSW
     contact:
-      - office: Electorate
-        address: Suite1, 1 Park Avenue, Drummoyne, NSW 2047
-        fax: (02) 9719 8078
+      electorate:
+        address: Suite1, 1 Park Avenue, Drummoyne, NSW, 2047
+        postal: Suite1, 1 Park Avenue, Drummoyne, NSW, 2047
         phone: (02) 9719 8100
+        fax: (02) 9719 8078
         tollfree: 1300 301 752
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: David Julian 'David' Fawcett
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: LP
+    polities:
+      - South Australia
     roles:
       - Senator for South Australia
-    party: LP
-    state: SA
+      - Deputy Government Whip in the Senate
     contact:
-      - office: Electorate
-        address: Commonwealth Parliament Offices, Suite 4, Level 13, 100 King William Street, Adelaide, SA 5000
-        fax: (08) 8205 1045
+      electorate:
+        address: Commonwealth Parliament Offices, Suite 4, Level 13, 100 King William
+          Street, Adelaide, SA, 5000
+        postal: Commonwealth Parliament Offices, Suite 4, Level 13, 100 King William
+          Street, Adelaide, SA, 5000
         phone: (08) 8205 1040
+        fax: (08) 8205 1045
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Concetta  'Concetta' Fierravanti-Wells
     title: Senator the Hon
     salutation: Dear Senator
     gender: female
-    roles:
-      - Parliamentary Secretary to the Minister for Social Services
-      - Senator for New South Wales
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
+    roles:
+      - Senator for New South Wales
+      - Parliamentary Secretary to the Minister for Social Services
     contact:
-      - office: Electorate
-        address: Suite 1, Level 2,, 6-8 Regent Street,, Wollongong, NSW 2500
+      electorate:
+        address: Suite 1, Level 2,, 6-8 Regent Street,, Wollongong, NSW, 2500
         postal: PO Box 886, Wollongong, NSW, 2520
-        fax: (02) 4226 1733
         phone: (02) 4226 1700
+        fax: (02) 4226 1733
         tollfree: 1300 735 268
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Mitchell Peter 'Mitch' Fifield
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
-    roles:
-      - Manager of Government Business in the Senate Assistant Minister for Social Services
-      - Senator for Victoria
     party: LP
-    state: VIC
-    contact:
-      - office: Electorate
-        address: 42 Florence Street, Mentone, Vic 3194
-        fax: (03) 9584 8347
-        phone: (03) 9584 2455
-        tollfree: 1300 797 110
-
-  - name: Mark Lionel 'Mark' Furner
-    title: Senator
-    salutation: Dear Senator
-    gender: male
+    polities:
+      - Victoria
     roles:
-      - Senator for Queensland
-    party: ALP
-    state: Qld
+      - Senator for Victoria
+      - Manager of Government Business in the Senate
+      - Assistant Minister for Social Services
     contact:
-      - office: Electorate
-        address: Suite 1, Crossroads, 470 Gympie Road, Strathpine, Qld 4500
-        postal: PO Box 2246, Strathpine, Qld, 4500
-        fax: (07) 3881 3755
-        phone: (07) 3881 3710
-        tollfree: 1300 884 489
+      electorate:
+        address: 42 Florence Street, Mentone, Vic, 3194
+        postal: 42 Florence Street, Mentone, Vic, 3194
+        phone: (03) 9584 2455
+        fax: (03) 9584 8347
+        tollfree: 1300 797 110
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Alexander McEachian 'Alex' Gallacher
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: ALP
+    polities:
+      - South Australia
     roles:
       - Senator for South Australia
-    party: ALP
-    state: SA
     contact:
-      - office: Electorate
-        address: 265 Churchill Road, Prospect, SA 5082
-        fax: (08) 8269 6044
+      electorate:
+        address: 265 Churchill Road, Prospect, SA, 5082
+        postal: 265 Churchill Road, Prospect, SA, 5082
         phone: (08) 8269 6022
+        fax: (08) 8269 6044
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Sarah Coral 'Sarah' Hanson-Young
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: AG
+    polities:
+      - South Australia
     roles:
       - Senator for South Australia
-    party: AG
-    state: SA
     contact:
-      - office: Electorate
-        address: Level 7, 147 Pirie Street, Adelaide, SA 5000
+      electorate:
+        address: Level 7, 147 Pirie Street, Adelaide, SA, 5000
+        postal: Level 7, 147 Pirie Street, Adelaide, SA, 5000
+        phone: (08) 8227 0425
         fax: (08) 8227 0426
-        phone: (08)8227 0425
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: William  'Bill' Heffernan
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
+    party: LP
+    polities:
+      - New South Wales
     roles:
       - Senator for New South Wales
-    party: LP
-    state: NSW
     contact:
-      - office: Electorate
-        address: Level 7, 100 William Street, East Sydney, NSW 2011
-        fax: (02) 9357 2800
+      electorate:
+        address: Level 7, 100 William Street, East Sydney, NSW, 2011
+        postal: Level 7, 100 William Street, East Sydney, NSW, 2011
         phone: (02) 9357 2600
+        fax: (02) 9357 2800
         tollfree: 1300 301 796
-
-  - name: John Joseph 'John' Hogg
-    title: Senator the Hon
-    salutation: Dear Senator
-    gender: male
-    roles:
-      - President of the Senate
-      - Senator for Queensland
-    party: ALP
-    state: Qld
-    contact:
-      - office: Electorate
-        address: 876 Old Cleveland Road, Carina, Qld 4152
-        postal: PO Box 615, Carina, Qld, 4152
-        fax: (07) 3843 4077
-        phone: (07) 3843 4066
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: David  'David' Johnston
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
-    roles:
-      - Minister for Defence
-      - Senator for Western Australia
     party: LP
-    state: WA
+    polities:
+      - Australia
+      - Western Autralia
+    roles:
+      - Senator for Western Autralia
+      - Minister for Defence
     contact:
-      - office: Electorate
-        address: 183 Great Eastern Highway, Belmont, WA 6104
-        fax: (08) 9478 1746
+      electorate:
+        address: 183 Great Eastern Highway, Belmont, WA, 6104
+        postal: 183 Great Eastern Highway, Belmont, WA, 6104
         phone: (08) 9478 2088
+        fax: (08) 9478 1746
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
-  - name: Helen  'Helen' Kroger
+  - name: Christopher Ronald 'Chris' Ketter
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    party: ALP
+    polities:
+      - Queensland
+    roles:
+      - Senator for Queensland
+    contact:
+      electorate:
+        address: '''Crossroads'', 454 Gympie Road, Strathpine, Qld, 4500'
+        postal: PO Box 2246, Strathpine Centre, Qld, 4500
+        phone: (07) 3881 3710
+        fax: (07) 3881 3755
+        tollfree: 1300 884 489
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: https://www.twitter.com/C_Pyne_MP
+        facebook: https://www.facebook.com/christopher.pyne
+
+  - name: Jacqui  'Jacqui' Lambie
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: PUP
+    polities:
+      - Tasmania
     roles:
-      - Chief Government Whip in the Senate
-      - Senator for Victoria
-    party: LP
-    state: VIC
+      - Senator for Tasmania
+      - Deputy Leader and Deputy Whip of PUP in the Senate
     contact:
-      - office: Electorate
-        address: Shop 3,, 10-40 Burwood Highway, Burwood East, Vic 3151
-        postal: PO Box 8154, Burwood East, Vic, 3151
-        fax: (03) 9888 0107
-        phone: (03) 9888 0091
+      electorate:
+        address: 29 Wilson Street, Burnie, Tas, 7320
+        postal: 29 Wilson Street, Burnie, Tas, 7320
+        phone: (03) 6431 2233
+        fax: (03) 6431 3200
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+
+  - name: Glenn Patrick 'Glenn' Lazarus
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    party: PUP
+    polities:
+      - Queensland
+    roles:
+      - Senator for Queensland
+      - Leader of the Palmer United Party in the Senate
+    contact:
+      electorate:
+        address: GPO Box 228, Brisbane, Qld, 4001
+        postal: GPO Box 228, Brisbane, Qld, 4001
+        phone: (07) 3001 8940
+        fax: (07) 3001 8948
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+
+  - name: David Ean 'David' Leyonhjelm
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    party: LDP
+    polities:
+      - New South Wales
+    roles:
+      - Senator for New South Wales
+    contact:
+      electorate:
+        address: Level 21, 1 Bligh Street, Sydney, NSW, 2000
+        postal: PO Box 636, Drummoyne, NSW, 1470
+        phone: (02) 8289 9820
+        fax: (02) 8289 9829
+        tollfree: 1300 884 092
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: https://twitter.com/DavidLeyonhjelm
+        facebook: https://www.facebook.com/DavidLeyonhjelmLiberalDemocrats
 
   - name: Susan  'Sue' Lines
     title: Senator
     salutation: Dear Senator
     gender: female
-    roles:
-      - Senator for Western Australia
     party: ALP
-    state: WA
+    polities:
+      - Western Autralia
+    roles:
+      - Senator for Western Autralia
     contact:
-      - office: Electorate
-        address: 51 Ord Street, West Perth, WA 6005
+      electorate:
+        address: 51 Ord Street, West Perth, WA, 6005
         postal: PO Box 1322, West Perth, WA, 6872
-        fax: 08) 9481 4244
         phone: (08) 9481 4844
+        fax: (08) 9481 4244
+        tollfree: 1300 655 388
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Scott  'Scott' Ludlam
     title: Senator
     salutation: Dear Senator
     gender: male
-    roles:
-      - Senator for Western Australia
     party: AG
-    state: WA
+    polities:
+      - Western Autralia
+    roles:
+      - Senator for Western Autralia
     contact:
-      - office: Electorate
-        address: 8 Cantonment Street, Fremantle, WA 6160
-        fax: (08) 9335 7499
+      electorate:
+        address: 8 Cantonment Street, Fremantle, WA, 6160
+        postal: 8 Cantonment Street, Fremantle, WA, 6160
         phone: (08) 9335 7477
+        fax: (08) 9335 7499
         tollfree: 1300 733 450
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Joseph William 'Joseph' Ludwig
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
+    party: ALP
+    polities:
+      - Queensland
     roles:
       - Senator for Queensland
-    party: ALP
-    state: Qld
     contact:
-      - office: Electorate
-        address: Waterfront Place,, 1 Eagle Street, Brisbane, Qld 4000
-        postal: GPO Box 2477, Brisbane, Qld, 4002
-        fax: (07) 3229 4140
+      electorate:
+        address: Waterfront Place,, 1 Eagle Street, Brisbane, Qld, 4000
+        postal: GPO Box 2477, Brisbane, Qld, 4001
         phone: (07) 3229 4477
+        fax: (07) 3229 4140
         tollfree: 1300 301 944
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Kate Alexandra 'Kate' Lundy
     title: Senator the Hon
     salutation: Dear Senator
     gender: female
-    roles:
-      - Senator for ACT
     party: ALP
-    state: ACT
+    polities:
+      - Australian Capital Territory
+    roles:
+      - Senator for Australian Capital Territory
     contact:
-      - office: Electorate
-        address: Unit A, Ground Floor, Law Society Building, 11 London Circuit, Canberra, ACT 2601
-        fax: (02) 6230 0413
+      electorate:
+        address: Unit A, Ground Floor, Law Society Building, 11 London Circuit, Canberra,
+          ACT, 2601
+        postal: Unit A, Ground Floor, Law Society Building, 11 London Circuit, Canberra,
+          ACT, 2601
         phone: (02) 6230 0411
+        fax: (02) 6230 0413
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Ian Douglas 'Ian' Macdonald
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
+    party: LP
+    polities:
+      - Queensland
     roles:
       - Senator for Queensland
-    party: LP
-    state: Qld
     contact:
-      - office: Electorate
-        address: Level 1, 131 Denham Street, Townsville, Qld 4810
+      electorate:
+        address: Level 1, 131 Denham Street, Townsville, Qld, 4810
         postal: PO Box 2185, Townsville, Qld, 4810
-        fax: (07) 4771 3411
         phone: (07) 4771 3066
+        fax: (07) 4771 3411
         tollfree: 1300 301 949
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: John Joseph 'John' Madigan
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: DLP
+    polities:
+      - Victoria
     roles:
       - Senator for Victoria
-    party: DLP
-    state: VIC
     contact:
-      - office: Electorate
-        address: 17 Albert Street, Ballarat , Vic 3350
+      electorate:
+        address: 17 Albert Street, Ballarat, Vic, 3350
+        postal: 17 Albert Street, Ballarat, Vic, 3350
+        phone: (03) 5331 2321
         fax: (03) 5331 2476
-        phone: (03)5331 2321
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Gavin Mark 'Gavin' Marshall
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: ALP
+    polities:
+      - Victoria
     roles:
       - Senator for Victoria
-    party: ALP
-    state: VIC
+      - Deputy President of the Senate
+      - Chair of Committees
     contact:
-      - office: Electorate
-        address: 376 Victoria Street, North Melbourne, Vic 3051
-        fax: (03) 9348 9837
+      electorate:
+        address: 376 Victoria Street, North Melbourne, Vic, 3051
+        postal: 376 Victoria Street, North Melbourne, Vic, 3051
         phone: (03) 9348 9699
+        fax: (03) 9348 9837
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Brett  'Brett' Mason
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
-    roles:
-      - Parliamentary Secretary to the Minister for Foreign Affairs
-      - Senator for Queensland
     party: LP
-    state: Qld
+    polities:
+      - Queensland
+    roles:
+      - Senator for Queensland
+      - Parliamentary Secretary to the Minister for Foreign Affairs
     contact:
-      - office: Electorate
-        address: 2166 Logan Road, Upper Mount Gravatt, Qld 4122
-        fax: (07) 3422 1991
+      electorate:
+        address: 2166 Logan Road, Upper Mount Gravatt, Qld, 4122
+        postal: 2166 Logan Road, Upper Mount Gravatt, Qld, 4122
         phone: (07) 3422 1990
+        fax: (07) 3422 1991
         tollfree: 1300 301 952
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Anne  'Anne' McEwen
     title: Senator
     salutation: Dear Senator
     gender: female
-    roles:
-      - Opposition Whip in the Senate
-      - Senator for South Australia
     party: ALP
-    state: SA
+    polities:
+      - South Australia
+    roles:
+      - Senator for South Australia
+      - Opposition Whip in the Senate
     contact:
-      - office: Electorate
-        address: Ground Floor, 101 Henley Beach Road, Mile End , SA 5031
+      electorate:
+        address: Ground Floor, 101 Henley Beach Road, Mile End, SA, 5031
         postal: PO Box 55, Torrensville Plaza, SA, 5031
-        fax: (08) 8234 1165
         phone: (08) 8352 7477
+        fax: (08) 8234 1165
         tollfree: 1300 889 477
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+
+  - name: James  'James' McGrath
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    party: LP
+    polities:
+      - Queensland
+    roles:
+      - Senator for Queensland
+    contact:
+      electorate:
+        address: Tenancy 64, Level 3, 52-64 Currie Street, Nambour, Qld, 4560
+        postal: PO Box 722, Nambour, Qld, 4560
+        phone: (07) 5441 1800
+        fax: (07) 5441 1699
+        tollfree: 1300 769 412
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: http://twitter.com/JamesMcGrathLNP
+        facebook: http://facebook.com/McGrath4Senate
 
   - name: Bridget  'Bridget' McKenzie
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: NATS
+    polities:
+      - Victoria
     roles:
-      - The Nationals Whip in the Senate
       - Senator for Victoria
-    party: Nats
-    state: VIC
     contact:
-      - office: Electorate
-        address: 279 Hargreaves Street, Bendigo, Vic 3550
-        fax: (03) 5441 4260
+      electorate:
+        address: 279 Hargreaves Street, Bendigo, Vic, 3550
+        postal: PO Box 2047, Delivery Centre,, Bendigo, Vic, 3554
         phone: (03) 5441 4251
+        fax: (03) 5441 4260
+        tollfree: 1300 889 103
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Jan  'Jan' McLucas
     title: Senator the Hon
     salutation: Dear Senator
     gender: female
+    party: ALP
+    polities:
+      - Queensland
     roles:
       - Senator for Queensland
-    party: ALP
-    state: Qld
     contact:
-      - office: Electorate
-        address: MacDonnells Solicitors Building, Cnr Shields and Grafton Streets, Cairns, Qld 4870
+      electorate:
+        address: MacDonnells Solicitors Building, Cnr Shields and Grafton Streets, Cairns,
+          Qld, 4870
         postal: PO Box 2733, Cairns, Qld, 4870
-        fax: (07) 4031 6167
         phone: (07) 4031 6009
+        fax: (07) 4031 6167
         tollfree: 1300 301 959
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Christine  'Christine' Milne
     title: Senator
     salutation: Dear Senator
     gender: female
-    roles:
-      - Leader of the Australian Greens
-      - Senator for Tasmania
     party: AG
-    state: TAS
+    polities:
+      - Tasmania
+    roles:
+      - Senator for Tasmania
+      - Leader of the Australian Greens
     contact:
-      - office: Electorate
-        address: Level 1, Murray Street Pier, Murray Street, Hobart, Tas 7000
+      electorate:
+        address: Level 1, Murray Street Pier, Murray Street, Hobart, Tas, 7000
         postal: GPO Box 896, Hobart, Tas, 7001
-        fax: (03) 6224 7599
         phone: (03) 6224 8899
+        fax: (03) 6224 7599
         tollfree: 1300 131 720
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Claire Mary 'Claire' Moore
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: ALP
+    polities:
+      - Queensland
     roles:
       - Senator for Queensland
-    party: ALP
-    state: Qld
     contact:
-      - office: Electorate
-        address: Suite 14 B, 1st Floor Brunswick Central, 421 Brunswick Street, Fortitude Valley, Qld 4006
+      electorate:
+        address: Suite 14 B, 1st Floor Brunswick Central, 421 Brunswick Street, Fortitude
+          Valley, Qld, 4006
         postal: PO Box 907, Fortitude Valley Post Shop, Fortitude Valley, Qld, 4006
-        fax: (07) 3252 8957
         phone: (07) 3252 7101
+        fax: (07) 3252 8957
         tollfree: 1300 301 879
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+
+  - name: Ricky Lee 'Ricky' Muir
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    party: AMEP
+    polities:
+      - Victoria
+    roles:
+      - Senator for Victoria
+    contact:
+      electorate:
+        address: Level 4, Treasury Place, Melbourne, Vic, 3002
+        postal: Level 4, Treasury Place, Melbourne, Vic, 3002
+        phone: (03) 9660 6520
+        fax: (03) 9660 6529
+        tollfree: 1300 965 848
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Fiona  'Fiona' Nash
     title: Senator the Hon
     salutation: Dear Senator
     gender: female
+    party: NATS
+    polities:
+      - New South Wales
     roles:
-      - Deputy Leader of The Nationals in the Senate Assistant Minister for Health
       - Senator for New South Wales
-    party: Nats
-    state: NSW
+      - Deputy Leader of The Nationals in the Senate
+      - Assistant Minister for Health
     contact:
-      - office: Electorate
-        address: 79 Main Street, Young, NSW 2594
-        fax: (02) 6382 3499
+      electorate:
+        address: 79 Main Street, Young, NSW, 2594
+        postal: 79 Main Street, Young, NSW, 2594
         phone: (02) 6382 3400
+        fax: (02) 6382 3499
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
-  - name: Deborah Mary 'Deborah ' O'Neill
+  - name: Deborah  'Deborah' O'Neill
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: ALP
+    polities:
+      - New South Wales
     roles:
       - Senator for New South Wales
-    party: ALP
-    state: NSW
     contact:
-      - office: Electorate
-        address: Suite 3.12, The Platinum Building, 4 Ilya Avenue, Erina, NSW 2250
-        fax: (02) 4367 3506
+      electorate:
+        address: Suite 3.12, The Platinum Building, 4 Ilya Avenue, Erina, NSW, 2250
+        postal: Suite 3.12, The Platinum Building, 4 Ilya Avenue, Erina, NSW, 2250
         phone: (02) 4367 4565
+        fax: (02) 4367 3506
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Barry James 'Barry' O'Sullivan
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: NATS
+    polities:
+      - Queensland
     roles:
       - Senator for Queensland
-    party: Nats
-    state: Qld
+      - Nationals Whip in the Senate
     contact:
-      - office: Electorate
-        address: Capital Place, 195 Hume Street, Toowoomba, Qld 4350
+      electorate:
+        address: Capital Place, 195 Hume Street, Toowoomba, Qld, 4350
         postal: PO Box 3135, Toowoomba, Qld, 4350
-        fax: (07) 4638 7199
         phone: (07) 4638 7555
+        fax: (07) 4638 7199
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Stephen  'Stephen' Parry
-    title: Senator
+    title: Senator the Hon
     salutation: Dear Senator
     gender: male
-    roles:
-      - Deputy President and Chairman of Committees
-      - Senator for Tasmania
     party: LP
-    state: TAS
+    polities:
+      - Tasmania
+    roles:
+      - Senator for Tasmania
+      - President of the Senate
     contact:
-      - office: Electorate
-        address: 33 George Street, Launceston, Tas 7250
-        fax: (03) 6431 7455
-        phone: (03) 6334 1624
+      electorate:
+        address: 33 George Street, Launceston, Tas, 7250
+        postal: 33 George Street, Launceston, Tas, 7250
+        phone: (03) 6334 1755
+        fax: (03) 6334 1624
         tollfree: 1300 760 788
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Marise Ann 'Marise' Payne
     title: Senator the Hon
     salutation: Dear Senator
     gender: female
-    roles:
-      - Minister for Human Services
-      - Senator for New South Wales
     party: LP
-    state: NSW
+    polities:
+      - New South Wales
+    roles:
+      - Senator for New South Wales
+      - Minister for Human Services
     contact:
-      - office: Electorate
-        address: 2-12 Macquarie Street, Parramatta, NSW 2150
+      electorate:
+        address: 2-12 Macquarie Street, Parramatta, NSW, 2150
         postal: PO Box 1420, Parramatta, NSW, 2150
-        fax: (02) 9687 8466
         phone: (02) 9687 8755
+        fax: (02) 9687 8466
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Nova Maree 'Nova' Peris
     title: Senator
     salutation: Dear Senator
-    suffix: OAM
     gender: female
-    roles:
-      - Senator for NT
     party: ALP
-    state: NT
+    polities:
+      - Northern Territory
+    roles:
+      - Senator for Northern Territory
     contact:
-      - office: Electorate
-        address: 38B Mitchell Street, Darwin, NT O800
-        postal: GPO Box 1596 , Darwin, NT, O801
-        fax: (08) 8941 0071
+      electorate:
+        address: 38B Mitchell Street, Darwin, NT, 800
+        postal: GPO Box 1596, Darwin, NT, 801
         phone: (08) 8941 0003
+        fax: (08) 8941 0071
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Helen  'Helen' Polley
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: ALP
+    polities:
+      - Tasmania
     roles:
       - Senator for Tasmania
-    party: ALP
-    state: TAS
     contact:
-      - office: Electorate
-        address: The Charles, Suite 101, 287 Charles Street, Launceston, Tas 7250
+      electorate:
+        address: '''The Charles'', Suite 101, 287 Charles Street, Launceston, Tas, 7250'
         postal: PO Box 1223, Launceston, Tas, 7250
-        fax: (03) 6331 2588
         phone: (03) 6331 2599
+        fax: (03) 6331 2588
         tollfree: 1300 134 923
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
-  - name: Louise Clare 'Louise' Pratt
+  - name: Linda Karen 'Linda' Reynolds
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: LP
+    polities:
+      - Western Autralia
     roles:
-      - Senator for Western Australia
-    party: ALP
-    state: WA
+      - Senator for Western Autralia
     contact:
-      - office: Electorate
-        address: 81 Bennett Street, East Perth, WA 6004
-        postal: PO Box 6120, East Perth, WA, 6892
-        fax: (08) 9225 7677
-        phone: (08) 9225 4411
-        tollfree: 1300 301 874
+      electorate:
+        address: 26 Charles Street, South Perth, WA, 6151
+        postal: PO Box 984, South Perth, WA, 6951
+        phone: (08) 9368 6633
+        fax: (08) 9368 6699
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Lee  'Lee' Rhiannon
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: AG
+    polities:
+      - New South Wales
     roles:
       - Senator for New South Wales
-    party: AG
-    state: NSW
     contact:
-      - office: Electorate
-        address: 72 Campbell Street, Surry Hills, NSW 2010
-        fax: (02) 9252 0180
-        phone: (02) 9241 6966
+      electorate:
+        address: 72 Campbell Street, Surry Hills, NSW, 2010
+        postal: 72 Campbell Street, Surry Hills, NSW, 2010
+        phone: (02) 9211 9523
+        fax: (02) 9211 3312
+        tollfree: 1300 887 869
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+
+  - name: Janet Elizabeth 'Janet' Rice
+    title: Senator
+    salutation: Dear Senator
+    gender: female
+    party: AG
+    polities:
+      - Victoria
+    roles:
+      - Senator for Victoria
+    contact:
+      electorate:
+        address: 240 Sydney Road, Coburg, Vic, 3058
+        postal: PO Box 83, Coburg, Vic, 3058
+        phone: (03) 9384 6199
+        fax: (03) 9384 6399
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Michael  'Michael' Ronaldson
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
-    roles:
-      - Minister for Veteransí Affairs  Minister Assisting the Prime Minister for the Centenary of ANZAC  Special Minister of State
-      - Senator for Victoria
     party: LP
-    state: VIC
+    polities:
+      - Victoria
+    roles:
+      - Senator for Victoria
+      - Minister for Veterans' Affairs
+      - Minister Assisting the Prime Minister for the Centenary of ANZAC
+      - Special Minister of State
     contact:
-      - office: Electorate
-        address: Level 14, 90 Collins Street, Melbourne , Vic 3000
-        fax: (03) 9650 9031
+      electorate:
+        address: Level 14, 90 Collins Street, Melbourne, Vic, 3000
+        postal: Level 14, 90 Collins Street, Melbourne, Vic, 3000
         phone: (03) 9650 0255
+        fax: (03) 9650 9031
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Anne  'Anne' Ruston
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: LP
+    polities:
+      - South Australia
     roles:
       - Senator for South Australia
-    party: LP
-    state: SA
+      - Deputy Government Whip in the Senate
     contact:
-      - office: Electorate
-        address: 9 Renmark Avenue, Renmark, SA 5341
+      electorate:
+        address: 9 Renmark Avenue, Renmark, SA, 5341
         postal: PO Box 1671, Renmark, SA, 5341
-        fax: (08) 8595 1700
         phone: (08) 8586 6600
+        fax: (08) 8595 1700
+        tollfree: 1300 857 022
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Scott Michael 'Scott' Ryan
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
-    roles:
-      - Parliamentary Secretary to the Minister for Education
-      - Senator for Victoria
     party: LP
-    state: VIC
+    polities:
+      - Victoria
+    roles:
+      - Senator for Victoria
+      - Parliamentary Secretary to the Minister for Education
     contact:
-      - office: Electorate
-        address: 12 Pascoe Vale Road, Moonee Ponds, Vic 3039
+      electorate:
+        address: 12 Pascoe Vale Road, Moonee Ponds, Vic, 3039
         postal: PO Box 556, Moonee Ponds, Vic, 3039
-        fax: (03) 9370 9120
         phone: (03) 9326 1088
+        fax: (03) 9370 9120
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Nigel Gregory 'Nigel' Scullion
     title: Senator the Hon
     salutation: Dear Senator
     gender: male
-    roles:
-      - Leader of The Nationals in the Senate Minister for Indigenous Affairs
-      - Senator for NT
     party: CLP
-    state: NT
+    polities:
+      - Australia
+      - Northern Territory
+    roles:
+      - Senator for Northern Territory
+      - Minister for Indigenous Affairs
+      - Leader of The Nationals in the Senate
     contact:
-      - office: Electorate
-        address: Unit 1, 229 McMillans Road, Jingili, NT 810
-        fax: (08) 8948 3544
+      electorate:
+        address: 'Ministerial Office: 1/82 Todd Street, Alice Springs, NT, 870'
+        postal: PO Box 4449, Alice Springs, NT, 871
+        phone: (08) 8952 1131
+        fax: (08) 8952 1195
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+
+  - name: Nigel Gregory 'Nigel' Scullion
+    title: Senator the Hon
+    salutation: Dear Senator
+    gender: male
+    party: CLP
+    polities:
+      - Northern Territory
+    roles:
+      - Senator for Northern Territory
+      - Minister for Indigenous Affairs
+      - Leader of The Nationals in the Senate
+    contact:
+      electorate:
+        address: Unit 1, 229 McMillans Road, Jingili, NT, 810
+        postal: Unit 1, 229 McMillans Road, Jingili, NT, 810
         phone: (08) 8948 3555
+        fax: (08) 8948 3544
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Zdenko Matthew 'Zed' Seselja
     title: Senator
     salutation: Dear Senator
     gender: male
-    roles:
-      - Senator for ACT
     party: LP
-    state: ACT
+    polities:
+      - Australian Capital Territory
+    roles:
+      - Senator for Australian Capital Territory
     contact:
-      - office: Electorate
-        address: Shop B12, Canberra Centre, Bunda Street, Canberra, ACT 2600
-        fax: (02) 6257 4140
+      electorate:
+        address: Shop B12, Canberra Centre, Bunda Street, Canberra, ACT, 2600
+        postal: Shop B12, Canberra Centre, Bunda Street, Canberra, ACT, 2600
         phone: (02) 6247 6444
+        fax: (02) 6257 4140
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Rachel  'Rachel' Siewert
     title: Senator
     salutation: Dear Senator
     gender: female
-    roles:
-      - Australian Greens Whip
-      - Senator for Western Australia
     party: AG
-    state: WA
+    polities:
+      - Western Autralia
+    roles:
+      - Senator for Western Autralia
+      - Australian Greens Whip
     contact:
-      - office: Electorate
-        address: Unit 1, 151 Brisbane Street, Northbridge, WA 6003
-        fax: (08) 9228 4055
+      electorate:
+        address: Unit 1, 151 Brisbane Street, Northbridge, WA, 6003
+        postal: Unit 1, 151 Brisbane Street, Northbridge, WA, 6003
         phone: (08) 9228 3277
+        fax: (08) 9228 4055
         tollfree: 1300 881 218
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Lisa Maria 'Lisa' Singh
     title: Senator the Hon
     salutation: Dear Senator
     gender: female
+    party: ALP
+    polities:
+      - Tasmania
     roles:
       - Senator for Tasmania
-    party: ALP
-    state: TAS
     contact:
-      - office: Electorate
-        address: 152 Macquarie Street, Hobart, Tas 7000
-        fax: (03) 6223 1250
+      electorate:
+        address: 152 Macquarie Street, Hobart, Tas, 7000
+        postal: 152 Macquarie Street, Hobart, Tas, 7000
         phone: (03) 6223 1135
+        fax: (03) 6223 1250
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Arthur  'Arthur' Sinodinos
     title: Senator the Hon
     salutation: Dear Senator
-    suffix: AO
     gender: male
+    party: LP
+    polities:
+      - New South Wales
     roles:
       - Senator for New South Wales
-    party: LP
-    state: NSW
     contact:
-      - office: Electorate
-        address: Angel Place, 123 Pitt Street, Sydney, NSW 2000
-        fax: (02) 9223 4399
+      electorate:
+        address: Level 28, 123 Pitt Street, Sydney, NSW, 2000
+        postal: Level 28, 123 Pitt Street, Sydney, NSW, 2000
         phone: (02) 9223 4388
+        fax: (02) 9223 4399
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Dean Anthony 'Dean' Smith
     title: Senator
     salutation: Dear Senator
     gender: male
-    roles:
-      - Senator for Western Australia
     party: LP
-    state: WA
-    contact:
-      - office: Electorate
-        address: 48 Ventnor Avenue, West Perth, WA 6005
-        postal: PO Box 930, West Perth, WA, 6872
-        fax: (08) 9321 4876
-        phone: (08) 9481 0349
-
-  - name: Ursula  'Ursula' Stephens
-    title: Senator the Hon
-    salutation: Dear Senator
-    gender: female
+    polities:
+      - Western Autralia
     roles:
-      - Senator for New South Wales
-    party: ALP
-    state: NSW
+      - Senator for Western Autralia
     contact:
-      - office: Electorate
-        address: 91 Bourke Street, Goulburn, NSW 2580
-        postal: PO Box 1112, Goulburn, NSW, 2580
-        fax: (02) 4822 8156
-        phone: (02) 4822 8155
-        tollfree: 1300 301 987
+      electorate:
+        address: 48 Ventnor Avenue, West Perth, WA, 6005
+        postal: PO Box 930, West Perth, WA, 6872
+        phone: 08 9481 0349
+        fax: 08 9321 4876
+        tollfree: 1300 301 849
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: http://twitter.com/AlboMP
 
   - name: Glenn  'Glenn' Sterle
     title: Senator
     salutation: Dear Senator
     gender: male
-    roles:
-      - Senator for Western Australia
     party: ALP
-    state: WA
+    polities:
+      - Western Autralia
+    roles:
+      - Senator for Western Autralia
     contact:
-      - office: Electorate
-        address: 6a Market City, 280 Ranford Road, Canning Vale, WA 6155
+      electorate:
+        address: 6a Market City, 280 Ranford Road, Canning Vale, WA, 6155
         postal: Mailpoint 22, Market City, 280 Bannister Road, Canning Vale, WA, 6155
-        fax: (08) 9455 1421
         phone: (08) 9455 1420
+        fax: (08) 9455 1421
         tollfree: 1300 666 494
-
-  - name: Lin Estelle 'Lin' Thorp
-    title: Senator the Hon
-    salutation: Dear Senator
-    gender: female
-    roles:
-      - Senator for Tasmania
-    party: ALP
-    state: TAS
-    contact:
-      - office: Electorate
-        address: Ground Floor, 161 St John Street, Launceston, Tas 7250
-        fax: (03) 6334 2888
-        phone: (03) 6331 9233
-
-  - name: Mehmet  'Mehmet' Tillem
-    title: Senator
-    salutation: Dear Senator
-    gender: male
-    roles:
-      - Senator for Victoria
-    party: ALP
-    state: VIC
-    contact:
-      - office: Electorate
-        address: 240 Sydney Road, Coburg, Vic 3058
-        fax: (03) 9384 6644
-        phone: 03) 9384 6077
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Anne Elizabeth 'Anne' Urquhart
     title: Senator
     salutation: Dear Senator
     gender: female
-    roles:
-      - Deputy  Opposition Whip in the Senate
-      - Senator for Tasmania
     party: ALP
-    state: TAS
+    polities:
+      - Tasmania
+    roles:
+      - Senator for Tasmania
+      - Deputy Opposition Whip in the Senate
     contact:
-      - office: Electorate
-        address: Ground Floor, 69 Best Street , Devonport, Tas 7310
-        fax: (03) 6423 3544
+      electorate:
+        address: Ground Floor, 69 Best Street, Devonport, Tas, 7310
+        postal: PO Box 360, Devonport, Tas, 7310
         phone: (03) 6423 1933
+        fax: (03) 6423 3544
+        tollfree: 1300 792 331
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+
+  - name: Zhenya  'Dio' Wang
+    title: Senator
+    salutation: Dear Senator
+    gender: male
+    party: PUP
+    polities:
+      - Western Autralia
+    roles:
+      - Senator for Western Autralia
+      - PUP Whip in the Senate
+    contact:
+      electorate:
+        address: 81 Bennett Street, East Perth, WA, 6004
+        postal: PO Box 6120, East Perth, WA, 6892
+        phone: (08) 9221 2233
+        fax: (08) 9221 0838
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Larissa Joy 'Larissa' Waters
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: AG
+    polities:
+      - Queensland
     roles:
       - Senator for Queensland
-    party: AG
-    state: Qld
     contact:
-      - office: Electorate
-        address: Level 1, 251 Given Terrace, Paddington, Qld 4064
-        fax: (07) 3367 0577
+      electorate:
+        address: Level 1, 251 Given Terrace, Paddington, Qld, 4064
+        postal: Locked bag 3004, Paddington, Qld, 4064
         phone: (07) 3367 0566
+        fax: (07) 3367 0577
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Peter Stuart 'Peter' Whish-Wilson
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: AG
+    polities:
+      - Tasmania
     roles:
       - Senator for Tasmania
-    party: AG
-    state: TAS
     contact:
-      - office: Electorate
-        address: 37 George Street, Launceston, Tas 7250
+      electorate:
+        address: 37 George Street, Launceston, Tas, 7250
         postal: PO Box 5194, Launceston, Tas, 7250
+        phone: (03) 6331 0033
         fax: (03) 6331 2044
-        phone: (03) 3367 0566
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: https://twitter.com/SenatorSurfer
+        facebook: http://www.facebook.com/senator.peter.whish.wilson?fref=ts
 
   - name: John Reginal 'John' Williams
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: NATS
+    polities:
+      - New South Wales
     roles:
       - Senator for New South Wales
-    party: Nats
-    state: NSW
     contact:
-      - office: Electorate
-        address: 144 Byron Street, Inverell, NSW 2360
-        fax: (02) 6721 4544
+      electorate:
+        address: 144 Byron Street, Inverell, NSW, 2360
+        postal: 144 Byron Street, Inverell, NSW, 2360
         phone: (02) 6721 4500
-        tollfree: 1300 301 815
+        fax: (02) 6721 4544
+        tollfree: 1300 301 816
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Penny  'Penny' Wong
     title: Senator the Hon
     salutation: Dear Senator
     gender: female
-    roles:
-      - Leader of the Opposition in the Senate
-      - Senator for South Australia
     party: ALP
-    state: SA
+    polities:
+      - South Australia
+    roles:
+      - Senator for South Australia
+      - Leader of the Opposition in the Senate
     contact:
-      - office: Electorate
-        address: Level 4, 19 Gouger Street, Adelaide, SA 5000
+      electorate:
+        address: Level 4, 19 Gouger Street, Adelaide, SA, 5000
         postal: PO Box 6237, Halifax Street, Adelaide, SA, 5000
-        fax: (08) 8212 8273
         phone: (08) 8212 8272
+        fax: (08) 8212 8273
         tollfree: 1300 301 698
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
 
   - name: Penelope Lesley 'Penny' Wright
     title: Senator
     salutation: Dear Senator
     gender: female
+    party: AG
+    polities:
+      - South Australia
     roles:
       - Senator for South Australia
-    party: AG
-    state: SA
     contact:
-      - office: Electorate
-        address: Level 3, 27 Leigh Street, Adelaide, SA 5000
+      electorate:
+        address: Level 3, 27 Leigh Street, Adelaide, SA, 5000
         postal: PO Box 8117, Station Arcade, Adelaide, SA, 5000
-        fax: (08) 8410 4599
         phone: (08) 8410 4588
+        fax: (08) 8410 4599
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
+        twitter: http://www.twitter.com/pennywrites
+        facebook: http://www.facebook.com/SenatorPennyWright
 
-  - name: Nicholas 'Nick' Xenophon
+  - name: Nicholas  'Nick' Xenophon
     title: Senator
     salutation: Dear Senator
     gender: male
+    party: IND
+    polities:
+      - South Australia
     roles:
       - Senator for South Australia
-    party: IND
-    state: SA
     contact:
-      - office: Electorate
-        address: Level 2, 31 Ebenezer Place, Adelaide, SA 5000
-        fax: (08) 8232 3744
+      electorate:
+        address: Level 2, 31 Ebenezer Place, Adelaide, SA, 5000
+        postal: Level 2, 31 Ebenezer Place, Adelaide, SA, 5000
         phone: (08) 8232 1144
+        fax: (08) 8232 3744
         tollfree: 1300 556 115
+      parliament:
+        postal: The Senate, Parliament House, Canberra, ACT, 2600
