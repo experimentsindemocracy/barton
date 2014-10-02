@@ -112,28 +112,28 @@ Barton employs a number of data conventions that users need to be aware about.
 The `party` field will map to abbreviations outlined by the [AEC](http://results.aec.gov.au/13745/website/GeneralPartyDetails-13745.htm).
 
 
-  ABBR      |   Party Name
-  -------------------------------------------------
-  ACP       |   Australian Conservative Party  
-  ALP       |   Australian Labor Party  
-  AMEP      |   Australian Motoring Enthusiast Party  
-  ASP       |   Australian Shooters Party  
-  CLP       |   Northern Territory Country Liberal Party  
-  CP        |   Australian Country Party  
-  DEM       |   Australian Democrats  
-  DFD       |   Dignity for Disability  
-  GRN       |   Australian Greens  
-  IND       |   Independent  
-  KAP       |   Katter's Australian Party  
-  LCL       |   Liberal Country League  
-  LCP       |   Liberal Country Party  
-  LNP       |   Liberal National Party of Queensland  
-  LP        |   Liberal Party of Australia (formed in 1946)  
-  NAT       |   Nationalist Party  
-  NCP       |   National Country Party  
-  NP        |   National Party of Australia  
-  PUP       |   Palmer United Party  
-  SFP       |   The Australian Shooters Party/Australian Fishing and Lifestyle Party  
+  ABBR   |   Party Name
+  ----   |   -----------------------------------
+  ACP    |   Australian Conservative Party  
+  ALP    |   Australian Labor Party  
+  AMEP   |   Australian Motoring Enthusiast Party  
+  ASP    |   Australian Shooters Party  
+  CLP    |   Northern Territory Country Liberal Party  
+  CP     |   Australian Country Party  
+  DEM    |   Australian Democrats  
+  DFD    |   Dignity for Disability  
+  GRN    |   Australian Greens  
+  IND    |   Independent  
+  KAP    |   Katter's Australian Party  
+  LCL    |   Liberal Country League  
+  LCP    |   Liberal Country Party  
+  LNP    |   Liberal National Party of Queensland  
+  LP     |   Liberal Party of Australia (formed in 1946)  
+  NAT    |   Nationalist Party  
+  NCP    |   National Country Party  
+  NP     |   National Party of Australia  
+  PUP    |   Palmer United Party  
+  SFP    |   The Australian Shooters Party/Australian Fishing and Lifestyle Party  
 
   
 ## Contributing
