@@ -6,7 +6,7 @@ people:
     suffix: MLA
     roles:
       - Member for Southern River
-    party: LIB  
+    party: LP
     contact:
       electoral:
         address: Unit 4, 2 Furley Road, Southern River WA 6110
@@ -20,7 +20,7 @@ people:
     suffix: MLA
     roles:
       - Member for Swan Hills
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Unit 8, Vale Town Centre, 31 Egerton Drive, Aveley WA 6069
@@ -66,7 +66,7 @@ people:
     roles:
       - Premier; Minister for State Development; Science
       - Member for Cottesloe
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 1 Parliament Place, West Perth WA 6005
@@ -86,7 +86,7 @@ people:
     roles:
       - Minister for Agriculture and Food; Fisheries
       - Member for Mining and Pastoral Region
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 7th Floor, Dumas House, 2 Havelock Street, WEST PERTH WA 6005
@@ -108,7 +108,7 @@ people:
     suffix: MLC
     roles:
       - Member for North Metropolitan Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite 1, 43 Cedric Street, STIRLING WA 6021
@@ -124,7 +124,7 @@ people:
     suffix: MLA
     roles:
       - Member for Geraldton
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Shop 2, 5 Chapman Road, Geraldton WA 6530
@@ -152,7 +152,7 @@ people:
     suffix: MLA
     roles:
       - Member for Morley
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite 1, Centro Galleria Shopping Centre, Collier Road, Morley WA 6062
@@ -201,7 +201,7 @@ people:
     suffix: MLA
     roles:
       - Member for Bunbury
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: 4B Spencer Street, Bunbury WA 6230
@@ -233,7 +233,7 @@ people:
     suffix: MLC
     roles:
       - Member for Mining and Pastoral Region
-    party: GWA
+    party: GRN
     contact:
       electoral:
         address: 41 Havelock Street, WEST PERTH WA 6005
@@ -249,7 +249,7 @@ people:
     roles:
       - Parliamentary Secretary to the Minister for Transport; Finance
       - Member for Agricultural Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: 5 Harvest Terrace, WEST PERTH WA 6005
@@ -278,7 +278,7 @@ people:
     roles:
       - Minister for Education; Aboriginal Affairs; Electoral Affairs
       - Member for North Metropolitan Region
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 10th Floor, Dumas House, 2 Havelock Street, WEST PERTH WA 6005
@@ -314,7 +314,7 @@ people:
     suffix: MLA
     roles:
       - Member for Murray-Wellington
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Shop 1, Pinjarra Junction Shopping Centre, Pinjarra WA 6208
@@ -369,7 +369,7 @@ people:
       -  Minister for Planning; Culture and the Arts
       -  Leader of the House    
       - Member for Kalamunda
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 11th Floor, Dumas House, 2 Havelock Street, West Perth WA 6005
@@ -421,7 +421,7 @@ people:
     roles:
       - Government Whip in the Legislative Council
       - Member for South Metropolitan Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Unit 3, 1st Floor, 18 Civic Boulevard, ROCKINGHAM WA 6168
@@ -454,7 +454,7 @@ people:
     suffix: MLC
     roles:
       - Member for Agricultural Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Unit 1, Druids Hall, Corner Durlacher and Sanford Streets, GERALDTON WA 6530
@@ -469,7 +469,7 @@ people:
     suffix: MLA
     roles:
       - Member for Perth
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite 2, 448 Fitzgerald Street, North Perth WA 6006
@@ -486,7 +486,7 @@ people:
     roles:
       - Parliamentary Secretary to the Premier; Minister for State Development; Science
       - Member for East Metropolitan Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Ground Floor, 108 Swan Street, GUILDFORD WA 6055
@@ -532,7 +532,7 @@ people:
     roles:
       - Minister for Emergency Services; Corrective Services; Small Business; Veterans
       - Member for Jandakot
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 7th Floor, Dumas House, 2 Havelock Street, West Perth WA 6005
@@ -568,7 +568,7 @@ people:
     suffix: MLA
     roles:
       - Member for Belmont
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Unit 1, 275 Belmont Avenue, Cloverdale WA 6105
@@ -582,7 +582,7 @@ people:
     suffix: MLC
     roles:
       - Member for South Metropolitan Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Unit 2, 714 Ranford Road, SOUTHERN RIVER WA 6110
@@ -628,7 +628,7 @@ people:
     suffix: MLC
     roles:
       - Member for South West Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Unit 2, 30 Spinnaker Quays, MANDURAH WA 6210
@@ -646,7 +646,7 @@ people:
     roles:
       - Deputy Premier Minister for Health; Training and Workforce Development
       - Member for Dawesville
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 13th Floor, Dumas House, 2 Havelock Street, West Perth WA 6005
@@ -666,7 +666,7 @@ people:
     roles:
       - Minister for Police; Tourism; Road Safety; Women's Interests
       - Member for Scarborough
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 11th Floor, Dumas House, 2 Havelock Street, West Perth WA 6005
@@ -685,7 +685,7 @@ people:
     suffix: MLA
     roles:
       - Member for Balcatta
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite 3, 36 Cedric Street, Stirling WA 6021
@@ -700,7 +700,7 @@ people:
     roles:
       - Parliamentary Secretary to the Deputy Premier; Minister for Health; Training and Workforce Development; and Minister for Police; Tourism; Road Safety; Women's Interests
       - Member for East Metropolitan Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Unit 34, 6 Keane Street, MIDLAND WA 6056
@@ -731,7 +731,7 @@ people:
     roles:
       - President of the Legislative Council
       - Member for South West Region
-    party: LIB
+    party: LP
     contact:
       ministerial:
         adderss: Parliament House, PERTH WA 6000
@@ -750,7 +750,7 @@ people:
     roles:
       - Minister for Environment; Heritage
       - Member for Ocean Reef
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 12th Floor, Dumas House, 2 Havelock Street, West Perth WA 6005
@@ -769,7 +769,7 @@ people:
     suffix: MLA
     roles:
       - Member for Eyre
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: 107 Dempster Street, Esperance WA 6450
@@ -784,7 +784,7 @@ people:
     suffix: MLA
     roles:
       - Member for Hillarys
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite 2, Endeavour House, (Corner Endeavour Road and Banks Avenue), Hillarys WA 6025
@@ -814,7 +814,7 @@ people:
     suffix: MLC
     roles:
       - Member for North Metropolitan Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Unit 1, 632 Newcastle Street, Leederville WA 6007
@@ -845,7 +845,7 @@ people:
     roles:
       - Government Whip
       - Member for Carine
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite 7, 473 Beach Road, Duncraig WA 6023
@@ -859,7 +859,7 @@ people:
     suffix: MLA
     roles:
       - Member for Churchlands
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite 3A, 151 Herdsman Parade, Wembley WA 6014
@@ -873,7 +873,7 @@ people:
     suffix: MLC
     roles:
       - Member for Mining and Pastoral Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Level 1, Sterling House, 8 Parliament Place, WEST PERTH WA 6005
@@ -933,7 +933,7 @@ people:
     roles:
       - Minister for Mines and Petroleum; Housing
       - Member for Nedlands
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 29th Floor, Allendale Square, 77 St Georges Terrace, Perth WA 6000
@@ -990,7 +990,7 @@ people:
     roles:
       - Parliamentary Secretary to the Premier
       - Member for South Perth
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite 8, 219 Canning Highway, South Perth WA 6151
@@ -1020,7 +1020,7 @@ people:
     suffix: MLC
     roles:
       - Member for South West Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Unit 12c, The Link Shopping Centre, Cnr St Emilie Way and Aberdeen Street, Albany WA 6330
@@ -1034,7 +1034,7 @@ people:
     roles:
       - Parliamentary Secretary to the Minister for Commerce
       - Member for Wanneroo
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Wanneroo Central Shopping Centre Precinct, Rocca Way, Wanneroo WA 6065
@@ -1051,7 +1051,7 @@ people:
     roles:
       - Attorney General ; Minister for Commerce
       - Member for North Metropolitan Region
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 10th Floor, Dumas House, 2 Havelock Street, WEST PERTH WA 6005
@@ -1072,7 +1072,7 @@ people:
     roles:
       - Parliamentary Secretary to the Minister for Mental Health; Disability Services; Child Protection
       - Member for Kingsley
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Unit 4, Woodvale Park Commercial Centre, 923 Whitfords Avenue, Woodvale WA 6026
@@ -1088,7 +1088,7 @@ people:
     roles:
       - Minister for Mental Health; Disability Services; Child Protection
       - Member for East Metropolitan Region
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 12th Floor, Dumas House, 2 Havelock Street, WEST PERTH WA 6005
@@ -1107,7 +1107,7 @@ people:
     suffix: MLA
     roles:
       - Member for Forrestfield
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Shops 7 and 8,, High Wycombe Shopping Village,, 530 Kalamunda Road,, High Wycombe WA 6057
@@ -1138,7 +1138,7 @@ people:
     roles:
       - Treasurer; Minister for Energy; Citizenship and Multicultural Interests
       - Member for Riverton
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 13th Floor, Dumas House, 2 Havelock Street, West Perth WA 6005
@@ -1158,7 +1158,7 @@ people:
     roles:
       - Minister for Transport; Finance
       - Member for Alfred Cove
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 7th Floor, Dumas House, 2 Havelock Street, West Perth WA 6005
@@ -1176,7 +1176,7 @@ people:
     suffix: MLA
     roles:
       - Member for Joondalup
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite G3, Sanori House, 126 Grand Boulevard, JOONDALUP WA 6027
@@ -1191,7 +1191,7 @@ people:
     suffix: MLC
     roles:
       - Member for South Metropolitan Region
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: 904 Canning Highway, CANNING BRIDGE WA 6153
@@ -1351,7 +1351,7 @@ people:
     roles:
       - Minister for Local Government; Community Services; Seniors and Volunteering; Youth
       - Member for Darling Range
-    party: LIB
+    party: LP
     contact:
       ministerial:
         address: 8th Floor, Dumas House, 2 Havelock Street, West Perth WA 6005
@@ -1373,7 +1373,7 @@ people:
     roles:
       - Speaker of the Legislative Assembly
       - Member for Mount Lawley
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite 2,, 58 Walcott Street, Mount Lawley WA 6050
@@ -1418,7 +1418,7 @@ people:
     suffix: MLA
     roles:
       - Member for Bateman
-    party: LIB
+    party: LP
     contact:
       electoral:
         address: Suite 12, Riseley Corporate Centre, 135 Riseley Street, Booragoon WA 6154
